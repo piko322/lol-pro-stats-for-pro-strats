@@ -20,13 +20,14 @@ class RiotAnalyzer:
     divisionDict = {"1": "I", "2": "II", "3": "III", "4": "IV"}
 
 
-    def __init__(self, token, region="NA1", version='13.17.1'):
+    def __init__(self, tokens:list, region="NA1", version='13.17.1'):
         if region.upper() not in self.regionDict:
             raise Exception(f"Region {region} not found")
         region_code = self.regionDict[region.upper()]
         self.region_code = region_code
         
-        self.token = token
+        self.tokens = tokens
+        self.token = tokens[0]
         self.version = version
         
         self.header = {
@@ -40,7 +41,16 @@ class RiotAnalyzer:
         
         self.champion_dict = self.get_champion_dict(version)
         
+    def swap_token(self):
+        """Swaps the current token with the next token in the tokens list
+        """
+        current_idx = self.tokens.index(self.token)
+        next_idx = (current_idx + 1) % len(self.tokens)
+        self.token = self.tokens[next_idx]
+        self.header["X-Riot-Token"] = self.token
+        return self.token
         
+    
     def get_champion_dict(self, version=None):
         """Gets a dictionary of champion names and their IDs
 
@@ -135,7 +145,7 @@ class RiotAnalyzer:
         return data
 
 
-    def get_top(self, queue=None, rank=None, region="NA1", keep_top:int=20, start_page:int=1, page_limit:int=99999):
+    def get_top(self, queue=None, rank=None, region="NA1", n:int=20, start_page:int=1, page_limit:int=99999):
         """Takes in the JSON data from get_leaderboard_raw and converts it to a Pandas DataFrame containing the following columns in order:
         tier, division, rank, summonerId, summonerName, leaguePoints, wins, losses, veteran, inactive, freshBlood, queueType
 
@@ -181,7 +191,7 @@ class RiotAnalyzer:
             result_df = result_df.sort_values(by=["leaguePoints", "winrate"], ascending=False)
            
             # Keep only the top x amount rows (default 20)
-            result_df = result_df.head(keep_top)
+            result_df = result_df.head(n)
             page += 1
         
         # Reset the index of the result DataFrame, drop the old index,
