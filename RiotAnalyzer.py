@@ -5,6 +5,7 @@ import time
 class RiotAnalyzer:
     """A class to get data from the Riot API
     """
+    
     regionDict = {"NA1": 'na1', "EUW1": 'euw1', 'EUN1': 'eun1', 'KR': 'kr', 'JP1': 'jp1',
                   'OC1': 'oc1', 'BR1': 'br1', 'LA1': 'la1', 'LA2': 'la2', 'RU': 'ru', 'TR1': 'tr1'}
     queueDict = {
@@ -13,15 +14,21 @@ class RiotAnalyzer:
                         (['flexq', 'flex queue', 'flex'], "RANKED_FLEX_SR"),
                         (['tft', 'tt'], "RANKED_FLEX_TT")] for k in keys
     }
+    
     tierDict = {'d': 'DIAMOND', 'e': 'EMERALD', 'p': 'PLATINUM', 'g': 'GOLD', 's': 'SILVER', 'b': 'BRONZE', 'i': 'IRON'}
+    
     divisionDict = {"1": "I", "2": "II", "3": "III", "4": "IV"}
 
-    def __init__(self, token, region="NA1"):
+
+    def __init__(self, token, region="NA1", version='13.17.1'):
         if region.upper() not in self.regionDict:
             raise Exception(f"Region {region} not found")
         region_code = self.regionDict[region.upper()]
-        self.token = token
         self.region_code = region_code
+        
+        self.token = token
+        self.version = version
+        
         self.header = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
             "Accept-Language": "en-US,en;q=0.9,id;q=0.8,ja;q=0.7",
@@ -30,6 +37,37 @@ class RiotAnalyzer:
             "X-Riot-Token": "RGAPI-9c72c116-9d41-4245-8af9-e431b87bf6cc"
         }
         self.url_template = "https://{region_code}.api.riotgames.com/lol/{endpoint}?{query}"
+        
+        self.champion_dict = self.get_champion_dict(version)
+        
+        
+    def get_champion_dict(self, version=None):
+        """Gets a dictionary of champion names and their IDs
+
+        Args:
+            version (str): The version of the game to get the champion data for
+
+        Returns:
+            dict: A dictionary of champion names and their IDs
+        """
+        if not version:
+            version = self.version
+            
+        url = f"http://ddragon.leagueoflegends.com/cdn/{version}/data/en_US/champion.json"
+        response = requests.get(url)
+        if response.status_code != 200:
+            raise Exception(f"Error {response.status_code} when querying champion data")
+        data = response.json()
+        champion_dict = {}
+        for champion in data["data"]:
+            champion_dict[data["data"][champion]["key"]] = data["data"][champion]["name"]
+        self.champion_dict = champion_dict
+        return champion_dict
+    
+    
+    def get_champion_name(self, champion_code):
+        return self.champion_dict[str(champion_code)]
+    
     
     def get_leaderboard_raw(self, queue, rank:str, region=None, page=1):
         """Gets a certain page of the leaderboard for a specific queue, tier, and division. NOTE: It is not sorted.
@@ -95,6 +133,7 @@ class RiotAnalyzer:
         data = response.json()
 
         return data
+
 
     def get_top(self, queue=None, rank=None, region="NA1", keep_top:int=20, start_page:int=1, page_limit:int=99999):
         """Takes in the JSON data from get_leaderboard_raw and converts it to a Pandas DataFrame containing the following columns in order:
