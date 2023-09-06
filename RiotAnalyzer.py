@@ -7,7 +7,7 @@ class RiotAnalyzer:
     """
     
     regionDict = {"NA1": 'na1', "EUW1": 'euw1', 'EUN1': 'eun1', 'KR': 'kr', 'JP1': 'jp1',
-                  'OC1': 'oc1', 'BR1': 'br1', 'LA1': 'la1', 'LA2': 'la2', 'RU': 'ru', 'TR1': 'tr1'}
+                  'OC1': 'oc1', 'BR1': 'br1', 'LA1': 'la1', 'LA2': 'la2', 'RU': 'ru', 'TR1': 'tr1', "SG2": 'sg2'}
     queueDict = {
         k: v
         for keys, v in [(['soloq', 'solo queue', 'solo'], "RANKED_SOLO_5x5"),

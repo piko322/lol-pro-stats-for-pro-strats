@@ -1,0 +1,426 @@
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+
+
+<title>Student/Class Info</title>
+<link rel="stylesheet" href="//www.ucsd.edu/common/cwp/active-cherry/base-min.css">
+<style type="text/css">
+#tdr_banner {
+	background: transparent url(//students.ucsd.edu/_resources/current_students/css/images/triton-banner.png) center top no-repeat;
+	height: 52px;
+	margin: 0 auto;
+	max-width: 960px;
+	width: 98%;
+}
+
+body.fluid #tdr_banner {
+	max-width: none;
+}
+</style>
+<style type="text/css">
+#tdr_nav ul #current_students_nav a {
+	background: transparent url(//students.ucsd.edu/_resources/student_global/css/images/current_students_primary_nav.png) 2px 0 no-repeat;
+	background-color: #E3EDF8;
+    background-color: rgba(255, 255, 255, 0.4);
+    text-indent: -9999px;
+    width: 94px;
+}
+
+#tdr_nav ul #current_students_nav a:hover {
+	background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+@media only screen and (max-width: 768px) {
+	#tdr_nav ul #current_students_nav a {
+		width: auto;
+	}
+}
+</style>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//www.ucsd.edu/common/cwp/active-cherry/base-min.js"></script>
+<script src="//www.ucsd.edu/common/_emergency-broadcast/message.js"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+	
+	
+    <script type="text/javascript" src="/scheduleOfClasses/js/submit_form.js"></script>
+    
+<meta name="webapp.name" content="Instruction Tools">
+<meta name="webapp.url" content="http://blink.ucsd.edu/instructors/index.html">
+<meta name="display.crumbs" content="none">
+<meta name="display.search" content="none">
+
+<link href="/scheduleOfClasses/css/sch_classes.css" type="text/css" rel="stylesheet" media="all">
+<link href="//www.ucsd.edu/common/cwp/active-cherry/lib/jquery.dataTables-1.9.0/jquery.dataTables-min.css" media="all" rel="stylesheet" type="text/css">
+<link href="//www.ucsd.edu/common/cwp/active-cherry/lib/jquery-ui-1.8.18/jquery-ui-min.css" media="all" rel="stylesheet" type="text/css">
+
+<script src="//www.ucsd.edu/common/cwp/active-cherry/lib/jquery-ui-1.8.18/jquery-ui-min.js" type="text/javascript"></script>
+<script src="//www.ucsd.edu/common/cwp/active-cherry/lib/jquery.dataTables-1.9.0/jquery.dataTables-min.js" type="text/javascript"></script>
+<style type="text/css">
+td.brdr {
+    border-bottom-style:solid;
+	border-bottom-width:1px;
+	border-bottom-color:#D0D0D0;
+}
+td.ubrdr {
+    border-top-style:solid;
+	border-top-width:1px;
+	border-top-color:#D0D0D0;
+}
+table.tbrdr{
+	border-style:solid;
+	border-width:1px;
+	border-color:#D0D0D0;
+</style>
+
+</head>
+
+<body>
+
+	
+
+
+
+
+
+
+
+
+
+<!-- env -->
+
+<!-- emergency -->
+<div id="uc-emergency"></div>
+<!-- skip to content -->
+<a class="skip-link" href="#tdr_content">Skip to content</a>
+<!-- login -->
+
+<div id="tdr_login" style="display: none"></div>
+<script type="text/javascript">
+(function($) {
+    $(document).ready(function() {
+        $.ajax({
+            url: "https://a4.ucsd.edu/tritON/resources/bugscript.jsp?target=https%3A%2F%2Fwww.ucsd.edu&jsoncallback=?",
+            dataType: 'jsonp',
+            jsonpCallback: 'a4sso',
+            success: function(data) {
+                if (data.eduUcsdActLoggedin) {
+                    var url = "<div id=\"tdr_login_content\">You are logged in | <a href=\"/security/student/logout?url=";
+                    url += "http://students.ucsd.edu";
+                    url += "\">Log Out</a></div>";
+                    $("#tdr_login").empty();
+                    $("#tdr_login").append(url);
+                    $("#tdr_login").attr("style", "display:block");
+                }
+            },
+            error: function(jqXHR, textStatus) {
+                console.log("error trying to communicate with a4 sso: " + textStatus);
+            }
+        });
+    });
+})(jQuery);
+</script>
+
+
+	<!-- title -->
+	<div id="tdr_title">
+		<div id="tdr_title_content">
+			<a id="tdr_title_ucsd_title" href="http://www.ucsd.edu">UC San Diego</a>
+			<div id="tdr_title_page_title">
+				<a href="/myTritonlink20">My TritonLink</a>
+			</div>
+			<a id="tdr_title_search_link" class="search-button" style="display: none">Search</a>
+            <a id="tdr_title_menu_link">Menu</a>
+		</div>
+	</div>
+<!-- $Id: academic-student-current.jsp 1190 2022-07-15 17:44:27Z ssekar $ -->
+
+<div id="tdr_nav" style="display: ">
+    <div id="tdr_nav_content">
+        <ul id="tdr_nav_list" class="sf-js-enabled sf-shadow">
+            <li id="current_students_nav"><a href="http://tritonlink.ucsd.edu">TritonLink</a></li>
+            <li class="dropdown"><a aria-expanded="false" class="dropdown-toggle" data-close-others="true" data-hover="dropdown" href="">Advising &amp; Grades</a>
+                <ul style="display: none; visibility: hidden;">
+                    <li><a href="/studentAcademicHistory/academichistorystudentdisplay.htm">Academic History</a></li>
+                    <li><a href="https://myccr.ucsd.edu/home.htm">Co-Curricular Record</a></li>
+                    <li><a href="/studentDars/select">Degree Audit</a></li>
+                    <li><a href="https://degree-planner.ucsd.edu/">Degree Planner</a></li>
+                    <li><a href="http://ucsd.edu/catalog/">General Catalog</a></li>
+                    <li><a href="/studentGpa/gpa">GPA Calculator</a></li>
+                    <li><a href="/studentMajorMinorChange2/majorminorchange">Major &amp; Minor</a></li>
+                    <li><a href="http://real.ucsd.edu">REAL Portal</a></li>
+                    <li><a href="/studentETranscript/order.htm">Order Official Documents</a></li>
+                    <li><a href="http://vac.ucsd.edu">Virtual Advising Center</a></li>
+                </ul></li>
+            <li class="dropdown"><a aria-expanded="false" class="dropdown-toggle" data-close-others="true" data-hover="dropdown" href="">Classes &amp; Enrollment</a>
+                <ul style="display: none; visibility: hidden;">
+                    <li><a href=" https://academicaffairs.ucsd.edu/Modules/Students/PreAuth">Enrollment Authorization System (EASy)</a></li>
+                    <li><a href="/studentHolds/holds">Holds</a></li>
+                    <li><a href="/scheduleOfClasses/scheduleOfClassesStudent.htm">Schedule of Classes</a></li>
+                    <li><a href="http://coursefinder.ucsd.edu">TritonEd/Canvas</a></li>
+                    <li><a href="/webreg2">WebReg</a></li>
+                </ul></li>
+            <li class="dropdown"><a aria-expanded="false" class="dropdown-toggle" data-close-others="true" data-hover="dropdown" href="">Financial Tools</a>
+                <ul style="display: none; visibility: hidden;">
+                    <li><a href="https://itsweb.ucsd.edu/studentEBill2/StudentBilling">Billing and Payment</a></li>
+                    <li><a href="https://itsweb.ucsd.edu/studentDirectDeposit2/DirectDeposit">Students Direct Deposit</a></li>
+                    <li><a href="/studentFinancialAid/financialaiddisplay.htm">Financial Aid</a></li>
+                    <li><a href="/studentShsHealthWaiver/healthwaiverdisplay.htm">Health Fee Waiver/RAFT</a></li>                    
+            		<li><a href="https://ucsd-transportation.t2hosted.com/Account/Portal">Parking Permits</a></li>
+                    <li><a href="https://student-sis.ucsd.edu/studenttuitioninformation">Tuition Information</a></li>
+                </ul>
+            </li>
+            <li class="dropdown"><a aria-expanded="false" class="dropdown-toggle" data-close-others="true" data-hover="dropdown" href="">Personal Tools</a>
+                <ul style="display: none; visibility: hidden;">
+                    <li><a href="/studentAddresses2/addresses">Addresses</a></li>
+                    <li><a href="/studentAddresses2/infoRestrictions">Public Information Restriction</a></li>
+                    <li><a href="/studentAddresses2/socialIdentities">Social Identities</a></li>
+                    <li><a href="https://ucsd.joinhandshake.com">Handshake</a></li>
+                </ul></li>
+            <li class="dropdown"><a aria-expanded="false" class="dropdown-toggle" data-close-others="true" data-hover="dropdown" href="">Student Forms</a>
+                <ul style="display: none; visibility: hidden;">
+                    <li><a href="http://students.ucsd.edu/finances/financial-aid/forms/">Financial Aid Forms</a></li>
+                    <li><a href="http://students.ucsd.edu/my-tritonlink/forms/">All Forms</a></li>
+                </ul>
+            </li>
+            <li class="dropdown"><a aria-expanded="false" class="dropdown-toggle" data-close-others="true" data-hover="dropdown" href="">Help</a>
+                <ul style="display: none; visibility: hidden;">
+                    <li><a href="http://www.ucsd.edu/current-students/my-tritonlink/tools/tool-help/index.html">MyTritonLink Tools Help</a></li>
+                    <li><a href="//act.ucsd.edu/cwp/feedback/help/tritonlink" onclick="window.open('//act.ucsd.edu/cwp/feedback/help/tritonlink', 'DYGWYW', 'menubar=0,resizable=1,scrollbars=1,width=450,height=650');" target="DYGWYW">Request Assistance</a>
+                    </li>
+                </ul>
+            </li>
+            
+        </ul>
+    </div>
+</div>
+<div id="tdr_search" style="display: none">
+    <div id="tdr_search_content">
+        <form action="//act.ucsd.edu/cwp/tools/search-redir" method="get">
+            <label for="search-scope">Search</label> <select id="search-scope" name="search-scope">
+                <option selected="selected" value="tritonlink">This Site</option>
+                <option value="default_collection">All UCSD Sites</option>
+                <option value="faculty-staff">Faculty/Staff Directory</option>
+            </select> <label for="search-term" id="search-term-label">Search Term</label> <input type="search" id="search-term" name="search-term" size="20"> <input type="submit" class="search-button" value="Search">
+        </form>
+    </div>
+</div>
+<div id="tdr_banner" style="display: block"></div>
+<div id="tdr_crumbs" style="display: none">
+	<div id="tdr_crumbs_content"></div>
+</div>
+<div id="tdr_content" class="tdr_fonts itag_webapp">
+	<div id="tdr_content_content">
+		<!-- $Id: schedule-of-classes-student-result.jsp 388 2023-07-06 20:44:33Z mdrajeske $ -->
+
+
+
+
+
+
+
+	<div>
+		<h1>Schedule of Classes </h1>
+
+		<form id="socDisplayCVO" action="/scheduleOfClasses/scheduleOfClassesStudentResult.htm" method="post">
+			
+			
+			  <input type="hidden" id="loggedIn" name="loggedIn" value="false">
+			  
+			 <div class="msg confirm">
+						Your search was : 
+						<br>
+						<ul>
+							
+							<li>Term
+								<ul>
+									<li>Fall Quarter 2023  </li>
+								</ul>
+							</li>
+						</ul>
+						
+						
+						<ul>	
+							
+							
+						</ul>
+						
+						
+						<ul>
+							
+							
+						</ul>
+						 
+						 
+						 <ul>	
+							
+							
+						  </ul>
+						  
+						  
+						  <ul>	
+							
+							
+						  </ul>
+						  
+						  
+						  <ul>
+							
+							
+						   </ul>
+						   
+						   
+						   <ul>
+							
+							
+						   </ul>
+						   
+						   
+						   <ul>
+							
+							
+						   </ul>
+						   
+						   
+						   <ul>
+							
+								
+								
+									<li>Subject is MATH - Mathematics                   
+									
+										<ul>
+											<li>
+													
+													
+														Course number is exactly
+													
+												
+												<ul> 
+													<li>193A </li>
+												</ul>
+											</li>
+										</ul>
+										
+									</li>
+								
+							
+						   </ul>
+						   <ul>
+							
+							
+						   </ul>
+						   <ul>
+							
+							
+						</ul>
+					</div>
+					
+					
+		
+		
+		
+			
+			
+				<div class="msg alert">
+					No Result Found. Try another search.
+					<br>
+					<br>
+					<a href="/scheduleOfClasses/scheduleOfClassesStudent.htm">Start a new search</a>
+				</div>
+			
+		
+		
+		
+		<script>
+			function openNewWindow (url, name) {
+				if (navigator.appName == "Microsoft Internet Explorer") {
+						window.open(url, name, "width=640,height=480,scrollbars=yes,resizable=yes,menubar=no,status=yes,location=no,toolbar=no");
+				}
+				else {
+						win = window.open(url, name, "width=640,height=480,scrollbars=yes,resizable=yes,menubar=no,status=yes,location=no,toolbar=no");
+						win.focus();
+				}
+			}
+			(function($) {
+				$(document).ready(function() {
+				
+				
+				//data table
+					$("#socDeptTab").dataTable({
+						"bPaginate" : true,
+						"bLengthChange": false,
+						"bFilter": false,
+						"bInfo": false,
+						"bSort": false,
+						"bJQueryUI": true,
+						"sPaginationType": "full_numbers",
+						"iDisplayLength": 2,
+	
+						"fnRowCallback": function( nRow, aData, iDisplayIndex, iDisplayIndexFull ) {
+							 var color1 = 'white';
+							 $(nRow).css('background-color', color1);
+							 $("#socDeptTab thead").remove();
+						}
+					});
+					
+						//data table
+					/*$(".datatable").dataTable({
+						"bPaginate" : true,
+						"bLengthChange": true,
+						"bFilter": false,
+						"bInfo": true,
+						"sPaginationType": "full_numbers",
+						"bJQueryUI": true,
+						"iDisplayLength": 10,
+					});*/
+				});
+			})(jQuery);
+		</script>
+		</form>
+	</div>
+
+	</div>
+</div>
+<!-- footer -->
+<div id="tdr_footer">
+    <div id="tdr_footer_content">
+        <div>UC San Diego 9500 Gilman Dr. La Jolla, CA 92093 (858) 534-2230</div>
+        <div>
+            Copyright ©<span id="tdr_copyright_year">2015</span> Regents of the University of California. All rights reserved.
+        </div>
+        <ul id="tdr_footer_links">
+            <li><a href="http://www.ucsd.edu/_about/legal/index.html">Terms &amp; Conditions</a></li>
+            <li id="tdr_footer_feedback" class="last"><a href="//act.ucsd.edu/cwp/feedback/tool/apps" onclick="window.open('//act.ucsd.edu/cwp/feedback/help/tritonlink', 'DYGWYW', 'menubar=0,resizable=1,scrollbars=1,width=450,height=650');" target="DYGWYW">Feedback</a></li>
+        </ul>
+    </div>
+</div>
+
+<!-- shib timeout -->
+<img src="https://a4.ucsd.edu/tritON/imagebug" alt=" " style="display: none;">
+<!-- google analytic -->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-24480055-22"]);
+  _gaq.push(['_setDomainName', "ucsd.edu"]);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<script id="f5_cspm">(function(){var f5_cspm={f5_p:'JAEKMIDDBHOGDGGOHDGECJGIABCJCLNKBGINACPPCOGDDFENFCEOBOBHHINIOFNJPIMBAOFGBMCJLNBPADIACEOHBKALCOADEJHIILMIDPDHEHGIFFMLNCMLEPFCFCDM',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr0581856703aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+{var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+f5_cspm.go();}());</script></body></html>
