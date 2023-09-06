@@ -1,1 +1,1 @@
-# lol-pro-stats-for-pro-strats
+# League of Legends: Pro Stats for Pro Strats
