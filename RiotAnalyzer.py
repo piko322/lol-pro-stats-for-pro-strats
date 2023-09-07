@@ -211,8 +211,8 @@ class RiotAnalyzer:
             print("Error: ", response.status_code)
         else:
             name_data = response.json()
-        puuid = name_data["puuid"]
-        return puuid
+            puuid = name_data["puuid"]
+            return puuid
     
     def get_mastery(self, puuid:str, region_code:str="NA1"):
         url = self.url_template.format(region_code=region_code, endpoint=f"champion-mastery/v4/champion-masteries/by-puuid/{puuid}", query="page=1")
