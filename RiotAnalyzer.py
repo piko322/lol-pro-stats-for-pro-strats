@@ -7,8 +7,9 @@ class RiotAnalyzer:
     """A class to get data from the Riot API
     """
     
-    regionDict = {"NA1": 'na1', "EUW1": 'euw1', 'EUN1': 'eun1', 'KR': 'kr', 'JP1': 'jp1',
-                  'OC1': 'oc1', 'BR1': 'br1', 'LA1': 'la1', 'LA2': 'la2', 'RU': 'ru', 'TR1': 'tr1', "SG2": 'sg2'}
+    regionDict = {"NA": 'na1', "EUW": 'euw1', 'EUN': 'eun1', 'KR': 'kr', 'JP': 'jp1',
+                  'OC': 'oc1', 'BR': 'br1', 'LA1': 'la1', 'LA2': 'la2', 'RU': 'ru', 'TR': 'tr1', "SG": 'sg2',
+                  "LAN":'la1', "LAS": 'la2'}
     queueDict = {
         k: v
         for keys, v in [(['soloq', 'solo queue', 'solo'], "RANKED_SOLO_5x5"),
@@ -21,7 +22,7 @@ class RiotAnalyzer:
     divisionDict = {"1": "I", "2": "II", "3": "III", "4": "IV"}
 
 
-    def __init__(self, tokens:list, region="NA1", version='13.17.1'):
+    def __init__(self, tokens:list, region="NA", version='13.17.1'):
         if region.upper() not in self.regionDict:
             raise Exception(f"Region {region} not found")
         region_code = self.regionDict[region.upper()]
@@ -36,10 +37,10 @@ class RiotAnalyzer:
             "Accept-Language": "en-US,en;q=0.9,id;q=0.8,ja;q=0.7",
             "Accept-Charset": "application/x-www-form-urlencoded; charset=UTF-8",
             "Origin": "https://developer.riotgames.com",
-            "X-Riot-Token": "RGAPI-9c72c116-9d41-4245-8af9-e431b87bf6cc"
+            "X-Riot-Token": self.token
         }
         self.url_template = "https://{region_code}.api.riotgames.com/lol/{endpoint}?{query}"
-        
+        self.champion_dict = None
         self.champion_dict = self.get_champion_dict(version)
         
     def swap_token(self):
@@ -63,7 +64,8 @@ class RiotAnalyzer:
         """
         if not version:
             version = self.version
-            
+        elif self.champion_dict and version == self.version:
+            return self.champion_dict
         url = f"http://ddragon.leagueoflegends.com/cdn/{version}/data/en_US/champion.json"
         response = requests.get(url)
         if response.status_code != 200:
@@ -146,7 +148,7 @@ class RiotAnalyzer:
         return data
 
 
-    def get_top(self, queue=None, rank=None, region="NA1", n:int=20, start_page:int=1, page_limit:int=99999):
+    def get_top(self, queue=None, rank=None, region="NA", n:int=20, start_page:int=1, page_limit:int=99999):
         """Takes in the JSON data from get_leaderboard_raw and converts it to a Pandas DataFrame containing the following columns in order:
         tier, division, rank, summonerId, summonerName, leaguePoints, wins, losses, veteran, inactive, freshBlood, queueType
 
@@ -204,29 +206,42 @@ class RiotAnalyzer:
     
         return result_df
 
-    def get_puuid(self, name:str, region_code:str="NA1"):
+    def get_puuid(self, name:str, region_code:str="NA"):
+        if region_code in self.regionDict.keys():
+            region_code = self.regionDict[region_code]
         url = self.url_template.format(region_code=region_code, endpoint="summoner/v4/summoners/by-name/"+name, query="page=1")
+
         response = requests.get(url, headers=self.header)
         if response.status_code != 200:
-            print("Error: ", response.status_code)
+            raise Exception("Error with response code: {}".format(response.status_code))
         else:
             name_data = response.json()
-        puuid = name_data["puuid"]
-        return puuid
+            puuid = name_data["puuid"]
+            return puuid
     
-    def get_mastery(self, puuid:str, region_code:str="NA1"):
+    def get_mastery(self, puuid:str, region_code:str="NA"):
+        if region_code in self.regionDict.keys():
+            region_code = self.regionDict[region_code]
         url = self.url_template.format(region_code=region_code, endpoint=f"champion-mastery/v4/champion-masteries/by-puuid/{puuid}", query="page=1")
+        
         response = requests.get(url, headers=self.header)
         if response.status_code != 200:
-            print("Error: ", response.status_code)
+            raise Exception(f"Error {response.status_code} when querying mastery")
         else:
             return response.json()
     
-    def search_mastery_by_summoner_name(self, name, region_code:str="NA1"):
+    def get_mastery_by_summoner_name(self, name, region_code:str="NA"):
+
+        if region_code in self.regionDict.keys():
+            region_code = self.regionDict[region_code]
+        elif region_code not in self.regionDict.values():
+            raise Exception(f"Region {region_code} not found")
+        
         puuid = self.get_puuid(name, region_code)
         mastery = self.get_mastery(puuid,region_code)
         df = pd.DataFrame(mastery)
-        df["championName"] = df["championId"].apply(lambda x: self.champ_dict[str(x)])
+        
+        df["championName"] = df["championId"].apply(lambda x: self.get_champion_dict()[str(x)])
         df = df[["championName", "championLevel", "championPoints", "lastPlayTime"]]
         df["lastPlayDate"] = df["lastPlayTime"].apply(lambda x: datetime.fromtimestamp(x/1000))
         df["lastPlayTime"] = df["lastPlayTime"].apply(lambda x: datetime.fromtimestamp(x/1000).strftime("%b %d %H:%M"))
