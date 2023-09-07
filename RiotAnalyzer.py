@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
 import time
+from datetime import datetime
 
 class RiotAnalyzer:
     """A class to get data from the Riot API
@@ -202,3 +203,37 @@ class RiotAnalyzer:
         print("Total entries:", total_entries)
     
         return result_df
+
+    def get_puuid(self, name:str, region_code:str="NA1"):
+        url = self.url_template.format(region_code=region_code, endpoint="summoner/v4/summoners/by-name/"+name, query="page=1")
+        response = requests.get(url, headers=self.header)
+        if response.status_code != 200:
+            print("Error: ", response.status_code)
+        else:
+            name_data = response.json()
+        puuid = name_data["puuid"]
+        return puuid
+    
+    def get_mastery(self, puuid:str, region_code:str="NA1"):
+        url = self.url_template.format(region_code=region_code, endpoint=f"champion-mastery/v4/champion-masteries/by-puuid/{puuid}", query="page=1")
+        response = requests.get(url, headers=self.header)
+        if response.status_code != 200:
+            print("Error: ", response.status_code)
+        else:
+            return response.json()
+    
+    def search_mastery_by_summoner_name(self, name, region_code:str="NA1"):
+        puuid = self.get_puuid(name, region_code)
+        mastery = self.get_mastery(puuid,region_code)
+        df = pd.DataFrame(mastery)
+        df["championName"] = df["championId"].apply(lambda x: self.champ_dict[str(x)])
+        df = df[["championName", "championLevel", "championPoints", "lastPlayTime"]]
+        df["lastPlayDate"] = df["lastPlayTime"].apply(lambda x: datetime.fromtimestamp(x/1000))
+        df["lastPlayTime"] = df["lastPlayTime"].apply(lambda x: datetime.fromtimestamp(x/1000).strftime("%b %d %H:%M"))
+        df["percent"] = df["championPoints"]/df["championPoints"].sum()
+        df["percent"] = df["percent"].apply(lambda x: "{:.2%}".format(x))
+        df.index += 1
+        df.index.name = "Rank"
+        return df
+
+    
