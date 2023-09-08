@@ -1,0 +1,16 @@
+Gathering the data:
+•	Scraped data from ???, using ???. Data is then cleaned using python scripts and built into a single dataframe with accounts for all active professional players in a major pro team.
+•	Developed a function to extract data from Riot API given a playername and region, data is then converted into an individual dataframe for that player, where the champion mastery points is displayed for each champion. 
+•	Then scraped each champion’s positional data from LeagueofGraphs again using ???. Using this, we were able to how often each individual champion is played in each of the 5 positions.
+Transforming data:
+•	Using the LeagueOfGraphs scraped data, we were able to assign each champion to their role(s). A champion was said to have a role (e.g jungle) if their playrate in that role exceeded approximately 15% of that champion’s total playrate. From this data we were able to approximate how of a pro’s mastery points are spent on each role.
+•	Using this data we were able to calculate each pro’s offrole percentage. We did this by dividing that player’s mastery points on characters that are not assigned to their main role by the player’s total mastery points. 
+•	We also created a new index for pro players, what we’ve called the Onetrick index. All players are assigned a Onetrick score between 0 and 9939. A player with a score of 0 is someone who has played every single champ in the game equally, the farthest away from being a onetrick. On the other hand, a player with a score of 9939 has played the game champion for every single game, the most hardcore onetrick. To calculate a player’s Onetrick score we calculated each player’s percentage of mastery on each champion and then subtracted (100/164), the mean value if all champs were played equally. We then took the sum of the values to calculate the score. In statistical terms, the onetrick index is the mean squared error of a player’s mastery score when compared to a perfectly uniform distribution. 
+Visualizing our data:
+•	To visualize our data we imported the datasets into Microsoft PowerBI. We did this to create an easier way to quickly visually compare the results for different pro players, and to allow an average user to search up their favorite pro players and quickly see what champions they play. 
+•	We decided that a donut chart was the best way to represent this, as it’s easy to understand that the circumference makes up a player’s total playtime, and each segment represents an individual champion.
+•	One issue we had is that smaller champion’s sections are very hard to see visually, so we added a search mechanism that allows you to search for an individual champion and then highlights their segment on the chart. 
+Skills:
+•	Data scraping (???)
+•	Database Querying (Pandas)
+•	Data Visualization (Pandas and Microsoft PowerBI) 
