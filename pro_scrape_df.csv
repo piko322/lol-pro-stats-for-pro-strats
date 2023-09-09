@@ -1,7 +1,7 @@
 Official Summoner Name,ids,Roles
 Baldan,{},Top Laner
 Forlin,{},Top Laner
-Tay,"{'BR:': ['7ay', 'Esdeath', 'FPXzhaoTOP303485'], 'CN:': ['BR01']}",Top Laner
+Tay,"{'None': ['BR: 7ay', 'Esdeath', 'FPXzhaoTOP303485CN: BR01']}",Top Laner
 Disamis,{},Jungler
 Ancrath,{},Jungler
 Hauz,{},Mid Laner
@@ -9,7 +9,7 @@ Picknn,{},Mid Laner
 Xoska,{},Mid Laner
 Kojima,{},Bot Laner
 Brance,{'None': ['LLL Brance']},Bot Laner
-JoJo,"{'BR:': ['v J o J o'], 'EUW:': ['Aegis fangirlQAQ']}",Support
+JoJo,{'None': ['BR: v J o J oEUW: Aegis fangirlQAQ']},Support
 Kick,{},Support
 Turtle,{},Coach
 ONMETA,{},Coach
@@ -41,22 +41,22 @@ Juzo,{},Bot Laner
 NinjaKiwi,{},Bot Laner
 Look,{},Support
 Thominhas,{},Support
-Nia,{'KR:': ['연애꽃1']},Support
+Nia,{'None': ['KR: 연애꽃1']},Support
 Strazzi,{},Coach
 Aoshi,{},Coach
 Kuma,{},Coach
 Khorn,{},Coach
 SuperCleber,{},Top Laner
-Lonely,{'KR:': ['FA Lonely']},Top Laner
+Lonely,{'None': ['KR:FA Lonely']},Top Laner
 Scary,{},Jungler
-Samkz,"{'BR:': ['Samkz'], 'NA:': ['AK Samkz', 'Samkzlol', 'AK Samkz1', 'My Ðream CBLOL', 'My Dream CBLOL', 'Baby Halier'], 'LAN:': ['llaSamkz']}",Jungler
+Samkz,"{'None': ['BR: SamkzNA: AK Samkz', 'Samkzlol', 'AK Samkz1', 'My Ðream CBLOL', 'My Dream CBLOL', 'Baby HalierLAN: llaSamkz']}",Jungler
 Dioge,{},Mid Laner
 Krastyel,"{'None': ['Krastyel1', 'GFX Krastyel', 'EXP Krastyel', 'OVL Krastyel', 'TSW Krastyel', 'NAO DO ROAMING']}",Mid Laner
 DOPPLER,{},Bot Laner
 Scuro,{},Bot Laner
 RAV3N,{},Bot Laner
 Guigs,{},Support
-RedBert,"{'BR:': ['RedBert', 'NimoTV RedBert'], 'CN:': ['BR05']}",Support
+RedBert,"{'None': ['BR: RedBert', 'NimoTV RedBertCN: BR05']}",Support
 ti0ben,{},Coach
 Medina,{},Coach
 SkB,{},Top Laner
@@ -64,7 +64,7 @@ Lukshy,{},Top Laner
 Kiari,{},Top Laner
 accez,{},Jungler
 Drakehero,{},Jungler
-Avenger,"{'BR:': ['presetdocalabras'], 'EUW:': ['presetdocalabras']}",Mid Laner
+Avenger,{'None': ['BR: presetdocalabrasEUW: presetdocalabras']},Mid Laner
 carlins,{},Analyst
 Piloto,{'None': ['frozen q congela']},Mid Laner
 Juliera,{},Bot Laner
@@ -83,7 +83,7 @@ JotaEmeZ,{},Top Laner
 CrjaY,{},Jungler
 Neyzz,{},Mid Laner
 Allezs,{},Mid Laner
-Lava,{'KR:': ['BRO Lava lavazz']},Mid Laner
+Lava,{'None': ['KR: BRO Lava lavazz 골목대장 태훈이']},Mid Laner
 Netuno,{},Bot Laner
 Celo,{},Bot Laner
 Ranger,"{'None': ['R de Langer', 'AFF É O RANGER', 'Ranger RXRXRXRX', 'BG Lenovo Rngr']}",Support
@@ -93,29 +93,29 @@ Stardust,{},Coach
 Samyy,{},Coach
 Mytka,{},Analyst
 Makes,{},Top Laner
-Robo,"{'BR:': ['ROBOCA DE SACOLA'], 'EUW:': ['É O ROBS']}",Top Laner
+Robo,{'None': ['BR: ROBOCA DE SACOLAEUW: É O ROBSROBOOOOO']},Top Laner
 Sephis,{},Coach
 Hugato,{},Jungler
-Croc,{'EUW': [': no item JG']},Jungler
+Croc,{'EUW': 'no item JG'},Jungler
 Anyyy,{'None': ['a famosa annie1']},Mid Laner
 Ryanzin,{},Mid Laner
-tinowns,"{'BR:': ['LOUD tinowns2'], 'EUW:': ['MSI KDA PLAYER']}",Mid Laner
-ROUTE,{'KR:': ['Liiv Route']},Bot Laner
+tinowns,{'None': ['BR: LOUD tinowns2EUW: MSI KDA PLAYER']},Mid Laner
+ROUTE,{'None': ['KR: Liiv Route']},Bot Laner
 Sant,{},Bot Laner
 Ceos,"{'None': ['Céos', 'Ceoszinho', 'c4tatal']}",Support
 Vahvel,{},Support
 BeellzY,{},Coach
 Shaquinn,{},Coach
 Palkya,{},Coach
-Wizer,{'KR:': ['BRION Wizer']},Top Laner
+Wizer,{'None': ['KR: BRION Wizer']},Top Laner
 Yupps,{},Top Laner
 junyxb,{},Jungler
 anato,{},Jungler
-CarioK,"{'BR:': ['paiN JG1'], 'EUW:': ['ZKQMDSHY']}",Jungler
+CarioK,{'None': ['BR: paiN JG1EUW: ZKQMDSHY']},Jungler
 dyNquedo,"{'KR': ['MC DYNQUEDO', 'zeca urubu']}",Mid Laner
 Qats,{},Mid Laner
 kksh,{},Bot Laner
-Bvoy,"{'KR': [': MSF BVOY', 'its time 2 carry'], 'NA': [': Bvoy7', 'EST Bvoy', 'Bvoyz', 'Bvoy3', 'Pick Bvoy', 'BVOYXD'], 'LAN': [': llaBvoy']}",Bot Laner
+Bvoy,"{'KR': 'MSF BVOY, its time 2 carry', 'NA': 'Bvoy7, EST Bvoy, Bvoyz, Bvoy3, Pick Bvoy, BVOYXD', 'LAN': 'llaBvoy'}",Bot Laner
 ProDelta,{'None': ['Pro Delta']},Support
 Griba,{},Support
 Miss,{},Support
@@ -125,13 +125,13 @@ Sarkis,{},Coach
 Djoko,"{'None': ['Djoko', 'DJOKOZOR', 'BIood Reina']}",Jungler
 Beta32,{},Top Laner
 fNb,"{'None': ['burn to emerge', 'PRG fNb', 'lwasbornforthis', 'fNb s2 Trigod']}",Top Laner
-Aegis,"{'BR:': ['Aegis'], 'EUW:': ['JoJo fangirlQAQ']}",Jungler
+Aegis,{'None': ['BR: AegisEUW: JoJo fangirlQAQ']},Jungler
 Soweto,{},Jungler
 doom,{},Jungler
 Peco,{},Mid Laner
-Envy,"{'BR:': ['Envyyy'], 'CN:': ['BR03']}",Mid Laner
+Envy,{'None': ['BR: EnvyyyCN: BR03']},Mid Laner
 Aithusa,{},Mid Laner
-TitaN,"{'BR:': ['TitaN'], 'EUW:': ['Lasthitmagic']}",Bot Laner
+TitaN,{'None': ['BR: TitaNEUW: Lasthitmagic']},Bot Laner
 Morttheus,{},Bot Laner
 frosty,{'None': ['frosty2']},Support
 scamber,"{'None': ['scamber', 'scamber2']}",Support
@@ -139,12 +139,12 @@ Kalec,{},Coach
 Nelson,{},Coach
 lanterninho,{},Coach
 jotaV,{},Coach
-Guigo,{'EUW:': ['ssibal mosquitos']},Top Laner
+Guigo,{'None': ['EUW: ssibal mosquitos']},Top Laner
 Sigmaros,{},Manager
 Tyrin,"{'None': ['tyrxn', 'limitless boy', 'Tyrin']}",Top Laner
 Sting,{'None': ['JUGKING']},Jungler
-Grell,"{'NA:': ['Gréll', 'Amaid0ll', 'Pinwinasio']}",Jungler
-Grevthar,"{'BR:': ['Grevzin'], 'EUW:': ['B99 PERALTHAR']}",Mid Laner
+Grell,"{'None': ['NA: Gréll', 'Amaid0ll', 'Pinwinasio']}",Jungler
+Grevthar,{'None': ['BR: GrevzinEUW: B99 PERALTHAR']},Mid Laner
 Leleko,{},Mid Laner
 Trigo,"{'None': ['tr1go', 'Sidney Royel', 'Trigo 11']}",Bot Laner
 Stepz,{},Bot Laner
@@ -155,6 +155,142 @@ Von,{},Coach
 Hypno,{},Analyst
 Patron,{},Coach
 Mitohara,{},Coach
+Demon,{},Top Laner
+Hope,{'None': ['KR: ytmrytmr2']},Bot Laner
+Iwandy,{'None': ['KR: danjuan roseEUW: GNLGNL']},Support
+Shanks,{'None': ['KR: qian lai mai gua']},Mid Laner
+Heng,{},Jungler
+Biubiu,{'None': ['KR: sanbintouhao']},Top Laner
+Crisp,{'None': ['KR: woshissmyueqianlongmain to a sleepEUW: sdasdasdwoshidoinb']},Support
+Light,{'None': ['EUW: laozitianye']},Bot Laner
+Xiaohu,{'None': ['KR: kannibiaoyanasdfdkkkszEUW: RNG1etmeXXWCGMLBJHHHlucky iceland']},Mid Laner
+Karsa,{'None': ['CN: 夜奏花KR: haoyunpizzahaoyunsenmingLycor1s']},Jungler
+KennyChan,{},Jungler
+TheShy,{'None': ['CN: qeawasdasdKR: The shy협곡에갇힌자벌꿀오소리의주먹henrenzhenderenEUW: baxsxasd']},Top Laner
+Hery,{},Top Laner
+Baolan,{'None': ['KR: manman0EUW: tutututututuut']},Support
+Ning,{'CN': 'xxxqqqqzzz'},Jungler
+zs,{'None': ['KR: 파이팅 인생']},Top Laner
+Qing,{},Mid Laner
+Doggo,{'None': ['KR: zxcsazxcazdznoobad03EUW: Iceland 18YBYG Liang']},Bot Laner
+XinLiu,{'None': ['KR: zheduibai']},Support
+huanfeng,"{'None': ['CN:  一个牛逼的ad', '开心超人123KR: haohaobudaoz']}",Bot Laner
+xiaohuangren,{'None': ['KR: nodfan']},Jungler
+yaoyao,{},Support
+Beichuan,{},Jungler
+ucal,"{'None': ['KR: Ucal', 'KT UcaL', 'K T']}",Mid Laner
+HOYA,"{'None': ['KR: 용호야', 'BRO Hoya']}",Top Laner
+Wayward,{'KR': 'cainiao2hao'},Top Laner
+Tian,{'None': ['CN: Tian9999xinnian09KR: ziyouEUW: G2SejuaniJankosEU funny gameS11Tian']},Jungler
+JackeyLove,"{'CN': 'JackeyLove', 'KR': 'ADCGOD 12', 'EUW': 'caibizaodianshui'}",Bot Laner
+Qingtian,{'None': ['KR: yi lu xiang bel']},Top Laner
+Mark,{'None': ['CN: lifeenjoyKR: DuDu11TES 77']},Support
+Rookie,{'CN': '把我当成一颗树叭'},Mid Laner
+Ming,{'None': ['CN: karsacoolKR: freeze5조용하고착한도구yjzbabaEUW: niudefuwuqi2021Worlds0173']},Support
+Angel,{'None': ['CN:  Ange1z浮生若欧鞋竖兴怀品114759KR: zhong men dui ju']},Mid Laner
+Wei,{'None': ['KR: mnbvcxzsdalongmeilEUW: qwezxcvbnm2021Worlds']},Jungler
+GALA,{'None': ['KR: kxnmb321987654waigaEUW: wininIceland2021Worlds0171']},Bot Laner
+Breathe,{'None': ['KR: Contact912cold skincainiao3hao']},Top Laner
+Tangyuan,{'KR': ['ruanxiu']},Mid Laner
+Assum,{},Bot Laner
+Strive,{},Mid Laner
+Southwind,{'None': ['KR: shuai de hen']},Support
+Cube,{'None': ['KR: guzhu']},Top Laner
+Leyan,{'None': ['KR: Fu4kTheworldEUW: huijialeEUbyebye']},Jungler
+bkr,{},Support
+Able,{'None': ['KR: happy gameblitzkrieg Bop']},Bot Laner
+Munian,{},Top Laner
+Creme,{},Mid Laner
+ppgod,{'None': ['KR: xiaoqiupup']},Support
+Aki,"{'None': ['KR: no dream', 'support me or gg']}",Jungler
+shanji,{'None': ['KR: elbAGMO']},Top Laner
+Jerry,{},Support
+Dream,{},Mid Laner
+Photic,{'None': ['KR: photic12345']},Bot Laner
+XLB,{'None': ['KR: Strange2']},Jungler
+Zhuo,{'None': ['KR: SUPG0D 12']},Support
+Invincible,{},Top Laner
+Pout,{'None': ['KR: Shadow PoutPout']},Mid Laner
+Rich,{'None': ['KR: 농심 리치']},Top Laner
+Yuekai,{'None': ['EUW: Mohe dance hall']},Mid Laner
+Hang,{'None': ['KR: crycrystal']},Support
+Tarzan,{'None': ['KR: 타 잔axczsdasd츠코파이ndbgEUW: GRFGRFGRFGRFGRFLngLng']},Jungler
+LP,{},Bot Laner
+Zika,{},Top Laner
+Scout,{'None': ['KR: 미북이wrsltEUW: Kimchi3']},Mid Laner
+Lpc,{},Bot Laner
+Xiaoxu,{},Top Laner
+Meteor,{'None': ['KR: baihuerlian']},Jungler
+Jinjiao,"{'None': ['KR: wohennangu0', 'jiozz']}",Support
+xqw,{},Mid Laner
+haichao,{},Mid Laner
+Kanavi,{'None': ['CN:  YagiaoKR: douyu TV 7459436kaaanavi']},Jungler
+369,{'None': ['CN: haohaohaoKR: haohaohao3cainiao1hao']},Top Laner
+knight,{'None': ['CN: 2020karsaKR: waywode']},Mid Laner
+MISSING,{'None': ['KR: changguiiiiiiiiikgcjhADHSADN']},Support
+Ruler,{'None': ['KR:  Gen G RulerCN: glaemfekglaemfdjNA: corejjoppaEUW: ADADAD141414']},Bot Laner
+Lzq,{},Mid Laner
+Ahn,{},Bot Laner
+neny,{},Top Laner
+Wink,{'None': ['KR: qwertyuiopqweUareinEUW: zxczxcxzczx']},Support
+YSKM,{},Top Laner
+Dove,{'None': ['KR: KT Dove']},Mid Laner
+gideon,{'None': ['KR:  황제펭귄 5호']},Jungler
+Lele,{'None': ['EUW: good The server']},Support
+fearness,{},Top Laner
+Lwx,{'None': ['KR: wqnflqwnfoqwEUW: dang qiu qianmaoxiandao']},Bot Laner
+H4cker,{'None': ['CN: Case19KR: fan qie guo']},Jungler
+Xiaolaohu,{'None': ['EUW: Thel1ttletiger']},Top Laner
+Care,{},Mid Laner
+haoye,{},Jungler
+QiuQiu,"{'None': ['CN: 片面了老铁KR: why me so diao,게임을 끄기전에']}",Support
+Xingye,{},Bot Laner
+Jiejie,{'None': ['KR: 나는변신할것이다Dan Xiao GuEUW: Dinner first']},Jungler
+Meiko,{'None': ['KR: yasxlkcjasdznHeinskaut refur']},Support
+Monki,{},Jungler
+Ale,{'None': ['KR: huntiandi1EUW: LNGLNGLNG']},Top Laner
+Leave,{},Bot Laner
+FoFo,{'None': ['KR: fotuneEUW: MidOnlywin']},Mid Laner
+Fisher,{'None': ['KR: Fisherr']},Mid Laner
+Xun,{'None': ['KR: wanfeng']},Jungler
+Yagao,{'None': ['CN: 左名豪KR: YaGaoYagao12']},Mid Laner
+ON,{'None': ['CN: SUP08WHKiZiEDKR: ON12Bearduck']},Support
+Elk,{'None': ['KR: bzdbqc']},Bot Laner
+Jwei,{},Support
+Bin,{'None': ['CN:  TurningBackTime打野别帮我折谢谢KR: sn topchenzebindasdqwr']},Top Laner
+Xiaohao,{},Jungler
+Zdz,{},Top Laner
+SwordArt,{'None': ['NA: TSMFTX SwordArt7CN: SwordArT777KR: Swordart7776140824delEUW: FW Schwertkunst']},Support
+Harder,{},Mid Laner
+pinz,{},Mid Laner
+Betty,"{'None': ['KR: S1mpIe', 'TheDarkForest', 'Uravity', 'FVV BETTY', 'BeTnT1EUW: TWgaoxuecheng']}",Bot Laner
+Kepler,{},Bot Laner
+hulatang,{'None': ['KR: Shao ji']},Top Laner
+Ycx,{},Support
+climber,{},Jungler
+xHun,{},Mid Laner
+xLiang,{},Bot Laner
+Nuo,{},Top Laner
+Xing,{},Bot Laner
+Decade,{},Top Laner
+Stay,{'None': ['KR: znlydgyxyd']},Bot Laner
+View,{'None': ['CN: PagodaKR: 디킨스이']},Jungler
+Yanxiang,{},Jungler
+Kedaya,{'None': ['EUW: LNG uneasy']},Support
+wake,{},Support
+BuLuKaKa,{},Mid Laner
+mxx,{},Jungler
+forse,{},Mid Laner
+xiaomuma,{},Top Laner
+705,"{'None': ['KR: No soul', '실망자']}",Top Laner
+Xhow,{},Jungler
+Wuy,{},Support
+think,{},Support
+ZFF,{},Jungler
+TuT,{},Bot Laner
+wenyi,{},Support
+Colour,{},Streamer
+Xiaobudong,{},Mid Laner
 kelin,{},Bot Laner
 Vergil,{},Mid Laner
 Aliez,{},Top Laner
@@ -215,17 +351,17 @@ camellia,{},Jungler
 Mori,{},Jungler
 Starry,{},Jungler
 Yumeng,{},Mid Laner
-Tong,{'CN:': ['VG丶Hetong']},Support
+Tong,{'None': ['CN: VG丶Hetong']},Support
 Delicate,{},Jungler
 xiaosiji,{},Support
 Elysia13,{},Support
 banye,{},Mid Laner
 Clock,{},Jungler
-Rat,"{'KR:': ['milaoshu', 'taizhenshile']}",Bot Laner
+Rat,"{'None': ['KR: milaoshu', 'taizhenshile']}",Bot Laner
 Medzz,{},Mid Laner
 Crush3,{},Jungler
 Vinay,{},Bot Laner
-Garvey,{'KR:': ['tuoxiezhanshen']},Top Laner
+Garvey,{'None': ['KR: tuoxiezhanshen']},Top Laner
 Xiao17,{},Jungler
 yellowlight,{},Support
 7copy,{},Bot Laner
@@ -239,12 +375,12 @@ Darwin,{},Jungler
 Yummy,{},Mid Laner
 dbh,{},Bot Laner
 S1xu,{},Jungler
-Feng,{'KR:': ['Dispel haze']},Support
+Feng,{'None': ['KR: Dispel haze']},Support
 xjx,{},Top Laner
 RanL,{},Bot Laner
 Realm,{},Mid Laner
 SW,{},Bot Laner
-Keaiduo,{'NA:': ['Bot0511']},Mid Laner
+Keaiduo,{'None': ['NA: Bot0511']},Mid Laner
 zzx,{},Jungler
 Feather,{},Support
 1xn,{},Bot Laner
@@ -257,7 +393,7 @@ xiaoyueji,{},Bot Laner
 Liweier,{},Jungler
 Wen,{},Top Laner
 WuNai,{},Support
-MG,{'KR:': ['Fox B MG']},Mid Laner
+MG,{'None': ['KR: Fox B MG']},Mid Laner
 Hoshisora,{},Bot Laner
 pisces,{},Top Laner
 Such,{},Bot Laner
@@ -272,7 +408,7 @@ xiaoyu,{},Jungler
 L1f,{},Mid Laner
 Coward,{},Jungler
 Coyote,{},Bot Laner
-Xiaoxiang,{'KR:': ['lin shu hao']},Top Laner
+Xiaoxiang,{'None': ['KR: lin shu haojasper MP5 KINGcainiao7hao']},Top Laner
 Doux,{},Bot Laner
 can,{},Jungler
 Daisy,{},Jungler
@@ -290,13 +426,218 @@ Relife,{},Jungler
 xiaohanbao,{},Bot Laner
 Snorlax,{},Jungler
 xiaonanshan,{},Top Laner
+Finn,{'None': ['NA: Blomster FinnEUW: Jeong HyeokCLG FinnFinn1']},Top Laner
+113,"{'None': ['EUW: Supmass 113', 'lpl aggression7', 'SUP 113 bum', 'pandora9 jgl acc', '113 113 113 113', '113 boom', 'VGIA 113']}",Jungler
+LIDER,"{'EUW': 'Bojji, Lone Wοlf, Τreasure Hunter, ECkz, ilya, note, eto, Ιiege'}",Mid Laner
+Kobbe,{'EUW': 'Kobbe'},Bot Laner
+JeongHoon,{'None': ['KR: 갤러리 정']},Support
+Odoamne,{'None': ['EUW: Odoamne']},Top Laner
+Peach,{'None': ['KR: DRX Peach']},Jungler
+Abbedagge,{'None': ['EUW: 100 Abbedaggeagdang']},Mid Laner
+Patrik,"{'None': ['EUW: Rotten Tea', 'mainpyke00', 'helpfnatic', 'Evey Reborn', 'OG Patrik', 'noragretsplayer', 'AshtonClutcher12']}",Bot Laner
+LIMIT,{'None': ['EUW: LIMIT12345']},Support
+Nomi,{'None': ['Nomi']},Bot Laner
+Oscarinin,{'EUW': 'papi oscαr'},Top Laner
+Wunder,"{'EUW': 'NoWoWFreeWin', 'KR': 'TheOutgoing, G2 Sejong', 'CN': 'IdontplayLeague'}",Top Laner
+Razork,{'EUW': 'Razørk Activoo'},Jungler
+Humanoid,{'EUW': 'Jonah Falcon'},Mid Laner
+Noah,{'None': ['KR: KT Noah은하박사']},Bot Laner
+Trymbi,{'None': ['EUW: RGE TrymbiwqrwionyAdiTheGoodGuytrymbol']},Support
+Rekkles,"{'None': ['EUW: Swedish Deft', 'Chapter 4', 'IIlIllIIIIllIlIIKR: EnNopp112', 'FNC 레클레스CN: Swedish']}",Support
+Doxy,{'EUW': ['Fix The System8']},Top Laner
+Rabble,{'EUW': ['Rabble Arouser']},Jungler
+Nafkelah,"{'EUW': ['call of power', 'chovy simulator']}",Mid Laner
+Reptile,{},Bot Laner
+Kadir,"{'None': ['EUW: OlmVuysSless', 'Kadeer', 'Kαdir', 'Kad1rZ']}",Support
+Viketox,"{'EUW': ['High Øn Life', 'EL ESCAPATRAJØ']}",Support
+Valans,{},Mid Laner
+Gaax,{},Coach
+Broken Blade,"{'None': ['EUW: brokenblade19', 'G2 Topfather', 'brokenblade12NA: Kral BB', 'TSM BBKR: 1a2b3c4d5f6', 'str8 beefy modeCN: asdovjstsmapibb', 'YassuoSanchovies']}",Top Laner
+Yike,{'EUW': ['Yikeru']},Jungler
+Caps,"{'KR': 'G2midCaps, TheShackledCaps, IIIlllllIllI'}",Mid Laner
+Hans Sama,"{'None': ['EUW: KR: TrackingTheWeebs', 'MSF GoHanCN: NA: EDFDSUH']}",Bot Laner
+Mikyx,{'None': ['EUW: BurnsTaichouHand Dipper KanoKR: MSF KacchanMikyXLCN: G2Kuroko']},Support
+Rodrigo,{},Analyst
+Chasy,"{'None': ['KR: DWG Chasy', 'Chasy  EUW: Chasyzz']}",Top Laner
+Elyoya,{'None': ['EUW: bobber kongElyoyaaaElyoyαRatón calvo']},Jungler
+Nisqy,{'None': ['EUW: FNC Nisqybaba']},Mid Laner
+Carzzy,{'EUW': 'bob kong'},Bot Laner
+Hylissang,"{'EUW': 'FNC Hylissang', 'KR': 'Svveeney Todd'}",Support
+Achuu,{},Coach
+Zeph,{},Coach
+Evi,"{'None': ['JP: エビルリフト', 'ホトトギスKR: oxi52NA: IMT 7h Evi1EUW: Maine CooonsmukakukukaLeapfrogger']}",Top Laner
+Jankos,"{'EUW': 'BriarFeetSniffa, LuvFlakkedCheeks, THPizzaBox, Polish Wonderb0y, llIlllllIIllllll', 'EUNE': 'Jankoss', 'NA': 'H2K Jankosovich', 'KR': 'G2 얀노인, G2 Jankos, Giang Van Cot', 'VN': 'Giang Van Cot'}",Jungler
+Vetheo,{'EUW': ['LEC MIDKING']},Mid Laner
+Flakked,"{'None': ['EUW: 2weeksrank1', '6419', '100x100 MERENGUE', 'el tetoncitoKR: 696942042069420']}",Bot Laner
+Mersa,{},Support
+iBo,"{'EUW),Bydlak z Westa ': ['IceBeasto']}",Top Laner
+Bluerzor,"{'EUW': ['bluerzor', 'bIuerzor', 'GO bluerzor']}",Jungler
+Zwyroo,{},Mid Laner
+Jackspektra,{'None': ['EUW: nobody knows0']},Bot Laner
+marlon,{},Support
+Naruterador,{},Coach
+Szygenda,{'None': ['EUW: SzygendaTheShygenda']},Top Laner
+Malrang,{'None': ['KR: RGE MalrangCo24EUW: 1 or 6RGE Malrang']},Jungler
+Larssen,"{'EUW': 'PeacefulWαrrior, IIlIlIlllIII'}",Mid Laner
+Comp,"{'None': ['EUW: zhavm', 'Kite Machine']}",Bot Laner
+Advienne,"{'None': ['EUW: Advienne', 'BL Advienne']}",Support
+Blueknight,{},Analyst
+Sinmivak,{},Top Laner
+Koldo,"{'EUW': 'Aítana Øcaña, Køldo Locuraa, soy murciANO, Aítana Ocaña'}",Jungler
+BACA,{},Mid Laner
+Jopa,{},Bot Laner
+Stend,{},Support
+Lucker,{'None': ['EUW: winning now']},Bot Laner
+Seaz,{},Support
+Irrelevant,{},Top Laner
+Markoon,"{'None': ['EUW: Markoon', 'ikklapjouwII']}",Jungler
+Sertuss,"{'None': ['EUW: Sertuss1', 'Sertuss', 'Ssutres']}",Mid Laner
+Exakick,"{'None': ['EUW: EUW Hope', 'Giant Monsterx']}",Bot Laner
+Doss,"{'EUW': ['KIYF Doss', 'SK Doss']}",Support
+Gilius,"{'EUW': 'S04 Gilius, Gilius1, Gilius2, Berk Demir'}",Jungler
+Bertho,{},Manager
+JNX,"{'None': ['EUW: SK 187', 'Jötunheimrr', '5 0 or 0 5', 'KlausStörtebeker', 'Liantiao Jenax', 'JENAX UNCHAINED', 'die on side', 'SK 187']}",Top Laner
+Lurox,"{'EUW': 'RGO Lurox, S04 Lurox, Lurox'}",Jungler
+FEBIVEN,"{'EUW': 'cxzczczcxzcxzcz, MSF FEB1VEN, qweasdqweasdqwqq, FNC FEBlVEN', 'KR': 'FNC 페비벤'}",Mid Laner
+Keduii,"{'None': ['Keduii123', 'keduii1234', 'keduii321']}",Bot Laner
+Prime,{},Support
+Adam,"{'None': ['EUW: Nothing much', 'Adamdam', 'Shoei Baro', 'Shidou Ryusei', 'Adam 17 Ans TerS', 'FHKDGrtHOguTHG3w', 'Thats my toplane', 'Adam 20ans LEC', 'Sigmα Grindset']}",Top Laner
+Sheo,{},Jungler
+nuc,{'EUW': ['knight9żż']},Mid Laner
+Crownie,{'None': ['EUW: YujiYuji']},Bot Laner
+Labrov,{'None': ['EUW: school phobiaAmelda']},Support
+ShouldBthat,{},Manager
+Agresivoo,{'None': ['EUW: banger5agrsv']},Top Laner
+Maxi,"{'EUW': ['NiP Maxi'], 'NA': ['FLY Maxi']}",Jungler
+Reeker,{},Mid Laner
+xMatty,{},Bot Laner
+Erdote,"{'EUW': ['Erdote', 'Erdoté', 'February 2019']}",Support
+Photon,{'None': ['KR: FA gyuvee']},Top Laner
+Bo,{'None': ['KR: wu guan feng yue EUW: zyb']},Jungler
+Perkz,{'KR': 'Uma Jan'},Mid Laner
+Upset,{'EUW': 'Upset03'},Bot Laner
+Kaiser,{'EUW': 'livelyfish5'},Support
+Hjarnan,{},Coach
+PatkicaA,{},Top Laner
+Scarface,"{'None': ['Scarface', 'GO GET IT', 'ecafracS']}",Top Laner
+Daglas,{},Jungler
+Czajek,{'None': ['EUW: Czajëkk']},Mid Laner
+Neon,"{'None': ['EUW: x4T7', 'Neon1337Ad']}",Bot Laner
+Jactroll,"{'None': ['EUW: VIT jactroll', 'ChristopherNolän', 'Arte et Marte', 'WntFindMeLolProsKR: V Jactroll']}",Support
+Innaxe,"{'None': ['EUW: Uzi Trainee', 'man like Innaxe', 'RNG Innaxe']}",Bot Laner
+Kio,{},Top Laner
+Bung,{},Bot Laner
+Vince,{},Manager
+Rayito,{'EUW': ['Rayito']},Bot Laner
+Klaj,{'None': ['EUW: Brittany123']},Support
+Nomanz,{'None': ['RU: Mr NomanzEUW: huge performanz']},Mid Laner
+Kryze,"{'None': ['EUW: xLinayaa', 'Kryze', 'Aednatan']}",Top Laner
+White,{'None': ['White']},Mid Laner
+Backlund,{'None': ['EUW: MijkaKR: Jordan Pointon']},Mid Laner
+Jeskla,{'None': ['EUW: Jesklaasista plats']},Bot Laner
+Zoelys,{},Support
+Greedyz,{},Coach
+Ragner,{'EUW': ['Ragner 1']},Top Laner
+Lyncas,{'None': ['EUW: im a junglerits paydayvery artistic']},Jungler
+Toucouille,{'EUW': ['GW toucouille']},Mid Laner
+Jezu,{'None': ['EUW: JezuuuRhynozSPOLFCEI']},Bot Laner
+Kamilius,{'EUW': ['kamilius']},Support
+Badlulu,{},Top Laner
+Eckas,{'None': ['EUW: Eckas1']},Jungler
+Twohoyrz,{},Mid Laner
+Practice,{'None': ['EUW: MkLeoPractice']},Bot Laner
+Raxxo,{},Support
+Merlhin,{},Substitute
+Melonik,{},Top Laner
+Steeelback,"{'None': ['sandcastlemaker1', 'steeelbackmaker1', 'Steeelbackmaker', 'GSI Steeelbackkk', 'FnaticSteeelBack', 'SteeelB4ck', 'ODY SteeelBack']}",Support
+TakeSet,{},Bot Laner
+Peng,"{'None': ['TwTv Peng04', 'Peng04', 'peng mid']}",Mid Laner
+Shlatan,{'None': ['EUW: i have faith']},Jungler
+Narkuss,{'EUW': ['LUN NARKUSS']},Jungler
+Cabochard,"{'EUW': ['KC Gaulois'], 'KR': ['otwoeur11']}",Top Laner
+Skeanz,"{'None': ['EUW: Shëun', 'Le petit Poulpos', 'Skeαnz']}",Jungler
+Saken,{},Mid Laner
+Caliste,{'EUW': ['KC NEXT ADKING']},Bot Laner
+Targamas,"{'None': ['EUW: Targamas', 'Grizzly HillsKR: 8981742742']}",Support
+Cinkrof,"{'None': ['EUW: Cz6 Cinkrof', 'BKN Cinkrof', 'LeOsUx1', 'fanselenygomezz', 'xfajtEUNE: Cinkrof', 'Jakub Cinkrof']}",Jungler
+Howling,{'None': ['KR:  모기야 멈춰']},Top Laner
+Pridestalker,{},Jungler
+Czekolad,{},Mid Laner
+Trigger,{'None': ['KR: UijU']},Bot Laner
+Veignorem,{},Support
+21XXX,{},Manager
+Lot,{},Top Laner
+Skewmond,{},Jungler
+Eika,"{'None': ['HipsterPanda', 'nevo Eika', 'G2 Eika', 'Eikaa', 'KIRUA', 'EikaHoon']}",Mid Laner
+Shiganari,{'None': ['EUW: qwflkqflaslf']},Bot Laner
+Hantera,"{'EUW),Un Deux Trois ': ['SLY Hantera,H TT']}",Support
+Lounet,{},Manager
+Vertigo,{},Top Laner
+Don Arts,"{'None': ['ESG Don Arts', 'Down Arts,Don Arts']}",Jungler
+ZaZee,{'None': ['EUW: SK ZaZee']},Mid Laner
+DizL,"{'None': ['DIV DizL', 'noname adcarry']}",Bot Laner
+Vaunted,{},Support
+Xioh,{},Manager
+HARPOON,{},Bot Laner
+Vizicsacsi,{'None': ['Vizícsacsi']},Top Laner
+Rulfchen,{},Jungler
+Kaymin,"{'None': ['IV Kaymin', 'Spintail']}",Mid Laner
+Leon,{},Support
+Nugget,{},Mid Laner
+Xagog,{},Jungler
+Pride,{},Top Laner
+Zanzarah,{'None': ['EUW: AST Zanzarah']},Jungler
+Special,{'None': ['EUW: Special']},Mid Laner
+Smiley,{'EUW': ['HusτlinbeasT']},Bot Laner
+Lilipp,"{'EUW) SK Lilipp ': [''], 'None': ['felipé énglert', '19419251', 'Kreuzfahrtschiff', 'Ρroblematíc', 'Lilipp', 'Hook Abuser', 'lIlIxx']}",Support
+LagsAlot,{},Analyst
+Sacre,{'EUW': ['ercaS']},Top Laner
+Afroboi,{},Jungler
+Simpli,{'EUW': ['ssimpli']},Mid Laner
+Mishigu,{},Bot Laner
+Seal,{},Support
+Dominik,{},Substitute
+Carlsen,{},Top Laner
+Alexx,"{'None': ['EUW: Alexanderkylling', 'MAD Alexxx']}",Jungler
+Sencux,{'EUW': ['Séncux']},Mid Laner
+Kynetic,"{'EUW) Sockenbube Lgym ': [''], 'None': ['Kynetic']}",Bot Laner
+Tore,"{'None': ['EUW: el Tore', 'nrskrn', 'Renato Simunovic']}",Support
+Glowing,"{'None': ['EUW: Glowing1', 'give me mid ok']}",Mid Laner
+Flamer,{'EUW) Fl4mer': ['']},Top Laner
+Lamabear,"{'None': ['MM Lamabear', 'HMA Lamabear', 'Silver Bite']}",Jungler
+Matislaw,"{'EUW': ['Matislaw', 'PT Xiaohu', 'Matislaw v7']}",Mid Laner
+StormFury,{},Coach
+Saviour,"{'EUW),Edu Na Svoë ': ['MOUZ Saviour']}",Support
+Notiko,{},Bot Laner
+Agurin,"{'None': ['EUW: Agurin', 'Charlie Heaton NA: NAgurin', 'USAgurin KR: KoreAgurin', 'Agurin모모']}",Jungler
+Ventair,{'None': ['Contact912']},Top Laner
+Obsess,{'EUW': ['Οbsess']},Streamer
+Nite,{},Mid Laner
+Tazaku,{},Bot Laner
+Pan,{},Support
+Kxng,{},Coach
+D4nka,{},Jungler
+Tracyn,{},Top Laner
+Visdom,"{'BR': ['Visd0M', 'Bery bery sad']}",Support
+Phantomles,{'EUW': ['Phantomles']},Mid Laner
+jinjo,{},Bot Laner
+zlaksd,{},Support
+Akabane,"{'None': ['SOLOQ DEVIL666', 'Akabane13']}",Jungler
+Venour,"{'None': ['EUW: Venour', 'iskø']}",Top Laner
+Mask,"{'None': ['KR: 마스크 챙기자,qazesc']}",Mid Laner
+FUN k3y,{},Bot Laner
+Lekcyc,{'EUW': ['lekcycc aka boss']},Support
+Sayna,{'EUW': ['MRS Sayna']},Bot Laner
+CaD,"{'None': ['KR: HLE CaD', 'CastleDragon1']}",Jungler
+Marky,"{'None': ['EUW: markyy1', 'dinosaur 23']}",Top Laner
+Isma,{},Jungler
 Fresskowy,{},Mid Laner
 Álvaro,{},Support
-Supa,"{'EUW': [': Supaaa', '4tukano4', 'Perro de Elyoya']}",Bot Laner
+Supa,"{'EUW': 'Supaaa, 4tukano4, Perro de Elyoya'}",Bot Laner
 Unai,{},Top Laner
 Hydra,"{'EUW': ['The Lοnely God', 'From Zed To LEC']}",Mid Laner
 Myrwn,{'EUW': ['Gwenicienta']},Top Laner
-Random,{'EUW:': ['ESB Random']},Mid Laner
+Random,{'None': ['EUW: ESB Random']},Mid Laner
 Thream,{},Support
 Legolas,"{'EUW': ['From One To Five', 'ADGAP IS SUPPGAP']}",Bot Laner
 Oscure,{},Support
@@ -305,7 +646,7 @@ NoName,{},Jungler
 Lisbd,{},Bot Laner
 Mart,{},Jungler
 Rafitta,{},Bot Laner
-Hatrixx,{'EUW:': ['Hætrixx']},Mid Laner
+Hatrixx,{'None': ['EUW: Hætrixx']},Mid Laner
 Infoneral,{},Support
 Papiteero,{},Top Laner
 Aiden,{},Support
@@ -313,24 +654,685 @@ Gromix,{},Jungler
 Xeonerr,{},Jungler
 Vander,{},Coach
 Decay,"{'EUW),MSF Decay0 ': ['MSF Decay'], 'EUW': ['Naykop']}",Mid Laner
-Attila,"{'EUW:': ['K1CK Minitroupax', 'K1CK Marksman', 'LPLOL Marksman', 'VIT Attila', 'GIA Attila', 'Mathew Fraser', 'Me gustan rubias', 'Scottie Pippen', 'Cillian Murphy', 'Amadeu Carvalho', 'VGIA AttiIa', 'Alfonso Campos', '2015 12 20', 'Tomer Kapon', 'VGIA23', 'CEO de los Hunos'], 'KR:': ['VIT Attila']}",Bot Laner
+Attila,"{'None': ['EUW: K1CK Minitroupax', 'K1CK Marksman', 'LPLOL Marksman', 'VIT Attila', 'GIA Attila', 'Mathew Fraser', 'Me gustan rubias', 'Scottie Pippen', 'Cillian Murphy', 'Amadeu Carvalho', 'VGIA AttiIa', 'Alfonso Campos', '2015 12 20', 'Tomer Kapon', 'VGIA23', 'CEO de los HunosKR:  VIT Attila']}",Bot Laner
 Alby,{},Jungler
-Th3Antonio,"{'EUW:': ['Th3Antønio', 'IlIlIlIIIlIIIll', 'I CURRY YOU', 'ElRichMC', 'zTh3Zeling', 'Th3AntonioGG', 'spanish potterrr', 'Th3Mushroom', 'Th3CarryPotter', 'VGIA Th3Antonio', 'Crabairel', 'marinated pork', 'PELUK1NG']}",Top Laner
+Th3Antonio,"{'None': ['EUW: Th3Antønio', 'IlIlIlIIIlIIIll', 'I CURRY YOU', 'ElRichMC', 'zTh3Zeling', 'Th3AntonioGG', 'spanish potterrr', 'Th3Mushroom', 'Th3CarryPotter', 'VGIA Th3Antonio', 'Crabairel', 'marinated pork', 'PELUK1NG']}",Top Laner
 Whiteinn,{'EUW': ['Whiteinn']},Support
-Xerxe,"{'EUW:': ['absconsus', 'Holy Rabies'], 'KR:': ['Stumpy']}",Jungler
-Efias,"{'EUW': [': Efias', 'G2AR Efias']}",Support
-Whiteknight,"{'EUW:': ['WhiteKnight108', 'ittaMoretnA']}",Top Laner
+Xerxe,"{'None': ['EUW: absconsus', 'Holy RabiesKR: Stumpy']}",Jungler
+Efias,"{'EUW': 'Efias, G2AR Efias'}",Support
+Whiteknight,"{'None': ['EUW: WhiteKnight108', 'ittaMoretnA']}",Top Laner
 Sajator,{},Mid Laner
 Deadly,"{'None': ['Deádly', 'Strong Mental']}",Bot Laner
 NAAU,{},Jungler
 Xixauxas,{},Support
-Maxlore,"{'EUW:': ['Maxlore', 'Moot Ishkhan']}",Jungler
-Dreedy,"{'EUW:': ['Blows a lot', 'Strongside Lover']}",Top Laner
+Maxlore,"{'None': ['EUW: Maxlore', 'Moot Ishkhan']}",Jungler
+Dreedy,"{'None': ['EUW: Blows a lot', 'Strongside Lover']}",Top Laner
 Memento,"{'EUW),A Memento ': ['Memento1']}",Jungler
-Ronaldo,{'EUW:': ['way wha']},Mid Laner
+Ronaldo,{'None': ['EUW: way wha']},Mid Laner
 Zamulek,{},Bot Laner
-DuaLL,"{'EUW:': ['DuaLL', 'DUALL Y PÁ']}",Support
+DuaLL,"{'None': ['EUW: DuaLL', 'DUALL Y PÁ']}",Support
 Obstinatus,{},Support
-R4ven,{},Top Laner
-AHaHaCiK,{'EUW:': ['AHaHaCíK']},Jungler
+AHaHaCiK,{'None': ['EUW: AHaHaCíKayayacik']},Jungler
 Dajor,{},Mid Laner
+BEAN,"{'EUW) Beanovich ': [''], 'None': ['FNC Bean']}",Bot Laner
+Toyejo,"{'EUW': ['Toyejo', 'Midzukill']}",Mid Laner
+Whyx,{},Support
+Shelfmade,{'None': ['EUW: BL King Mantis']},Top Laner
+Roshan,{},Jungler
+Vigil,{},Mid Laner
+Endz,{'EUW': ['z d n E']},Bot Laner
+Mystiques,"{'None': ['NA: EG MystiquesEUW: Mystiquess', 'Mystiques']}",Support
+Dusty,{},Mid Laner
+Grzybek,{'None': ['EUW: NieUfamCiJezu12']},Top Laner
+Sawyor,"{'None': ['EUW: swr', 'swrr']}",Jungler
+WaenA,"{'KR': ['motu'], 'EUW': ['bewbewbewbew', 'Waena']}",Mid Laner
+Adison,{},Bot Laner
+Ephekles,{},Support
+Sanchi,{},Analyst
+Ariana,{},Top Laner
+Krazler,{},Jungler
+many,{'None': ['EUNE: Graqman']},Mid Laner
+svns,{},Bot Laner
+minemaciek,{},Support
+Yuta,{},Jungler
+Matixx,{},Top Laner
+adi1,{},Jungler
+ketim,{},Jungler
+Miko,{},Coach
+Lee sang,{},Mid Laner
+Yeti,{},Coach
+Gerro,{},Bot Laner
+WRub3L,{},Substitute
+PolskiKoz,{},Top Laner
+Lothen,{'None': ['EUW: Layteen']},Bot Laner
+Mrozku,{},Mid Laner
+Syrpy,{},Support
+Diagu,{},Coach
+Domoles,{},Mid Laner
+Damkex,{},Bot Laner
+Gepard,{},Support
+Miś,{},Bot Laner
+ShadowUS,{},Jungler
+Hiro,{},Top Laner
+Roison,{'None': ['EUW: Roìson']},Mid Laner
+Neramin,{},Bot Laner
+Czypsy,{},Support
+Savero,{},Jungler
+Aincardz,{},Jungler
+Zty,{},Mid Laner
+Jaunutis1,{},Jungler
+HeSSZero,{},Top Laner
+Syzyfek,"{'None': ['EUW: TwTv Syzyfekk', 'Syzyfek', 'boostin my egirl', 'Syzyfek LFT', 'syzyfs wife']}",Bot Laner
+Monk,{},Support
+Color,{},Top Laner
+Ryuzaki,{},Jungler
+komedyja,{},Manager
+SlowQ,{},Mid Laner
+Kabbie,{},Support
+Ice,{'None': ['KR: 폭탄치우기']},Bot Laner
+Xico,"{'None': ['EUW: G2H Xico', 'Carro do amor', 'BEST RIVEN PT', 'Xico BossKING']}",Mid Laner
+Zora,{},Top Laner
+nicolaiy,{},Jungler
+Ribu,{'None': ['EUW: RIBU997']},Mid Laner
+GotzY,{},Bot Laner
+KroMAX,{},Support
+Hyper,{},Top Laner
+Kubon,{},Top Laner
+Serin,{'None': ['EUW: MSI MISSIONWìIIy Wonka']},Mid Laner
+Armut,{'None': ['EUW: MAD Captain2021Worlds0033CN: WeaksideJoe']},Top Laner
+Zeitnot,"{'None': ['EUW: T0RTURE', 'Warren GKR: 배고프면약해진다CN: NeedSigara']}",Bot Laner
+ANDARIEL,{},Bot Laner
+Kireas,{},Jungler
+Absolute,{},Support
+KSAEZ,{'None': ['EUW: Ksâez']},Mid Laner
+NuQ,{},Top Laner
+Lykia,{'EUW) Liaky ': ['Lykia361']},Support
+Paixdia,{},Support
+Ruep,{},Bot Laner
+Nakyung,{'None': ['KR: 그들은죽었다']},Mid Laner
+Taegyeong,{'None': ['KR: cs라도잘먹자']},Top Laner
+NanoStrqfe,{},Top Laner
+Nios,{},Jungler
+osman123,{},Jungler
+Chef,{},Jungler
+HiRit,"{'None': ['EUW: App bug', 'B0ring Life', 'HiRit', 'Im A Spoon', 'RLDEMOYQ']}",Top Laner
+stillnumb,{},Mid Laner
+Sangchu,{'None': ['KR: BRB Sangchu']},Bot Laner
+Pbd,{},Support
+Lotuss,"{'None': ['EUW: Lοtuss', 'LOTUS']}",Jungler
+Rames,{},Jungler
+Carry,{},Support
+Gamin,{},Bot Laner
+Milica,{'None': ['EUW: Milicaaaa']},Mid Laner
+Reiketsu,{},Coach
+Parus,{},Support
+Kofte,{},Mid Laner
+Bao,{'None': ['KR: DRX BAO']},Bot Laner
+Destroy,{'None': ['KR: DRX Destr0y']},Top Laner
+Secondate,{},Support
+Ferret,{'None': ['EUW: Ozcan Gurbuz']},Jungler
+fabFabulous,"{'EUW),noskillonlyluck ': ['FABFABFAB']}",Top Laner
+Patch,{},Support
+Scorth,{},Bot Laner
+Typhoon,{},Jungler
+Whistle,{'KR': '펭귄빙산추락'},Mid Laner
+ZTX,{},Top Laner
+Mojito,{'None': ['EUW: qladfqweReaI MAN']},Jungler
+StarScreen,{'None': ['EUW: MSI DUTY']},Top Laner
+Kaori,"{'EUW) ': ['Kaor1'], 'EUW': ['Kaori1']}",Bot Laner
+Ryka,{},Jungler
+tol2,{},Top Laner
+Steal,{'None': ['KR: L1surelaetsEUW: qwer1234asdfqqwwqqww']},Jungler
+Aria,{'None': ['KR: 다섯 개의 가면EUW: im sry i died2021Worlds0099iceland0']},Mid Laner
+Yutapon,{'None': ['JP: yutaZzKR: QQ5361451용서해줘때리지마Two TlmeImaokaiEUW: 4g1v3ngr3exec cosmoflips2021Worlds0100CLG Chauster']},Top Laner
+Harp,{'None': ['KR: KT H4rp']},Support
+Milan,{},Bot Laner
+Gismo,{},Coach
+Kazu,{},Coach
+RayFarky,{},Top Laner
+Dice,{'None': ['KR: Gen G Dice']},Mid Laner
+Yuhi,{},Bot Laner
+Raina,{'None': ['CN: manager1']},Support
+koisi,{},Bot Laner
+3_4,{},Coach
+EL,{'KR': 'Chloe 0901'},Jungler
+Kinatu,{},Top Laner
+Blank,{'KR': 'Blank'},Jungler
+DasheR,"{'None': ['""""""KR:"""""" natsunoomoide']}",Mid Laner
+Marble,{},Bot Laner
+Vsta,{'None': ['KR: 뷔이스타nugulkkayoEUW: wow cold']},Support
+Kaito,{},Mid Laner
+Charley,{'None': ['KR: i will grind']},Support
+Ankochan,{'None': ['KR: hi im busaiku']},Jungler
+YellowYoshi,{},Top Laner
+Tussle,{},Coach
+Ares,{},Coach
+Washidai,{},Top Laner
+HRK,{},Jungler
+Acee,{'None': ['CN: hikakin123']},Mid Laner
+dresscode,{},Bot Laner
+hetel,{},Support
+HW4NG,{},Coach
+Pinnnk,{},Top Laner
+L0SER,{},Support
+ezman,{},Bot Laner
+enapon,{},Mid Laner
+Brucee,{},Jungler
+Awaker,{},Coach
+Nap,{},Top Laner
+Cassin,{'None': ['KR: llIlIIIlIllIlIl']},Jungler
+Eugeo,{},Mid Laner
+Honey,{},Bot Laner
+Primo,{},Support
+Natsuki,{},Coach
+Qoo,{},Coach
+rre,{},Mid Laner
+Son,{},Coach
+Ino,{},Support
+Hoglet,{'LAS': ['DALE']},Jungler
+Megumiin,{},Mid Laner
+Cheoni,{'None': ['KR: HLE Cheoni']},Bot Laner
+Dicey,{},Support
+96NKtaityo,{},Top Laner
+Valkyrie,{},Bot Laner
+Paz,"{'None': ['JP: Intension', 'PiccolinaKR: 내가 나쁜EUW: BBQ Krazy']}",Top Laner
+Once,"{'None': ['KR: VaIhaIIa', 'dkzkap']}",Jungler
+Jett,"{'None': ['KR: 스노우맨0', 'WE Morgan', 'hy2rwt', 'xueren']}",Mid Laner
+LokeN,{'None': ['CN:  我是左名豪KR: 아이러니NekoL']},Bot Laner
+Enty,{},Support
+eguto,{},Top Laner
+Reapered,{},Coach
+YSDS,{},Coach
+Nesty,{},Jungler
+TaNa,{'None': ['KR: Just Again']},Top Laner
+hachamecha,{},Jungler
+Recap,{},Mid Laner
+Leo,{'None': ['KR:  AF Le5읽씹맨']},Bot Laner
+Ssol,{'None': ['EMF SSol']},Bot Laner
+Corporal,{},Support
+popon,{},Coach
+VicaL,{},Coach
+Ping9,{},Coach
+ShakeSpeare,{},Support
+Deant,{},Bot Laner
+Kakkun,{},Mid Laner
+Momo,{},Top Laner
+Yunika,{},Jungler
+Kingen,{'None': ['KR: Kingen한국화약 황사장']},Top Laner
+Clid,{'None': ['KR: 갱스기무라RadioheadCN: P0stmaloneEUW: Kkoma2Like a n1nja']},Jungler
+Zeka,{'None': ['KR: dlwlrma22카리나의댄브']},Mid Laner
+Viper,{'None': ['KR: viper3pdx3EUW: Mystery SignCóbb']},Bot Laner
+Life,{'KR': 'Rascal'},Support
+Rooster,{'None': ['KR: 병아리크면수탉']},Top Laner
+Guwon,{'None': ['KR: 오만오만오만오만']},Jungler
+Roamer,{'None': ['KR: BRO Roamer']},Mid Laner
+Duro,{'None': ['KR: Liiv Utility']},Support
+Grizzly,{},Jungler
+Loki,{},Mid Laner
+Lure,{'None': ['KR: 빡빡이1']},Bot Laner
+DanDy,{},Coach
+Key,{},Coach
+Mowgli,{},Coach
+Nagne,{},Coach
+Max,{},Coach
+Canna,{'None': ['KR: 칸 나EUW: 2021Worlds0113']},Top Laner
+Canyon,"{'None': ['KR: JUGKlNG봄 여름 괄 겨울EUW: Eventual victory', 'Aurora timeCN: doyouknowkimchi']}",Jungler
+ShowMaker,"{'None': ['KR: DK ShowMaker22 JulyDWG KIAEUW: good bye iceland', 'SHøWMAKéRCN: wanshanghaowanan']}",Mid Laner
+Deft,{'None': ['KR: Deft DKCN: EDG丶AlpacaChasteloveDeft12NA: TP FROM S5EUW: IcelandWalrus']},Bot Laner
+Kellin,{'KR': '참새크면비둘기'},Support
+Thanatos,{'None': ['KR: DK Thanatos']},Top Laner
+Lucid,{'None': ['KR: DK Lucid']},Jungler
+Pullbae,{'None': ['KR: DK Pullbae']},Mid Laner
+Rahel,{'None': ['KR: 42141321EUW: 2021Worlds0150']},Bot Laner
+Bible,{'None': ['KR: SPG Bible']},Support
+Loopy,{'None': ['KR: DGA Loopy']},Support
+Saint,{},Mid Laner
+Thumb,{'KR': 'Liiv SUP'},Support
+Acorn,{},Coach
+GorillA,{},Coach
+Bubbling,{},Coach
+Kiin,{'None': ['KR: 오뚜기3분미트볼']},Top Laner
+Cuzz,{'None': ['KR: T1 CuzzCuzzzzzzzEUW: LSADSDD']},Jungler
+Bdd,{'None': ['KR: Gen G Bdd기차나나나나류병준입니다CN: gichangaehazimaEUW: ddbbyeeeeeee']},Mid Laner
+Aiming,{'None': ['KR: 아이린asdqeee']},Bot Laner
+Lehends,{'None': ['KR: Lehends Always be cryingEUW: coctel']},Support
+PerfecT,{'None': ['KR: KT PerfecT']},Top Laner
+Castle,{'None': ['KR: KTA TOP']},Top Laner
+Way,{'None': ['KR: KT Way']},Support
+Reble,{'None': ['KR: KT Rebel']},Support
+HamBak,{'KR': '함박이지롱'},Jungler
+Feisty,{'KR': '7777케이'},Mid Laner
+Hype,{'None': ['KR: SANDBOX KingKong']},Bot Laner
+Hirai,{},Coach
+supreme,{},Coach
+RapidStar,{},Coach
+Lilac,{},Coach
+Sonstar,{},Coach
+Morgan,{'None': ['KR: Morgan5358보라별사탕HLE Morgan15358EUW: Star is coming']},Top Laner
+UmTi,{'None': ['KR: See u AG노량 엄순신Jin Air Score']},Jungler
+Karis,{'None': ['KR: Gen G Karis모두만 잘되기를난 이제 악마다']},Mid Laner
+Hena,{'None': ['KR: BRO Hena']},Bot Laner
+Effort,{'None': ['KR: Liiv EffortEUW: Spread Wings']},Support
+Raptor,{},Jungler
+Pollu,{},Support
+DDoiV,{'None': ['KR: 짜장시키신분1']},Jungler
+Ivory,{},Mid Laner
+Enosh,{'None': ['KR: Enosh3']},Bot Laner
+Gyosoo,{'None': ['KR: 한달안에챌까지']},Support
+Kangin,{'None': ['KR: YouShouldKnowMe']},Top Laner
+Edgar,{},Coach
+Drinker,{},Coach
+MintTea,{},Coach
+Sw0rd,{},Coach
+Zeus,{'None': ['KR: 2U35우 제NA: God Thunder ZeusT1 Haaland']},Top Laner
+Oner,{'None': ['KR: T1 OnerU face z문신처럼 박힌뭘 보냐 디질래EUW: OnerKINGNA: Hello I am OnerWakanda f0rever']},Jungler
+Faker,{'None': ['KR: Hide on bushEUW: Koearnhide on streamwincgNA: mid fekarNeo Hide on bushCN: dakjshdkjBR: 19960507VN: mid24']},Mid Laner
+Gumayusi,{'None': ['KR: T1 Gumayusi구마유시EUW: Giant MonsterNA: gumaguma12']},Bot Laner
+Keria,{'None': ['KR: 역천괴 CN: PurpleKeriaEUW: The Kid KeriaNA: Aim First']},Support
+Dal,{'None': ['KR: T1 dal']},Top Laner
+Forest,{'None': ['KR: T1 F0rest']},Jungler
+Smash,{'None': ['KR: T1 R ADC']},Bot Laner
+Baut,{'None': ['KR: baut12']},Support
+Nice,{},Mid Laner
+Poby,{'KR': '바텀의신님께기도'},Mid Laner
+Sky,"{'KR': '하늘킹', 'BR': 'Sky s2 BR', 'LAS': 'XTN Sky'}",Mid Laner
+Roach,{},Coach
+Ruin,{},Coach
+Tom,{},Coach
+Doran,{},Support
+Peanut,{'KR': 'XiaoHuaSheng7'},Jungler
+Chovy,{'None': ['KR: 냥똥벌레EUW: J1HUIVShrimp SharkNA: Jeremy Bernstein']},Mid Laner
+Peyz,{'None': ['KR: Gen G Peyz']},Bot Laner
+Delight,{'None': ['KR: BRO Delight']},Support
+ZEST,{'None': ['KR: ZEST1']},Top Laner
+Winner,{'None': ['KR: Gen G Winner']},Jungler
+Lospa,{'None': ['KR: Gen G Lospa']},Support
+Carfe,{},Bot Laner
+Casting,{},Top Laner
+Ophelia,{'None': ['Gen G Ophelia KR  pOnYtAiLmAN']},Mid Laner
+Score,{},Coach
+Mafa,{},Coach
+Museong,{'None': ['KR: MS77']},Top Laner
+Nova,{},Coach
+DuDu,{'None': ['KR: bie mo woEUW: Im fine thx you']},Top Laner
+YoungJae,{'None': ['KR: GEN G YoungJaeEUW: 9 19 Night']},Jungler
+TaeYoon,{'None': ['KR: Yinyi zai ma ren']},Bot Laner
+Jun,"{'None': ['KR: DRX Jun', 'DRX 준', 'RXXX']}",Support
+BuLLDoG,{'None': ['KR: AF BuLLDoG']},Mid Laner
+Moham,{},Support
+IlllIma,{},Top Laner
+Cleaver,{},Mid Laner
+Lancer,{'None': ['KR: 정흠이']},Top Laner
+Bull,{},Bot Laner
+Andil,{},Support
+Courage,{'KR': '리브 커리지'},Jungler
+CvMax,{},Coach
+Moon,{},Coach
+Alvingo,{},Coach
+Winged,{},Coach
+Millimas,{},Coach
+Rascal,"{'None': ['KR: Gen G Rascal', 'RascalCN: donghaKimEUW: Hirai92Firefl0wer']}",Top Laner
+Croco,{'None': ['KR: gameovergameover 모두다함께차차차']},Jungler
+FATE,{'None': ['KR: FATE어둠은지긋지긋해']},Mid Laner
+deokdam,{'None': ['KR: deokdamDWG KIA']},Bot Laner
+BeryL,{'None': ['KR: DWG BeryLCN: LandsolEUW: PekoPek0QJNVJuywetsf']},Support
+Pleata,{'None': ['KR: 잘해야만하는사람']},Support
+SeTab,{'None': ['KR: 갱값하는미드']},Mid Laner
+Piero,{'None': ['KR: 불만있음다표출해']},Support
+Sponge,{},Jungler
+Starlit,{'None': ['KR: T1 R Mid']},Mid Laner
+Juhan,{'None': ['KR: Juhana']},Jungler
+Paduck,{'None': ['KR: Vyan']},Bot Laner
+Career,{},Support
+Frog,{},Top Laner
+Micro,{},Coach
+Shine,{},Support
+Gizmo,{},Coach
+Crush,{},Coach
+DnDn,{'None': ['KR: DYN DnDn']},Top Laner
+Sylvie,{'None': ['KR: DYN Sylvie']},Jungler
+FIESTA,{},Jungler
+vital,{'EUW': ['Vital 0']},Bot Laner
+Peter,{},Support
+Quad,{'None': ['KR: coldniightCN: quadcat']},Mid Laner
+Mihile,{},Top Laner
+Sounda,{'None': ['KR: Fox B JingJing']},Jungler
+Callme,{'None': ['KR: KT R MID']},Mid Laner
+Calix,{},Mid Laner
+Jiwoo,{},Bot Laner
+HH,{'None': ['KR: AF HH']},Support
+Irean,{},Coach
+CoCo,{},Coach
+Noblesse,{},Coach
+Chelly,{},Coach
+Sound,{},Coach
+SSUN,{},Coach
+Burdol,{'None': ['KR: Gen G BurdolKKilkkilGen G Jesus1Conor McGregor2duibuqimanEUW: Kimchi warrior1']},Top Laner
+Willer,{'None': ['KR: 안녕나는야퉁퉁이EUW: White Whales']},Jungler
+Clozer,{'None': ['KR: Jh2nhj2rjohSo Bad1']},Mid Laner
+Teddy,{'None': ['KR: TuTeddy  ecrrd EUW: I want winner']},Bot Laner
+Kael,{'None': ['KR: Gen G Khael']},Support
+Guti,{},Mid Laner
+DDahyuk,{'KR': 'Liiv DDahyuk'},Top Laner
+Vincenzo,{},Jungler
+Diable,{'None': ['KR: LSB AD1Top']},Bot Laner
+PlanB,{},Support
+Clear,{'None': ['KR: DRX Rudy']},Top Laner
+Ryu,{},Coach
+Simpson,{},Coach
+Dooti,{},Coach
+Lyn,{},Coach
+Seobi,{},Coach
+Adniel,{},Coach
+SEPHIX,{},Coach
+SKEETO,{'None': ['BR: 1Skeeto']},Top Laner
+Unforgiven,"{'None': ['BR: NT Unfor', 'Únforgiven', 'Toki0', 'Únfor', 'Ímprove', 'khan9', 'April 3NA: WolfwithoutMoonLAS: love sh0t']}",Jungler
+NOBODY,"{'LAN': ['Travis Mills', 'waca cwaca'], 'NA': ['Agente Schrader', 'Shakiraluma']}",Mid Laner
+Horus,{'None': ['Hørus']},Bot Laner
+GASTRUKS,"{'None': ['BR: GastruhLAN: llaGastruks2NA: Son Mightybear', '5 n0vember']}",Support
+STEELLAR,"{'None': ['Steellar', 'CAMILF']}",Top Laner
+Skin,{},Coach
+Autoboost,{},Coach
+Acce,"{'None': ['LAS: AcceleratorGG', 'FG Acce', 'HAF Yato', 'ICHIMARU GIN', 'Gilgamesh111BR: Seb Vettel', 'Acce1', 'Nugori', 'Ikki KCN: QWERTYYYYNA: TT1TT2']}",Top Laner
+Ellim,{'None': ['KR: T1 Ellim인디언식최우제']},Jungler
+Aloned,"{'None': ['LAS: Aloned', 'Aloned2BR: FG Stark', 'i follow my mind', 'Igd xiyeNA: Aloned1CN: Aloned1']}",Mid Laner
+Straight,"{'None': ['NA: R7R7R7R7R7', 'Straighttothetop']}",Support
+IgnaVilu,{},Support
+Yang,"{'BR': ['Magodafarinha', 'y4ngi', 'yangoD'], 'EUW': ['China in Box'], 'KR': ['filho do makinha']}",Top Laner
+Snok,{},Coach
+Zothve,{'None': ['BR: poison treeKR: no one know us']},Top Laner
+Josedeodo,{'None': ['NA: JosedeodoPinwinasioJosedeodo4BR: JosedeodoJosedeodo2CN: JosedeodoKR: EST Josedeodo']},Jungler
+Leza,"{'None': ['NA: Drofazel', 'LezaCN: Aloned', 'upupandaway']}",Mid Laner
+Hans SamD,{'None': ['KR: Lifeisgood666']},Bot Laner
+Mia,{'None': ['KR: APK MiaNA: mla3']},Support
+Bola,{'None': ['TDT d Campechano']},Bot Laner
+Jonte,{},Manager
+Gaeng,{},Coach
+Dye,{},Coach
+Falco,{},Coach
+ZOEN,{},Top Laner
+Solid,{},Mid Laner
+Keine,{'KR': ['9th keine']},Mid Laner
+5Kid,{'None': ['KR: 5kid']},Bot Laner
+ACKERMAN,"{'None': ['BR: ÁckermanNA: ACKÈRMANEUW: seventy thirty', 'ACKERMÁN']}",Support
+PapiSosa,{},Substitute
+Kouke,{},Coach
+Seize,{},Jungler
+Kaze,{},Mid Laner
+Gavotto,"{'None': ['NA: Gavotto', 'The Last Split']}",Bot Laner
+Jelly,{},Support
+KinGi,{},Jungler
+qShiroo,{'None': ['Yäto']},Streamer
+Khynm,{},Coach
+Kun,{},Coach
+Bong,{'None': ['EUW: BABO TOP']},Top Laner
+Oddie,"{'None': ['NA: lanjunglerxd', 'OddieSmurf,Lyon Oddie', 'NotASmartPlayer,naleiddo', 'Y1KESS', 'R7 JunglaLAS: Lyon Oddie', 'ISG OddieeBR: Oddiee', 'Lyon OddieEUW: ISG Oddie', 'llllllli,fYQ63qPMKID2rTtD', 'JGLATAM', 'Oddio']}",Jungler
+Mireu,{'None': ['KR: T1 M1reuEUW: Mireu12']},Mid Laner
+Ceo,"{'None': ['LAS: CA Ceo', 'R7 CeøNA: benecio the boss', 'oxizo', 'Ceo7', 'whitemochacoffeBR: Ceo T TEUW: win in london']}",Bot Laner
+Lyonz,{'None': ['EUW: SHT JR10']},Support
+Pointless,{},Coach
+Daiky,{'None': ['daíky']},Jungler
+Rahab,{},Top Laner
+Pancake,"{'None': ['NA: ad player', 'tempamrhuddiqjmw', 'AK Pancake', 'Levi Äckermän']}",Jungler
+Kiefer,"{'None': ['LAS: Kiefer NA: Rohtienocin', 'aszxcvgjazxc']}",Mid Laner
+Nothing,{},Bot Laner
+Shmebu,{},Support
+Kraan,{},Support
+ukFalleN,{},Coach
+Meaning,{'None': ['KR: Gen G Meaning']},Top Laner
+OnFleek,{'None': ['KR: Liiv OnFleek']},Jungler
+cody,"{'LAS': 'SKF SandeR, BSK Smurf çody, Willump and Nunu, 1cody, midplayer, DH Qody', 'NA': 'EseZeta, rookidˉ, Devicé, codystar', 'EUW': 'RPJIQTRD, kníght zz'}",Mid Laner
+SNAKER,{},Bot Laner
+Shu Hari,{},Support
+Hika,{},Bot Laner
+WARANGELUS,"{'None': ['LAS: ISG WaraBR:  Zunne dei', 'Warangelfus', 'elf lvl 99NA: Warangelus', 'hola quién soy', 'Lonefíre Blossom', 'The Daily LifeEUW: imreallybad69,ISG WARANGELUS,SK SpawNN']}",Substitute
+Ssumday,{'NA': 'Ssumdayday'},Top Laner
+Closer,"{'None': ['NA: Closer100', 'Kral Closer', 'Itadori Yujî', '100T Closer', 'Closer 100EUW: Kral returns']}",Jungler
+Quid,{'None': ['KR: Gen G Quid']},Mid Laner
+Doublelift,"{'None': ['NA: Doublelift', 'Peng Yiliang', 'doubleliftfanboyEUW: i come in peace', 'american pubstarKR: one armed wolf', 'NA OMEGALULCN: 动漫主角']}",Bot Laner
+Busio,"{'None': ['NA: Busio3', '100 Busio']}",Support
+Nukeduck,{},Coach
+Jenkins,"{'None': ['NA: Vase Admirer', 'TL Jenkins']}",Top Laner
+Tenacity,"{'None': ['NA: 100 Tenacity', 'TenacityEUW: dofaminu']}",Streamer
+Sniper,"{'None': ['NA: Sn1per1', '100 Sniper', 'dasdqwr1']}",Top Laner
+Fudge,{'None': ['NA: C9 LebronMaxwell WaldoGenG NemesisEUW: HOQXSCRCChrollo LücilferC9 Fudge Factor']},Top Laner
+Blaber,"{'KR': 'blaberfish2', 'EUW': 'C9 Blaberfish'}",Jungler
+EMENES,{},Mid Laner
+Berserker,{'None': ['KR: C9 Berserker']},Bot Laner
+Zven,{'None': ['NA: C9 ZvenC9 ZVENNNEUW: G2 ZveniLLaNC9 ZVENC9 ZVENNNKR: C9 Zvenotgt16BR: G2 Gimozzi']},Support
+David Han,{},Manager
+Santorin,{'None': ['NA: SantorinTL SantorinLiquid SantorinEUW: JetlagIsAMythKR: TSM SupermanKoreanBBQ OPCN: Viking国王']},Jungler
+Jensen,"{'None': ['NA: Jmønéy', 'stayawayzEUW: lanekingdom12021Worlds0019KR: Liquid Jensen구름구 젠슨JensenCN: Jensenn']}",Mid Laner
+Tomo,{'None': ['NA: Tomo9']},Bot Laner
+Poome,{'None': ['NA: CLG poome']},Support
+Diamond,{'None': ['NA: FLY Diamond']},Support
+eXyu,{'None': ['NA: eXyu']},Jungler
+Revenge,"{'None': ['NA: Revenge', 'Revenge Immortal']}",Top Laner
+Armao,"{'None': ['NA: elise player', 'Grig1', 'TL Armao']}",Jungler
+Jojopyun,{'NA': 'jojopyun 16'},Mid Laner
+UNF0RGIVEN,{},Bot Laner
+Eyla,{},Support
+Sheiden,"{'None': ['NA: Sheiden', 'TwtchTV Sheiden']}",Jungler
+Inspired,{'None': ['EUW: time wiII tellSοfm JrCN: Roguefan123']},Jungler
+Impact,"{'None': ['NA: EG ImpactKR: 어녕이', '구름구매운고추', '올반명란만두EUW: Ang gimori', 'msi1819']}",Top Laner
+Spica,"{'NA': 'TSM Spica, ASTROBOY99, Spica1, ONETRICKPOLICE', 'CN': '河道肾, Beabadoobee'}",Jungler
+VicLa,{'None': ['KR: KTA MID']},Mid Laner
+Prince,{'None': ['KR: 가고싶다 룰드컵원딜 왕자 이채환']},Bot Laner
+Vulcan,"{'NA': 'C9 VULCANNN', 'EUW': 'LAFLAMME 01'}",Support
+Yuuji,{},Jungler
+Massu,{'None': ['NA: Blacc Massu']},Bot Laner
+Winsome,{'KR': 'Shadow Winsome'},Support
+Licorice,"{'NA': 'Licorice', 'KR': '서쪽에서 최고', 'EUW': 'bwipobwipobwipo'}",Top Laner
+River,{'None': ['KR: River9bai ri mengla ji gameEUW: IcelandboyIcelandwinter']},Jungler
+Gori,{'KR': 'GGGori'},Mid Laner
+Stixxay,"{'None': ['NA: IPlayYouListen', 'StixxayKR: CLG Sticker']}",Bot Laner
+Huhi,"{'None': ['NA: haru dad', '70ping gamerhuhiKR: 웅옹웅EUW: Banande']}",Support
+Array,{'None': ['NA: DPM']},Bot Laner
+Niles,{'None': ['NA: Niles']},Top Laner
+Tactical,"{'None': ['NA: Tactical', 'Tactical0EUW: UnstoppableForceCN: avatar1']}",Bot Laner
+Treatz,"{'None': ['EUW: SK TreatzNA: TSM Treatz', 'IkeaSmurferCN: 纸板人', 'TrTz']}",Support
+Ablazeolive,"{'None': ['NA: Ablazeolive', 'GG DN Ablaze']}",Mid Laner
+Dhokla,"{'None': ['NA: Dhokla', 'ONETRICKPOLICE']}",Top Laner
+Contractz,{'None': ['NA: Contractz']},Jungler
+Palafox,{'None': ['NA: Palafox2004 07 08']},Mid Laner
+FBI,"{'None': ['NA: ADCADC123', 'Outplaymachine12EUW:NA HopiumKR: VIPERFANBOY1']}",Bot Laner
+IgNar,"{'None': ['KR: IgNarEUW: Fantastic Duo2', 'ANSN']}",Support
+Damonte,{},Coach
+Apollo,{},Coach
+Copy,"{'None': ['NA: 100 Copy', 'Copý', 'Ctrl C', 'oGoDs', 'C9 Copy']}",Mid Laner
+Summit,{'None': ['KR: Liiv Summit']},Top Laner
+Pyosik,{'None': ['KR: DRX 홍창현CN: washingchingDDaoNA: jg is weakkkk']},Jungler
+APA,{'None': ['NA: MU APA']},Mid Laner
+Yeon,{'None': ['NA: TL Yeon']},Bot Laner
+CoreJJ,{'None': ['NA: TL Honda CoreJJFrom IronDalgona latteKR: DiuqilMataLehendsLife1521819delCoreJangJeonLiquid MedicEUW: BOL4NanamiHakuyaCN: avatar2']},Support
+Bradley,{'None': ['NA: bradleyyy']},Top Laner
+Mir,{'None': ['KR: T1 M1reuEUW: Mireu12']},Mid Laner
+Haeri,{},Mid Laner
+Arrow,"{'None': ['KR: arrowioi', '조 울NA: HappyBeePlayer', '200pingAD']}",Bot Laner
+Kim Down,{'None': ['NA: Down Kim']},Support
+Bwipo,"{'EUW': 'Wide Canyon', 'KR': 'I will trade'}",Streamer
+Hauntzer,"{'KR': ['ice', 'Sanic Boom', 'New Experience', 'Venersis', 'ZheXue', 'Wolhaiksong'], 'BR': ['DaJiaHao'], 'NA': ['Kholin', 'Bongdong420']}",Top Laner
+Bugi,"{'None': ['KR: 버기해적단 버기', '엽북이NA: My Dream LCS', 'FG Bugi', 'FG Bugi1', 'From Rank1']}",Jungler
+Wildturtle,{'None': ['NA: WildTurtleFZ3R0alien lingKR: American IMPYuNg TuRtLeBR: te amo coxinhaCN: turtle']},Bot Laner
+Chime,"{'None': ['NA: CHIME', 'Chime2']}",Support
+zorenous,{},Top Laner
+sHAKa,{},Jungler
+Chazz,{'None': ['EUW: infinity361']},Mid Laner
+Praedyth,{'None': ['EUW: LostPhonePlsFind']},Bot Laner
+Decoy,{'None': ['EUW: Andromache1']},Support
+Vxpir,{},Support
+Lived,{'None': ['EUW: yoRHa No3 Type E']},Top Laner
+Whynot,{},Jungler
+Daystar,{'None': ['KR: 정이라고 하쟈']},Mid Laner
+leemas,{},Bot Laner
+Akia,{},Support
+Beats,{},Support
+Blue,{},Top Laner
+papryze,{},Top Laner
+Meifan,{},Jungler
+JuJo,{},Coach
+fighto,{},Mid Laner
+Voice,{},Bot Laner
+Shinki,{},Top Laner
+Jayke,"{'None': ['Trident Jayke', 'taylorswift13']}",Support
+Thien,{},Top Laner
+Souli,{},Jungler
+District 1,{},Jungler
+Sasi,{},Jungler
+DaJeung,{},Mid Laner
+Chayon,{},Bot Laner
+Hexflash,{'OCE': ['LFT HAYDEN 2023']},Support
+Yursan,{},Support
+Entrust,{},Support
+Tron,{},Top Laner
+Gooby,{},Top Laner
+mfis,{},Mid Laner
+Eiko,{},Bot Laner
+Bulldawg,{},Support
+Reu,{},Mid Laner
+Tomasino,{},Top Laner
+Woodon,{},Top Laner
+4ever,{},Jungler
+Goodo,{},Jungler
+Chirp,{},Mid Laner
+Siuman,{},Mid Laner
+danteh,{},Bot Laner
+Rosey,"{'NA': ['iM Rosey intel', 'iM Venom intel'], 'None': ['iM Venôm intel', 'Venom', 'EXO Grimtongue', 'Chief Rosey', 'Sin Rosey']}",Support
+Chippys,"{'None': ['OCE: Chippys FightoNA: Chippys', 'MASSGAINER44']}",Top Laner
+SHERNFIRE,"{'None': ['DW shernfire ROC', 'sans pareil']}",Jungler
+DONGGY,{},Mid Laner
+Violet,{'None': ['EUW: St0ne Fr33']},Bot Laner
+Apii,{},Support
+foreigner,{},Jungler
+BioPanther,{'None': ['EUW: Big Bicep Bdon']},Top Laner
+Kevy,{},Jungler
+Babip,{'None': ['EUW: Canyon fans']},Jungler
+Kisee,{},Mid Laner
+Raes,"{'None': ['Zeratul', 'Raes']}",Bot Laner
+Aladoric,{'None': ['EUW: cirodalA']},Support
+Cupcake,{},Support
+Rest,"{'None': ['KR: BMKING', 'reqszxEUW: no15ff']}",Top Laner
+Gemini,"{'None': ['TW: 戥心誣戥KR: MCX Gemini', '20180111']}",Jungler
+JimieN,{},Mid Laner
+Shunn,{},Bot Laner
+ShiauC,"{'None': ['KR: lagluckygame', 'ShiaC', 'SAUC']}",Support
+S1aytrue,{},Support
+Hanabi,{'None': ['TW: NaruseShirohaKR: NaruseSh1rohaShirakami Fubuk1EUW: Illya is my wifeShirakamiFubukiiKafuu chin0']},Top Laner
+Hana,{'None': ['TW: 蔡胖是花 KR: Ocean lordEUW: fritzlimoorange']},Jungler
+HighPeter,{},Manager
+Mission,"{'None': ['KR: wo 4 chicken', 'mide gui tou', 'm15510nEUW: Iloveberlin']}",Mid Laner
+Cryscata,{'TW': '水晶霖'},Bot Laner
+Orca,{'TW': 'Usotsuki'},Support
+665,{},Jungler
+JP6RU8,"{'TW': 'JP6RU8, 天行魂, Haerin16'}",Top Laner
+WSL,{},Jungler
+xiaotu,{},Mid Laner
+Pepero,{'TW': '滿命胡桃'},Bot Laner
+Hako,{},Bot Laner
+EnHoa,{},Support
+Atlen,{},Bot Laner
+Taizan,{},Coach
+LJW,{},Top Laner
+Arashi,{},Jungler
+Shera,{},Mid Laner
+Blaze,{},Bot Laner
+Smerv,{},Support
+Felia,{},Support
+LIKAI,{},Top Laner
+Kongyue,"{'None': ['TW: 殘破空月', 'KongyueKR: MAD Kongyue', 'FA Kongyue']}",Jungler
+1116,{'None': ['KR: UMBBBBBBBBBTHE 1116EUW: UMBBBBBBBBBBB']},Mid Laner
+Keres,{},Support
+Taco,{},Top Laner
+Hong2,{},Jungler
+Adiogs,{},Mid Laner
+Tide,{},Bot Laner
+IC8,{'None': ['TW: IC8']},Support
+Azhi,{'None': ['史上最小的志']},Top Laner
+Husha,{'None': ['KR: mohuadoEUW: HSFFFFFFFFFF']},Jungler
+Maple,{'None': ['TW: yoeFW Maple楓棠歲月KR: MapleStory300IVAlphaGo 0026933784del95150225delI dont deserveSlowly SongEUW: AlphaGo 003Full C0unterViikingr']},Mid Laner
+Wako,{},Bot Laner
+Woody,{},Support
+HongSuo,{'None': ['TW: 一律轟鎖']},Mid Laner
+JunJia,{'None': ['KR: a little story진주는함냐의국가EUW: Expecto Patrounm']},Jungler
+Relhia,{},Top Laner
+NuL1,{'None': ['中路型玩家I']},Mid Laner
+Agrona,{},Mid Laner
+Prage,{},Bot Laner
+Cha,{},Support
+Driver,{},Top Laner
+Minji,{},Mid Laner
+Bruce,"{'None': ['KR: MCX Bruce', 'wangejiba']}",Bot Laner
+Enso,{},Support
+Lauva,{'TW': '我呼風喚雨'},Jungler
+RenYe,{},Jungler
+Whale,{},Bot Laner
+Solokill,{},Top Laner
+Holo,{},Jungler
+Pretender,{'KR) Pretender ': ['OverNothing']},Mid Laner
+MnM,{},Bot Laner
+Kaiwing,{'None': ['TW: qqqqwwwwweatDIE EATdieKR: H2O Manlast day 1아이마스 타카네EUW: Phoenix SSIceland H2OManYTSearch Hanabi']},Support
+Kiaya,{'None': ['VN: 14 1 4 29 4KR: Hakunaa MatataNA: HelloAmericaa']},Top Laner
+Levi,{'None': ['VN: Capta1n LeviKR: young talentNA: L 5 22 9']},Jungler
+Kati,"{'VN': ['ˆKati', 'T 4 1 2 9 7'], 'KR': ['dsakdmxzc']}",Mid Laner
+Slayder,{'None': ['KR: Slayder one']},Bot Laner
+Zin,{'KR': ['Tiger Bengali']},Support
+Palette,{'None': ['VN: Dear PaletteKR: Nanno1']},Support
+playcool,{},Mid Laner
+Stead,{},Top Laner
+Coated,{'KR': ['3 cham']},Top Laner
+Gury,{},Jungler
+Ego,{},Jungler
+Froggy,{'KR': ['uouououououou']},Mid Laner
+Blazes,"{'VN': ['Tryna play cool'], 'KR': ['VCS Player']}",Mid Laner
+Shogun,{},Bot Laner
+Slay,"{'None': ['VN: GAM supKR: 몹시 웃기다EUW: Yasunda hi', 'ISM da boon']}",Support
+Hiro02,{},Top Laner
+Hasmed,{'VN': ['Hasmed']},Top Laner
+Qiang,{},Jungler
+Kratos,{},Top Laner
+Artifact,{'None': ['KR: badtripvldo3']},Mid Laner
+Aress,{},Mid Laner
+Eddie,{},Bot Laner
+Kwhite,{},Bot Laner
+Taki,{},Support
+Xuhao,{},Analyst
+Nper,{},Top Laner
+DNK,"{'VN': ['ˆNDKˆ'], 'KR': ['DNK01']}",Jungler
+Penguin,{},Jungler
+Dia1,{'None': ['VN: conheomapKR: tieu chovy']},Mid Laner
+Vinboiz,{'KR': ['bettersupcanwin']},Bot Laner
+Pun,{'VN': ['YB No1Pun']},Top Laner
+Jewel,{},Jungler
+Richard I,{},Mid Laner
+TT789,{},Mid Laner
+Pyshiro,{},Bot Laner
+Elio,{},Support
+Joyboy,{},Mid Laner
+Ikigai,{},Jungler
+Sparda,{'KR': ['top gap new game']},Top Laner
+Bean J,{'KR': ['BJJJJJJJJJJJJ']},Jungler
+Gloryy,{},Mid Laner
+Artemis,{'VN': ['SGD Artemis']},Bot Laner
+Vit,{},Bot Laner
+Bie,"{'VN': ['duchjeu hue'], 'KR': ['huhuhuhu']}",Support
+CBL,{'KR': ['지원 챔피언']},Support
+Marcus,{},Top Laner
+Yoshino,{'None': ['VN: Yoshikawa YuukoKR: Zeros1EUW: GAM Yoshinoo']},Top Laner
+Draktharr,{'KR': ['pessimisticx']},Jungler
+Phuc1,{},Jungler
+Jane,{},Mid Laner
+Puddin,{},Bot Laner
+Sora2,{},Support
+Hieu3,{'KR': ['caubenhaycam']},Support
+Sorn,{},Jungler
+Emo,{},Mid Laner
+Nugu,"{'VN': '211221', 'KR': '우주를 줄게 1802'}",Mid Laner
+Slowz,{},Top Laner
+Zodiac,{'VN': ['Zodiac12']},Support
+Ryuk,{},Top Laner
+R4VEN,{},Top Laner
+Jacob,{},Jungler
+Krysia,{},Jungler
+LeQu,{},Top Laner
+HowLa,{'None': ['KR: rkljlama04']},Bot Laner
+kyeahoo,{'None': ['KR: Yo제끼럽 왔썹']},Mid Laner

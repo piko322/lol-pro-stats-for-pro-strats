@@ -1,0 +1,1199 @@
+Region,Team,Official Summoner Name,ids,Roles (LeaguePedia),Roles (RCD)
+BR,FLUXO,Baldan,{},Top,NaN
+BR,FLUXO,Forlin,{},Top,NaN
+BR,FLUXO,Tay,"{'None': ['BR: 7ay', 'Esdeath', 'FPXzhaoTOP303485CN: BR01']}",Top,NaN
+BR,FLUXO,Disamis,{},Jungle,NaN
+BR,FLUXO,Ancrath,{},Jungle,NaN
+BR,FLUXO,Hauz,{},Mid,NaN
+BR,FLUXO,Picknn,{},Mid,NaN
+BR,FLUXO,Xoska,{},Mid,NaN
+BR,FLUXO,Kojima,{},Bot,NaN
+BR,FLUXO,Brance,{'None': ['LLL Brance']},Bot,NaN
+BR,FLUXO,JoJo,{'None': ['BR: v J o J oEUW: Aegis fangirlQAQ']},Sup,NaN
+BR,FLUXO,Kick,{},Sup,NaN
+BR,FURIA,Fonix,{},Top,NaN
+BR,FURIA,Betão,{},Top,NaN
+BR,FURIA,Gru,{},Top,NaN
+BR,FURIA,Goot,{},Jungle,NaN
+BR,FURIA,StineR,{},Jungle,NaN
+BR,FURIA,Tutsz,{'None': ['Tutsz']},Mid,NaN
+BR,FURIA,Fuuu,{},Mid,NaN
+BR,FURIA,Ayu,{},Sup,NaN
+BR,FURIA,yazi,{},Bot,NaN
+BR,FURIA,Manel,{},Sup,NaN
+BR,FURIA,Shoiti,{},Sup,NaN
+BR,FURIA,zay,"{'None': ['little zay', 'zay', 'ZAYBAS']}",Sup,NaN
+BR,FURIA,Strix,{},Jungle,NaN
+BR,INTZ,Eradan,{},Top,NaN
+BR,INTZ,Zzk,{},Top,NaN
+BR,INTZ,Paclo,{},Top,NaN
+BR,INTZ,Tatu,{},Jungle,NaN
+BR,INTZ,Yampi,{'None': ['CNB HyperX Yampi']},Jungle,NaN
+BR,INTZ,NOsFerus,"{'None': ['Julius Kreuz', 'modo ben 10', 'NOsFerus1', 'OLHA O MAPA PFV']}",Mid,NaN
+BR,INTZ,Blacky,{},Mid,NaN
+BR,INTZ,Juzo,{},Bot,NaN
+BR,INTZ,NinjaKiwi,{},Bot,NaN
+BR,INTZ,Look,{},Sup,NaN
+BR,INTZ,Thominhas,{},Sup,NaN
+BR,INTZ,Nia,{'None': ['KR: 연애꽃1']},Sup,NaN
+BR,KaBuM! Esports,SuperCleber,{},Top,NaN
+BR,KaBuM! Esports,Lonely,{'None': ['KR:FA Lonely']},Top,NaN
+BR,KaBuM! Esports,Scary,{},Jungle,NaN
+BR,KaBuM! Esports,Samkz,"{'None': ['BR: SamkzNA: AK Samkz', 'Samkzlol', 'AK Samkz1', 'My Ðream CBLOL', 'My Dream CBLOL', 'Baby HalierLAN: llaSamkz']}",Jungle,NaN
+BR,KaBuM! Esports,Dioge,{},Mid,NaN
+BR,KaBuM! Esports,Krastyel,"{'None': ['Krastyel1', 'GFX Krastyel', 'EXP Krastyel', 'OVL Krastyel', 'TSW Krastyel', 'NAO DO ROAMING']}",Mid,NaN
+BR,KaBuM! Esports,DOPPLER,{},Bot,NaN
+BR,KaBuM! Esports,Scuro,{},Bot,NaN
+BR,KaBuM! Esports,RAV3N,{},Bot,NaN
+BR,KaBuM! Esports,Guigs,{},Sup,NaN
+BR,KaBuM! Esports,RedBert,"{'None': ['BR: RedBert', 'NimoTV RedBertCN: BR05']}",Sup,NaN
+BR,Liberty Esports,SkB,{},Top,NaN
+BR,Liberty Esports,Lukshy,{},Top,NaN
+BR,Liberty Esports,Kiari,{},Top,NaN
+BR,Liberty Esports,accez,{},Jungle,NaN
+BR,Liberty Esports,Drakehero,{},Jungle,NaN
+BR,Liberty Esports,Avenger,{'None': ['BR: presetdocalabrasEUW: presetdocalabras']},Mid,NaN
+BR,Liberty Esports,Piloto,{'None': ['frozen q congela']},Mid,NaN
+BR,Liberty Esports,Juliera,{},Bot,NaN
+BR,Liberty Esports,Reaper,{},Bot,NaN
+BR,Liberty Esports,Cavalo,{},Sup,NaN
+BR,Liberty Esports,Momochi,{},Sup,NaN
+BR,Liberty Esports,Wos,"{'None': ['CNB HyperX Wos', 'CNB Woswos', 'WosWos']}",Sup,NaN
+BR,Los Grandes,Boal,{},Top,NaN
+BR,Los Grandes,Hidan,{'BR) trill hidan ': ['Hidanvs']},Top,NaN
+BR,Los Grandes,Enel1,"{'None': ['enel1', 'HLA Enel']}",Jungle,NaN
+BR,Los Grandes,JotaEmeZ,{},Top,NaN
+BR,Los Grandes,CrjaY,{},Jungle,NaN
+BR,Los Grandes,Neyzz,{},Mid,NaN
+BR,Los Grandes,Allezs,{},Mid,NaN
+BR,Los Grandes,Lava,{'None': ['KR: BRO Lava lavazz 골목대장 태훈이']},Mid,NaN
+BR,Los Grandes,Netuno,{},Bot,NaN
+BR,Los Grandes,Celo,{},Bot,NaN
+BR,Los Grandes,Ranger,"{'None': ['R de Langer', 'AFF É O RANGER', 'Ranger RXRXRXRX', 'BG Lenovo Rngr']}",Sup,NaN
+BR,Los Grandes,Mido,{},Sup,NaN
+BR,LOUD,Makes,{},Top,NaN
+BR,LOUD,Robo,{'None': ['BR: ROBOCA DE SACOLAEUW: É O ROBSROBOOOOO']},Top,NaN
+BR,LOUD,Hugato,{},Jungle,NaN
+BR,LOUD,Croc,{'EUW': 'no item JG'},Jungle,NaN
+BR,LOUD,Anyyy,{'None': ['a famosa annie1']},Mid,NaN
+BR,LOUD,Ryanzin,{},Mid,NaN
+BR,LOUD,tinowns,{'None': ['BR: LOUD tinowns2EUW: MSI KDA PLAYER']},Mid,NaN
+BR,LOUD,ROUTE,{'None': ['KR: Liiv Route']},Bot,NaN
+BR,LOUD,Sant,{},Bot,NaN
+BR,LOUD,Ceos,"{'None': ['Céos', 'Ceoszinho', 'c4tatal']}",Sup,NaN
+BR,LOUD,Vahvel,{},Sup,NaN
+BR,paiN Gaming,Wizer,{'None': ['KR: BRION Wizer']},Top,NaN
+BR,paiN Gaming,Yupps,{},Top,NaN
+BR,paiN Gaming,junyxb,{},Jungle,NaN
+BR,paiN Gaming,anato,{},Jungle,NaN
+BR,paiN Gaming,CarioK,{'None': ['BR: paiN JG1EUW: ZKQMDSHY']},Jungle,NaN
+BR,paiN Gaming,dyNquedo,"{'KR': ['MC DYNQUEDO', 'zeca urubu']}",Mid,NaN
+BR,paiN Gaming,Qats,{},Mid,NaN
+BR,paiN Gaming,kksh,{},Bot,NaN
+BR,paiN Gaming,Bvoy,"{'KR': 'MSF BVOY, its time 2 carry', 'NA': 'Bvoy7, EST Bvoy, Bvoyz, Bvoy3, Pick Bvoy, BVOYXD', 'LAN': 'llaBvoy'}",Bot,NaN
+BR,paiN Gaming,ProDelta,{'None': ['Pro Delta']},Sup,NaN
+BR,paiN Gaming,Griba,{},Sup,NaN
+BR,paiN Gaming,Miss,{},Sup,NaN
+BR,paiN Gaming,Djoko,"{'None': ['Djoko', 'DJOKOZOR', 'BIood Reina']}",Jungle,NaN
+BR,RED Canids Kalunga,Beta32,{},Top,NaN
+BR,RED Canids Kalunga,fNb,"{'None': ['burn to emerge', 'PRG fNb', 'lwasbornforthis', 'fNb s2 Trigod']}",Top,NaN
+BR,RED Canids Kalunga,Aegis,{'None': ['BR: AegisEUW: JoJo fangirlQAQ']},Jungle,NaN
+BR,RED Canids Kalunga,Soweto,{},Jungle,NaN
+BR,RED Canids Kalunga,doom,{},Jungle,NaN
+BR,RED Canids Kalunga,Peco,{},Mid,NaN
+BR,RED Canids Kalunga,Envy,{'None': ['BR: EnvyyyCN: BR03']},Mid,NaN
+BR,RED Canids Kalunga,Aithusa,{},Mid,NaN
+BR,RED Canids Kalunga,TitaN,{'None': ['BR: TitaNEUW: Lasthitmagic']},Bot,NaN
+BR,RED Canids Kalunga,Morttheus,{},Bot,NaN
+BR,RED Canids Kalunga,frosty,{'None': ['frosty2']},Sup,NaN
+BR,RED Canids Kalunga,scamber,"{'None': ['scamber', 'scamber2']}",Sup,NaN
+BR,Vivo Keyd Stars,Guigo,{'None': ['EUW: ssibal mosquitos']},Top,NaN
+BR,Vivo Keyd Stars,Tyrin,"{'None': ['tyrxn', 'limitless boy', 'Tyrin']}",Top,NaN
+BR,Vivo Keyd Stars,Sting,{'None': ['JUGKING']},Jungle,NaN
+BR,Vivo Keyd Stars,Grell,"{'None': ['NA: Gréll', 'Amaid0ll', 'Pinwinasio']}",Jungle,NaN
+BR,Vivo Keyd Stars,Grevthar,{'None': ['BR: GrevzinEUW: B99 PERALTHAR']},Mid,NaN
+BR,Vivo Keyd Stars,Leleko,{},Mid,NaN
+BR,Vivo Keyd Stars,Trigo,"{'None': ['tr1go', 'Sidney Royel', 'Trigo 11']}",Bot,NaN
+BR,Vivo Keyd Stars,Stepz,{},Bot,NaN
+BR,Vivo Keyd Stars,Tombrutu,{},Bot,NaN
+BR,Vivo Keyd Stars,Yuki,{},Sup,NaN
+BR,Vivo Keyd Stars,Damage,"{'None': ['IDMG', 'Damagee']}",Sup,NaN
+CN,XianTeamWE,Demon,{},Top,Top
+CN,XianTeamWE,Hope,{'None': ['KR: ytmrytmr2']},Bot,Bot
+CN,XianTeamWE,Iwandy,{'None': ['KR: danjuan roseEUW: GNLGNL']},Sup,Sup
+CN,XianTeamWE,Shanks,{'None': ['KR: qian lai mai gua']},Mid,Mid
+CN,XianTeamWE,Heng,{},Jungle,Jungle
+CN,XianTeamWE,Biubiu,{'None': ['KR: sanbintouhao']},Top,Top
+CN,WeiboGamingFAWAUDI,Crisp,{'None': ['KR: woshissmyueqianlongmain to a sleepEUW: sdasdasdwoshidoinb']},Sup,Sup
+CN,WeiboGamingFAWAUDI,Light,{'None': ['EUW: laozitianye']},Bot,Bot
+CN,WeiboGamingFAWAUDI,Xiaohu,{'None': ['KR: kannibiaoyanasdfdkkkszEUW: RNG1etmeXXWCGMLBJHHHlucky iceland']},Mid,Mid
+CN,WeiboGamingFAWAUDI,Karsa,{'None': ['CN: 夜奏花KR: haoyunpizzahaoyunsenmingLycor1s']},Jungle,Jungle
+CN,WeiboGamingFAWAUDI,KennyChan,{},Jungle,Jungle
+CN,WeiboGamingFAWAUDI,TheShy,{'None': ['CN: qeawasdasdKR: The shy협곡에갇힌자벌꿀오소리의주먹henrenzhenderenEUW: baxsxasd']},Top,Top
+CN,UltraPrime,Hery,{},Top,Top
+CN,UltraPrime,Baolan,{'None': ['KR: manman0EUW: tutututututuut']},Sup,Sup
+CN,UltraPrime,Ning,{'CN': 'xxxqqqqzzz'},Jungle,Jungle
+CN,UltraPrime,zs,{'None': ['KR: 파이팅 인생']},Top,Top
+CN,UltraPrime,Qing,{},Mid,Mid
+CN,UltraPrime,Doggo,{'None': ['KR: zxcsazxcazdznoobad03EUW: Iceland 18YBYG Liang']},Bot,Bot
+CN,THUNDERTALKGAMING,XinLiu,{'None': ['KR: zheduibai']},Sup,Sup
+CN,THUNDERTALKGAMING,huanfeng,"{'None': ['CN:  一个牛逼的ad', '开心超人123KR: haohaobudaoz']}",Bot,Bot
+CN,THUNDERTALKGAMING,xiaohuangren,{'None': ['KR: nodfan']},Jungle,Jungle
+CN,THUNDERTALKGAMING,yaoyao,{},Sup,Sup
+CN,THUNDERTALKGAMING,Beichuan,{},Jungle,Jungle
+CN,THUNDERTALKGAMING,ucal,"{'None': ['KR: Ucal', 'KT UcaL', 'K T']}",Mid,Mid
+CN,THUNDERTALKGAMING,HOYA,"{'None': ['KR: 용호야', 'BRO Hoya']}",Top,Top
+CN,TOPESPORTS,Wayward,{'KR': 'cainiao2hao'},Top,Top
+CN,TOPESPORTS,Tian,{'None': ['CN: Tian9999xinnian09KR: ziyouEUW: G2SejuaniJankosEU funny gameS11Tian']},Jungle,Jungle
+CN,TOPESPORTS,JackeyLove,"{'CN': 'JackeyLove', 'KR': 'ADCGOD 12', 'EUW': 'caibizaodianshui'}",Bot,Bot
+CN,TOPESPORTS,Qingtian,{'None': ['KR: yi lu xiang bel']},Top,Top
+CN,TOPESPORTS,Mark,{'None': ['CN: lifeenjoyKR: DuDu11TES 77']},Sup,Sup
+CN,TOPESPORTS,Rookie,{'CN': '把我当成一颗树叭'},Mid,Mid
+CN,RoyalNeverGiveUp,Ming,{'None': ['CN: karsacoolKR: freeze5조용하고착한도구yjzbabaEUW: niudefuwuqi2021Worlds0173']},Sup,Sup
+CN,RoyalNeverGiveUp,Angel,{'None': ['CN:  Ange1z浮生若欧鞋竖兴怀品114759KR: zhong men dui ju']},Mid,Mid
+CN,RoyalNeverGiveUp,Wei,{'None': ['KR: mnbvcxzsdalongmeilEUW: qwezxcvbnm2021Worlds']},Jungle,Jungle
+CN,RoyalNeverGiveUp,GALA,{'None': ['KR: kxnmb321987654waigaEUW: wininIceland2021Worlds0171']},Bot,Bot
+CN,RoyalNeverGiveUp,Breathe,{'None': ['KR: Contact912cold skincainiao3hao']},Top,Top
+CN,RoyalNeverGiveUp,Tangyuan,{'KR': ['ruanxiu']},Mid,Mid
+CN,RareAtom,Assum,{},Bot,Bot
+CN,RareAtom,Strive,{},Mid,Mid
+CN,RareAtom,Southwind,{'None': ['KR: shuai de hen']},Sup,Sup
+CN,RareAtom,Cube,{'None': ['KR: guzhu']},Top,Top
+CN,RareAtom,Leyan,{'None': ['KR: Fu4kTheworldEUW: huijialeEUbyebye']},Jungle,Jungle
+CN,RareAtom,bkr,{},Sup,Sup
+CN,OhMyGod,Able,{'None': ['KR: happy gameblitzkrieg Bop']},Bot,Bot
+CN,OhMyGod,Munian,{},Top,Top
+CN,OhMyGod,Creme,{},Mid,Mid
+CN,OhMyGod,ppgod,{'None': ['KR: xiaoqiupup']},Sup,Sup
+CN,OhMyGod,Aki,"{'None': ['KR: no dream', 'support me or gg']}",Jungle,Jungle
+CN,OhMyGod,shanji,{'None': ['KR: elbAGMO']},Top,Top
+CN,OhMyGod,Jerry,{},Sup,Sup
+CN,SHENZHENNIP,Dream,{},Mid,Mid
+CN,SHENZHENNIP,Photic,{'None': ['KR: photic12345']},Bot,Bot
+CN,SHENZHENNIP,XLB,{'None': ['KR: Strange2']},Jungle,Jungle
+CN,SHENZHENNIP,Zhuo,{'None': ['KR: SUPG0D 12']},Sup,Sup
+CN,SHENZHENNIP,Invincible,{},Top,Top
+CN,SHENZHENNIP,Pout,{'None': ['KR: Shadow PoutPout']},Mid,Mid
+CN,SHENZHENNIP,Rich,{'None': ['KR: 농심 리치']},Top,Top
+CN,SuzhouLNGEsports,Yuekai,{'None': ['EUW: Mohe dance hall']},Mid,Mid
+CN,SuzhouLNGEsports,Hang,{'None': ['KR: crycrystal']},Sup,Sup
+CN,SuzhouLNGEsports,Tarzan,{'None': ['KR: 타 잔axczsdasd츠코파이ndbgEUW: GRFGRFGRFGRFGRFLngLng']},Jungle,Jungle
+CN,SuzhouLNGEsports,LP,{},Bot,Bot
+CN,SuzhouLNGEsports,Zika,{},Top,Top
+CN,SuzhouLNGEsports,Scout,{'None': ['KR: 미북이wrsltEUW: Kimchi3']},Mid,Mid
+CN,HangzhouLGDGAMING,Lpc,{},Bot,Bot
+CN,HangzhouLGDGAMING,Xiaoxu,{},Top,Top
+CN,HangzhouLGDGAMING,Meteor,{'None': ['KR: baihuerlian']},Jungle,Jungle
+CN,HangzhouLGDGAMING,Jinjiao,"{'None': ['KR: wohennangu0', 'jiozz']}",Sup,Sup
+CN,HangzhouLGDGAMING,xqw,{},Mid,Mid
+CN,HangzhouLGDGAMING,haichao,{},Mid,Mid
+CN,BeijingJDGIntelEsportsClub,Kanavi,{'None': ['CN:  YagiaoKR: douyu TV 7459436kaaanavi']},Jungle,Jungle
+CN,BeijingJDGIntelEsportsClub,369,{'None': ['CN: haohaohaoKR: haohaohao3cainiao1hao']},Top,Top
+CN,BeijingJDGIntelEsportsClub,knight,{'None': ['CN: 2020karsaKR: waywode']},Mid,Mid
+CN,BeijingJDGIntelEsportsClub,MISSING,{'None': ['KR: changguiiiiiiiiikgcjhADHSADN']},Sup,Sup
+CN,BeijingJDGIntelEsportsClub,Ruler,{'None': ['KR:  Gen G RulerCN: glaemfekglaemfdjNA: corejjoppaEUW: ADADAD141414']},Bot,Bot
+CN,BeijingJDGIntelEsportsClub,Lzq,{},Mid,Mid
+CN,InvictusGaming,Ahn,{},Bot,Bot
+CN,InvictusGaming,neny,{},Top,Top
+CN,InvictusGaming,Wink,{'None': ['KR: qwertyuiopqweUareinEUW: zxczxcxzczx']},Sup,Sup
+CN,InvictusGaming,YSKM,{},Top,Top
+CN,InvictusGaming,Dove,{'None': ['KR: KT Dove']},Mid,Mid
+CN,InvictusGaming,gideon,{'None': ['KR:  황제펭귄 5호']},Jungle,Jungle
+CN,FunPlusPhoenix,Lele,{'None': ['EUW: good The server']},Sup,Sup
+CN,FunPlusPhoenix,fearness,{},Top,Top
+CN,FunPlusPhoenix,Lwx,{'None': ['KR: wqnflqwnfoqwEUW: dang qiu qianmaoxiandao']},Bot,Bot
+CN,FunPlusPhoenix,H4cker,{'None': ['CN: Case19KR: fan qie guo']},Jungle,Jungle
+CN,FunPlusPhoenix,Xiaolaohu,{'None': ['EUW: Thel1ttletiger']},Top,Top
+CN,FunPlusPhoenix,Care,{},Mid,Mid
+CN,FunPlusPhoenix,haoye,{},Jungle,Jungle
+CN,FunPlusPhoenix,QiuQiu,"{'None': ['CN: 片面了老铁KR: why me so diao,게임을 끄기전에']}",Sup,Sup
+CN,FunPlusPhoenix,Xingye,{},Bot,Bot
+CN,SHANGHAIEDWARDGAMINGHYCAN,Jiejie,{'None': ['KR: 나는변신할것이다Dan Xiao GuEUW: Dinner first']},Jungle,Jungle
+CN,SHANGHAIEDWARDGAMINGHYCAN,Meiko,{'None': ['KR: yasxlkcjasdznHeinskaut refur']},Sup,Sup
+CN,SHANGHAIEDWARDGAMINGHYCAN,Monki,{},Jungle,Jungle
+CN,SHANGHAIEDWARDGAMINGHYCAN,Ale,{'None': ['KR: huntiandi1EUW: LNGLNGLNG']},Top,Top
+CN,SHANGHAIEDWARDGAMINGHYCAN,Leave,{},Bot,Bot
+CN,SHANGHAIEDWARDGAMINGHYCAN,FoFo,{'None': ['KR: fotuneEUW: MidOnlywin']},Mid,Mid
+CN,SHANGHAIEDWARDGAMINGHYCAN,Fisher,{'None': ['KR: Fisherr']},Mid,Mid
+CN,BilibiliGamingPinganBank,Xun,{'None': ['KR: wanfeng']},Jungle,Jungle
+CN,BilibiliGamingPinganBank,Yagao,{'None': ['CN: 左名豪KR: YaGaoYagao12']},Mid,Mid
+CN,BilibiliGamingPinganBank,ON,{'None': ['CN: SUP08WHKiZiEDKR: ON12Bearduck']},Sup,Sup
+CN,BilibiliGamingPinganBank,Elk,{'None': ['KR: bzdbqc']},Bot,Bot
+CN,BilibiliGamingPinganBank,Jwei,{},Sup,Sup
+CN,BilibiliGamingPinganBank,Bin,{'None': ['CN:  TurningBackTime打野别帮我折谢谢KR: sn topchenzebindasdqwr']},Top,Top
+CN,AnyonesLegend,Xiaohao,{},Jungle,Jungle
+CN,AnyonesLegend,Zdz,{},Top,Top
+CN,AnyonesLegend,SwordArt,{'None': ['NA: TSMFTX SwordArt7CN: SwordArT777KR: Swordart7776140824delEUW: FW Schwertkunst']},Sup,Sup
+CN,AnyonesLegend,Harder,{},Mid,Mid
+CN,AnyonesLegend,pinz,{},Mid,Mid
+CN,AnyonesLegend,Betty,"{'None': ['KR: S1mpIe', 'TheDarkForest', 'Uravity', 'FVV BETTY', 'BeTnT1EUW: TWgaoxuecheng']}",Bot,Bot
+CN,JIJIEHAO,Kepler,{},Bot,Bot
+CN,JIJIEHAO,hulatang,{'None': ['KR: Shao ji']},Top,Top
+CN,JIJIEHAO,Ycx,{},Sup,Sup
+CN,JIJIEHAO,climber,{},Jungle,Jungle
+CN,JIJIEHAO,xHun,{},Mid,Mid
+CN,JIJIEHAO,xLiang,{},Bot,Bot
+CN,JIJIEHAO,Nuo,{},Top,Top
+CN,WE.ACADEMY,Xing,{},Bot,Bot
+CN,WE.ACADEMY,Decade,{},Top,Top
+CN,WE.ACADEMY,Stay,{'None': ['KR: znlydgyxyd']},Bot,Bot
+CN,WE.ACADEMY,View,{'None': ['CN: PagodaKR: 디킨스이']},Jungle,Jungle
+CN,WE.ACADEMY,Yanxiang,{},Jungle,Jungle
+CN,WE.ACADEMY,Kedaya,{'None': ['EUW: LNG uneasy']},Sup,Sup
+CN,WE.ACADEMY,wake,{},Sup,Sup
+CN,WE.ACADEMY,BuLuKaKa,{},Mid,Mid
+CN,WE.ACADEMY,mxx,{},Jungle,Jungle
+CN,WeiBo Gaming-YouthTeam,forse,{},Mid,Mid
+CN,WeiBo Gaming-YouthTeam,xiaomuma,{},Top,Top
+CN,WeiBo Gaming-YouthTeam,705,"{'None': ['KR: No soul', '실망자']}",Top,Top
+CN,WeiBo Gaming-YouthTeam,Xhow,{},Jungle,Jungle
+CN,WeiBo Gaming-YouthTeam,Wuy,{},Sup,Sup
+CN,WeiBo Gaming-YouthTeam,think,{},Sup,Sup
+CN,WeiBo Gaming-YouthTeam,ZFF,{},Jungle,Jungle
+CN,WeiBo Gaming-YouthTeam,TuT,{},Bot,Bot
+CN,WeiBo Gaming-YouthTeam,wenyi,{},Sup,Sup
+CN,WeiBo Gaming-YouthTeam,Xiaobudong,{},Mid,Mid
+CN,Ultra Prime Academy,kelin,{},Bot,Bot
+CN,Ultra Prime Academy,Vergil,{},Mid,Mid
+CN,Ultra Prime Academy,Aliez,{},Top,Top
+CN,Ultra Prime Academy,Rosielove,{},Sup,Sup
+CN,Ultra Prime Academy,whisper,{},Jungle,Jungle
+CN,Ultra Prime Academy,Mirror,{'None': ['twitchtvLoLRudy']},Jungle,Mid
+CN,Thunder Talk Gaming.Young,xiao7,{},Top,Top
+CN,Thunder Talk Gaming.Young,Maggie,{},Jungle,Jungle
+CN,Thunder Talk Gaming.Young,Captain,{},Mid,Mid
+CN,Thunder Talk Gaming.Young,frigid,{},Jungle,Jungle
+CN,Thunder Talk Gaming.Young,bat,{},Bot,Bot
+CN,Thunder Talk Gaming.Young,Mmy,{},Sup,Sup
+CN,Thunder Talk Gaming.Young,juejuezi,{},Top,Top
+CN,Thunder Talk Gaming.Young,Ljun,{},Sup,Sup
+CN,TEAM PINNACLE,clean11,{},Bot,Bot
+CN,TEAM PINNACLE,Wxm,{},Jungle,Jungle
+CN,TEAM PINNACLE,ea7,{},Bot,Bot
+CN,TEAM PINNACLE,wk,{},Top,Top
+CN,TEAM PINNACLE,Loco,{},Sup,Sup
+CN,TEAM PINNACLE,capp1r,{},Mid,Mid
+CN,TEAM PINNACLE,1024,{},Top,Top
+CN,TOPESPORTSChallenger,naiyou,{},Jungle,Jungle
+CN,TOPESPORTSChallenger,JiaQi,{},Bot,Bot
+CN,TOPESPORTSChallenger,Niket,{},Sup,Sup
+CN,TOPESPORTSChallenger,Aspire,{},Top,Top
+CN,TOPESPORTSChallenger,xiaofang,{},Jungle,Jungle
+CN,TOPESPORTSChallenger,Wangxiao,{},Mid,Mid
+CN,TOPESPORTSChallenger,10ng,{},Mid,Mid
+CN,ShuDaiXiongGaming,Konodio,{},Sup,Sup
+CN,ShuDaiXiongGaming,TheNut,{},Top,Top
+CN,ShuDaiXiongGaming,Ever,{},Bot,Bot
+CN,ShuDaiXiongGaming,Desire,{},Mid,Mid
+CN,ShuDaiXiongGaming,Noregret,{},Jungle,Jungle
+CN,ShuDaiXiongGaming,XHB,{},Top,Jungle
+CN,ShuDaiXiongGaming,Kabishou,{},Sup,Sup
+CN,ShuDaiXiongGaming,laoduan,{},Top,Top
+CN,ShuDaiXiongGaming,cocoon,{},Jungle,Jungle
+CN,Royal Club,Bunny,{},Sup,Sup
+CN,Royal Club,Zinco,{},Bot,Bot
+CN,Royal Club,Xzz,{},Mid,Mid
+CN,Royal Club,PandaC,{},Top,Top
+CN,Royal Club,Longqi,{},Top,Top
+CN,Royal Club,lhyz,{},Jungle,Jungle
+CN,Royal Club,milkyway,{},Jungle,Jungle
+CN,Royal Club,ziyou,{},Sup,Sup
+CN,Royal Club,zhiqiuyi,{},Bot,Bot
+CN,Royal Club,naiti,{},Bot,Bot
+CN,Rare Atom.Period,Eisley,{},Bot,Bot
+CN,Rare Atom.Period,Zorah,{},Sup,Sup
+CN,Rare Atom.Period,Fy,{},Jungle,Jungle
+CN,Rare Atom.Period,Yu,{},Sup,Top
+CN,Rare Atom.Period,ving,{},Bot,Bot
+CN,Rare Atom.Period,DOING,{},Mid,Mid
+CN,Rare Atom.Period,zzl,{},Mid,Mid
+CN,Rare Atom.Period,Hoshiyoru,{},Jungle,Jungle
+CN,Rare Atom.Period,camellia,{},Jungle,Jungle
+CN,OH MY DREAM,Mori,{},Jungle,Jungle
+CN,OH MY DREAM,Starry,{},Jungle,Bot
+CN,OH MY DREAM,Yumeng,{},Mid,Mid
+CN,OH MY DREAM,Tong,{'None': ['CN: VG丶Hetong']},Sup,Top
+CN,OH MY DREAM,Delicate,{},Jungle,Top
+CN,OH MY DREAM,xiaosiji,{},Sup,Sup
+CN,OH MY DREAM,Elysia13,{},Sup,Sup
+CN,OH MY DREAM,banye,{},Mid,Mid
+CN,OH MY DREAM,Clock,{},Jungle,Jungle
+CN,MAX,Rat,"{'None': ['KR: milaoshu', 'taizhenshile']}",Bot,Bot
+CN,MAX,Medzz,{},Mid,Mid
+CN,MAX,Crush3,{},Jungle,Jungle
+CN,MAX,Vinay,{},Bot,Bot
+CN,MAX,Garvey,{'None': ['KR: tuoxiezhanshen']},Top,Top
+CN,MAX,Xiao17,{},Jungle,Jungle
+CN,MAX,yellowlight,{},Sup,Sup
+CN,MAX,7copy,{},Bot,Bot
+CN,MAX,Kismet,{},Sup,Sup
+CN,MAX,Danrengui,{},Sup,Sup
+CN,LiNingGaming.Academy,xzy,{},Mid,Mid
+CN,LiNingGaming.Academy,Uneasy,{},Bot,Bot
+CN,LiNingGaming.Academy,Mysun,{},Sup,Sup
+CN,LiNingGaming.Academy,5K,{},Top,Top
+CN,LiNingGaming.Academy,Darwin,{},Jungle,Jungle
+CN,LiNingGaming.Academy,Yummy,{},Mid,Mid
+CN,LiNingGaming.Academy,dbh,{},Bot,Jungle
+CN,LGDGaming Young Team,S1xu,{},Jungle,Jungle
+CN,LGDGaming Young Team,Feng,{'None': ['KR: Dispel haze']},Sup,Sup
+CN,LGDGaming Young Team,xjx,{},Top,Top
+CN,LGDGaming Young Team,RanL,{},Bot,Bot
+CN,LGDGaming Young Team,Realm,{},Mid,Mid
+CN,LGDGaming Young Team,SW,{},Bot,Bot
+CN,JoyDream,Keaiduo,{'None': ['NA: Bot0511']},Mid,Mid
+CN,JoyDream,zzx,{},Jungle,Jungle
+CN,JoyDream,Feather,{},Sup,Sup
+CN,JoyDream,1xn,{},Bot,Bot
+CN,JoyDream,Nimrod,{},Top,Top
+CN,JoyDream,Dorian,{},Sup,Sup
+CN,JoyDream,Cookie7,{},Jungle,Jungle
+CN,InvictusGamingYoung,Ke,{},Sup,Sup
+CN,InvictusGamingYoung,Tianzhen,{},Jungle,Jungle
+CN,InvictusGamingYoung,xiaoyueji,{},Bot,Bot
+CN,InvictusGamingYoung,Liweier,{},Jungle,Jungle
+CN,InvictusGamingYoung,Wen,{},Top,Top
+CN,InvictusGamingYoung,WuNai,{},Sup,Sup
+CN,InvictusGamingYoung,MG,{'None': ['KR: Fox B MG']},Mid,Mid
+CN,InvictusGamingYoung,Hoshisora,{},Bot,Bot
+CN,InvictusGamingYoung,pisces,{},Top,Top
+CN,FunPlusBlaze,Such,{},Bot,Bot
+CN,FunPlusBlaze,TheNiu,{},Top,Top
+CN,FunPlusBlaze,Ashes,{},Mid,Mid
+CN,FunPlusBlaze,sorrow,{},Jungle,Jungle
+CN,FunPlusBlaze,fled,{},Mid,Sup
+CN,FunPlusBlaze,6zc,{},Jungle,Jungle
+CN,EDwardGamingYOUTHTEAM,Xiamu,{},Sup,Sup
+CN,EDwardGamingYOUTHTEAM,Cyku,{},Mid,Mid
+CN,EDwardGamingYOUTHTEAM,xiaoyu,{},Jungle,Top
+CN,EDwardGamingYOUTHTEAM,L1f,{},Mid,Mid
+CN,EDwardGamingYOUTHTEAM,Coward,{},Jungle,Jungle
+CN,EDwardGamingYOUTHTEAM,Coyote,{},Bot,Bot
+CN,EDwardGamingYOUTHTEAM,Xiaoxiang,{'None': ['KR: lin shu haojasper MP5 KINGcainiao7hao']},Top,Top
+CN,EDwardGamingYOUTHTEAM,Doux,{},Bot,Bot
+CN,Bilibili Gaming junior,can,{},Jungle,Jungle
+CN,Bilibili Gaming junior,Daisy,{},Jungle,Jungle
+CN,Bilibili Gaming junior,Rise,{},Bot,Bot
+CN,Bilibili Gaming junior,huanhuan,{},Mid,Mid
+CN,Bilibili Gaming junior,Xiaoxia,{},Sup,Sup
+CN,Bilibili Gaming junior,Price,{},Jungle,Jungle
+CN,Bilibili Gaming junior,Chosen1,{},Top,Top
+CN,Bilibili Gaming junior,Baiye,{},Bot,Bot
+CN,Anyone's Legend.Young,Kaixuan,{},Sup,Sup
+CN,Anyone's Legend.Young,Coten,{},Top,Top
+CN,Anyone's Legend.Young,Hungry,{},Bot,Bot
+CN,Anyone's Legend.Young,Erha,{},Mid,Mid
+CN,Anyone's Legend.Young,Relife,{},Jungle,Jungle
+CN,Anyone's Legend.Young,xiaohanbao,{},Bot,Bot
+CN,Anyone's Legend.Young,Snorlax,{},Jungle,Jungle
+CN,Anyone's Legend.Young,xiaonanshan,{},Top,Top
+EMEA,Astralis,Finn,{'None': ['NA: Blomster FinnEUW: Jeong HyeokCLG FinnFinn1']},Top,Top
+EMEA,Astralis,113,"{'None': ['EUW: Supmass 113', 'lpl aggression7', 'SUP 113 bum', 'pandora9 jgl acc', '113 113 113 113', '113 boom', 'VGIA 113']}",Jungle,Jungle
+EMEA,Astralis,LIDER,"{'EUW': 'Bojji, Lone Wοlf, Τreasure Hunter, ECkz, ilya, note, eto, Ιiege'}",Mid,Mid
+EMEA,Astralis,Kobbe,{'EUW': 'Kobbe'},Bot,Bot
+EMEA,Astralis,JeongHoon,{'None': ['KR: 갤러리 정']},Sup,Sup
+EMEA,EXCEL,Odoamne,{'None': ['EUW: Odoamne']},Top,Top
+EMEA,EXCEL,Peach,{'None': ['KR: DRX Peach']},Jungle,Jungle
+EMEA,EXCEL,Abbedagge,{'None': ['EUW: 100 Abbedaggeagdang']},Mid,Mid
+EMEA,EXCEL,Patrik,"{'None': ['EUW: Rotten Tea', 'mainpyke00', 'helpfnatic', 'Evey Reborn', 'OG Patrik', 'noragretsplayer', 'AshtonClutcher12']}",Bot,Bot
+EMEA,EXCEL,LIMIT,{'None': ['EUW: LIMIT12345']},Sup,Sup
+EMEA,EXCEL,Nomi,{'None': ['Nomi']},Bot,Bot
+EMEA,Fnatic,Oscarinin,{'EUW': 'papi oscαr'},Top,Top
+EMEA,Fnatic,Wunder,"{'EUW': 'NoWoWFreeWin', 'KR': 'TheOutgoing, G2 Sejong', 'CN': 'IdontplayLeague'}",Top,Top
+EMEA,Fnatic,Razork,{'EUW': 'Razørk Activoo'},Jungle,Jungle
+EMEA,Fnatic,Humanoid,{'EUW': 'Jonah Falcon'},Mid,Mid
+EMEA,Fnatic,Noah,{'None': ['KR: KT Noah은하박사']},Bot,Bot
+EMEA,Fnatic,Trymbi,{'None': ['EUW: RGE TrymbiwqrwionyAdiTheGoodGuytrymbol']},Sup,Sup
+EMEA,Fnatic,Rekkles,"{'None': ['EUW: Swedish Deft', 'Chapter 4', 'IIlIllIIIIllIlIIKR: EnNopp112', 'FNC 레클레스CN: Swedish']}",Sup,Bot
+EMEA,Fnatic,Doxy,{'EUW': ['Fix The System8']},Top,Top
+EMEA,Fnatic,Rabble,{'EUW': ['Rabble Arouser']},Jungle,Jungle
+EMEA,Fnatic,Nafkelah,"{'EUW': ['call of power', 'chovy simulator']}",Mid,Mid
+EMEA,Fnatic,Reptile,{},Bot,Bot
+EMEA,Fnatic,Kadir,"{'None': ['EUW: OlmVuysSless', 'Kadeer', 'Kαdir', 'Kad1rZ']}",Sup,Sup
+EMEA,Fnatic,Viketox,"{'EUW': ['High Øn Life', 'EL ESCAPATRAJØ']}",Sup,Sup
+EMEA,Fnatic,Valans,{},Mid,Mid
+EMEA,G2 Esports,Broken Blade,"{'None': ['EUW: brokenblade19', 'G2 Topfather', 'brokenblade12NA: Kral BB', 'TSM BBKR: 1a2b3c4d5f6', 'str8 beefy modeCN: asdovjstsmapibb', 'YassuoSanchovies']}",Top,Top
+EMEA,G2 Esports,Yike,{'EUW': ['Yikeru']},Jungle,Jungle
+EMEA,G2 Esports,Caps,"{'KR': 'G2midCaps, TheShackledCaps, IIIlllllIllI'}",Mid,Mid
+EMEA,G2 Esports,Hans Sama,"{'None': ['EUW: KR: TrackingTheWeebs', 'MSF GoHanCN: NA: EDFDSUH']}",Bot,Bot
+EMEA,G2 Esports,Mikyx,{'None': ['EUW: BurnsTaichouHand Dipper KanoKR: MSF KacchanMikyXLCN: G2Kuroko']},Sup,Sup
+EMEA,MAD Lions,Chasy,"{'None': ['KR: DWG Chasy', 'Chasy  EUW: Chasyzz']}",Top,Top
+EMEA,MAD Lions,Elyoya,{'None': ['EUW: bobber kongElyoyaaaElyoyαRatón calvo']},Jungle,Jungle
+EMEA,MAD Lions,Nisqy,{'None': ['EUW: FNC Nisqybaba']},Mid,Mid
+EMEA,MAD Lions,Carzzy,{'EUW': 'bob kong'},Bot,Bot
+EMEA,MAD Lions,Hylissang,"{'EUW': 'FNC Hylissang', 'KR': 'Svveeney Todd'}",Sup,Sup
+EMEA,Team Heretics,Evi,"{'None': ['JP: エビルリフト', 'ホトトギスKR: oxi52NA: IMT 7h Evi1EUW: Maine CooonsmukakukukaLeapfrogger']}",Top,Top
+EMEA,Team Heretics,Jankos,"{'EUW': 'BriarFeetSniffa, LuvFlakkedCheeks, THPizzaBox, Polish Wonderb0y, llIlllllIIllllll', 'EUNE': 'Jankoss', 'NA': 'H2K Jankosovich', 'KR': 'G2 얀노인, G2 Jankos, Giang Van Cot', 'VN': 'Giang Van Cot'}",Jungle,Jungle
+EMEA,Team Heretics,Vetheo,{'EUW': ['LEC MIDKING']},Mid,Mid
+EMEA,Team Heretics,Flakked,"{'None': ['EUW: 2weeksrank1', '6419', '100x100 MERENGUE', 'el tetoncitoKR: 696942042069420']}",Bot,Bot
+EMEA,Team Heretics,Mersa,{},Sup,Sup
+EMEA,Team Heretics,iBo,"{'EUW),Bydlak z Westa ': ['IceBeasto']}",Top,Top
+EMEA,Team Heretics,Bluerzor,"{'EUW': ['bluerzor', 'bIuerzor', 'GO bluerzor']}",Jungle,Jungle
+EMEA,Team Heretics,Zwyroo,{},Mid,Mid
+EMEA,Team Heretics,Jackspektra,{'None': ['EUW: nobody knows0']},Bot,Bot
+EMEA,Team Heretics,marlon,{},Sup,Sup
+EMEA,KOI,Szygenda,{'None': ['EUW: SzygendaTheShygenda']},Top,Top
+EMEA,KOI,Malrang,{'None': ['KR: RGE MalrangCo24EUW: 1 or 6RGE Malrang']},Jungle,Jungle
+EMEA,KOI,Larssen,"{'EUW': 'PeacefulWαrrior, IIlIlIlllIII'}",Mid,Mid
+EMEA,KOI,Comp,"{'None': ['EUW: zhavm', 'Kite Machine']}",Bot,Bot
+EMEA,KOI,Advienne,"{'None': ['EUW: Advienne', 'BL Advienne']}",Sup,Sup
+EMEA,KOI,Sinmivak,{},Top,Top
+EMEA,KOI,Koldo,"{'EUW': 'Aítana Øcaña, Køldo Locuraa, soy murciANO, Aítana Ocaña'}",Jungle,Jungle
+EMEA,KOI,BACA,{},Mid,Mid
+EMEA,KOI,Jopa,{},Bot,Bot
+EMEA,KOI,Stend,{},Sup,Sup
+EMEA,KOI,Lucker,{'None': ['EUW: winning now']},Bot,Bot
+EMEA,KOI,Seaz,{},Sup,Sup
+EMEA,SK Gaming,Irrelevant,{},Top,Top
+EMEA,SK Gaming,Markoon,"{'None': ['EUW: Markoon', 'ikklapjouwII']}",Jungle,Jungle
+EMEA,SK Gaming,Sertuss,"{'None': ['EUW: Sertuss1', 'Sertuss', 'Ssutres']}",Mid,Mid
+EMEA,SK Gaming,Exakick,"{'None': ['EUW: EUW Hope', 'Giant Monsterx']}",Bot,Bot
+EMEA,SK Gaming,Doss,"{'EUW': ['KIYF Doss', 'SK Doss']}",Sup,Sup
+EMEA,SK Gaming,Gilius,"{'EUW': 'S04 Gilius, Gilius1, Gilius2, Berk Demir'}",Jungle,Jungle
+EMEA,SK Gaming,JNX,"{'None': ['EUW: SK 187', 'Jötunheimrr', '5 0 or 0 5', 'KlausStörtebeker', 'Liantiao Jenax', 'JENAX UNCHAINED', 'die on side', 'SK 187']}",Top,Top
+EMEA,SK Gaming,Lurox,"{'EUW': 'RGO Lurox, S04 Lurox, Lurox'}",Jungle,Jungle
+EMEA,SK Gaming,FEBIVEN,"{'EUW': 'cxzczczcxzcxzcz, MSF FEB1VEN, qweasdqweasdqwqq, FNC FEBlVEN', 'KR': 'FNC 페비벤'}",Mid,Mid
+EMEA,SK Gaming,Keduii,"{'None': ['Keduii123', 'keduii1234', 'keduii321']}",Bot,Bot
+EMEA,SK Gaming,Prime,{},Sup,Sup
+EMEA,Team BDS,Adam,"{'None': ['EUW: Nothing much', 'Adamdam', 'Shoei Baro', 'Shidou Ryusei', 'Adam 17 Ans TerS', 'FHKDGrtHOguTHG3w', 'Thats my toplane', 'Adam 20ans LEC', 'Sigmα Grindset']}",Top,Top
+EMEA,Team BDS,Sheo,{},Jungle,Jungle
+EMEA,Team BDS,nuc,{'EUW': ['knight9żż']},Mid,Mid
+EMEA,Team BDS,Crownie,{'None': ['EUW: YujiYuji']},Bot,Bot
+EMEA,Team BDS,Labrov,{'None': ['EUW: school phobiaAmelda']},Sup,Sup
+EMEA,Team BDS,Agresivoo,{'None': ['EUW: banger5agrsv']},Top,Top
+EMEA,Team BDS,Maxi,"{'EUW': ['NiP Maxi'], 'NA': ['FLY Maxi']}",Jungle,Jungle
+EMEA,Team BDS,Reeker,{},Mid,Mid
+EMEA,Team BDS,xMatty,{},Bot,Bot
+EMEA,Team BDS,Erdote,"{'EUW': ['Erdote', 'Erdoté', 'February 2019']}",Sup,Sup
+EMEA,Team Vitality,Photon,{'None': ['KR: FA gyuvee']},Top,Top
+EMEA,Team Vitality,Bo,{'None': ['KR: wu guan feng yue EUW: zyb']},Jungle,Jungle
+EMEA,Team Vitality,Perkz,{'KR': 'Uma Jan'},Mid,Mid
+EMEA,Team Vitality,Upset,{'EUW': 'Upset03'},Bot,Bot
+EMEA,Team Vitality,Kaiser,{'EUW': 'livelyfish5'},Sup,Sup
+EMEA,Team Vitality,PatkicaA,{},Top,Top
+EMEA,Team Vitality,Scarface,"{'None': ['Scarface', 'GO GET IT', 'ecafracS']}",Top,Top
+EMEA,Team Vitality,Daglas,{},Jungle,Jungle
+EMEA,Team Vitality,Czajek,{'None': ['EUW: Czajëkk']},Mid,Mid
+EMEA,Team Vitality,Neon,"{'None': ['EUW: x4T7', 'Neon1337Ad']}",Bot,Bot
+EMEA,Team Vitality,Jactroll,"{'None': ['EUW: VIT jactroll', 'ChristopherNolän', 'Arte et Marte', 'WntFindMeLolProsKR: V Jactroll']}",Sup,Sup
+EMEA,Team Vitality,Innaxe,"{'None': ['EUW: Uzi Trainee', 'man like Innaxe', 'RNG Innaxe']}",Bot,Bot
+EMEA,IZIDREAM,Kio,{},Top,Top
+EMEA,IZIDREAM,Djoko,"{'None': ['Djoko', 'DJOKOZOR', 'BIood Reina']}",Jungle,Jungle
+EMEA,IZIDREAM,Bung,{},Bot,Bot
+EMEA,IZIDREAM,Rayito,{'EUW': ['Rayito']},Bot,Bot
+EMEA,IZIDREAM,Klaj,{'None': ['EUW: Brittany123']},Sup,Sup
+EMEA,IZIDREAM,Nomanz,{'None': ['RU: Mr NomanzEUW: huge performanz']},Mid,Mid
+EMEA,LDLC-OL,Kryze,"{'None': ['EUW: xLinayaa', 'Kryze', 'Aednatan']}",Top,Top
+EMEA,LDLC-OL,White,{'None': ['White']},Mid,Jungle
+EMEA,LDLC-OL,Backlund,{'None': ['EUW: MijkaKR: Jordan Pointon']},Mid,Mid
+EMEA,LDLC-OL,Jeskla,{'None': ['EUW: Jesklaasista plats']},Bot,Bot
+EMEA,LDLC-OL,Zoelys,{},Sup,Sup
+EMEA,Team GO,Ragner,{'EUW': ['Ragner 1']},Top,Top
+EMEA,Team GO,Lyncas,{'None': ['EUW: im a junglerits paydayvery artistic']},Jungle,Jungle
+EMEA,Team GO,Toucouille,{'EUW': ['GW toucouille']},Mid,Mid
+EMEA,Team GO,Jezu,{'None': ['EUW: JezuuuRhynozSPOLFCEI']},Bot,Bot
+EMEA,Team GO,Kamilius,{'EUW': ['kamilius']},Sup,Sup
+EMEA,GameWard,Badlulu,{},Top,Top
+EMEA,GameWard,Eckas,{'None': ['EUW: Eckas1']},Jungle,Jungle
+EMEA,GameWard,Twohoyrz,{},Mid,Mid
+EMEA,GameWard,Practice,{'None': ['EUW: MkLeoPractice']},Bot,Bot
+EMEA,GameWard,Raxxo,{},Sup,Sup
+EMEA,Solary,Melonik,{},Top,Top
+EMEA,Solary,Steeelback,"{'None': ['sandcastlemaker1', 'steeelbackmaker1', 'Steeelbackmaker', 'GSI Steeelbackkk', 'FnaticSteeelBack', 'SteeelB4ck', 'ODY SteeelBack']}",Sup,Sup
+EMEA,Solary,TakeSet,{},Bot,Mid
+EMEA,Solary,Peng,"{'None': ['TwTv Peng04', 'Peng04', 'peng mid']}",Mid,Bot
+EMEA,Solary,Shlatan,{'None': ['EUW: i have faith']},Jungle,Jungle
+EMEA,Solary,Narkuss,{'EUW': ['LUN NARKUSS']},Jungle,Substitute
+EMEA,Karmine Corp,Cabochard,"{'EUW': ['KC Gaulois'], 'KR': ['otwoeur11']}",Top,Top
+EMEA,Karmine Corp,Skeanz,"{'None': ['EUW: Shëun', 'Le petit Poulpos', 'Skeαnz']}",Jungle,Jungle
+EMEA,Karmine Corp,Saken,{},Mid,Mid
+EMEA,Karmine Corp,Caliste,{'EUW': ['KC NEXT ADKING']},Bot,Bot
+EMEA,Karmine Corp,Targamas,"{'None': ['EUW: Targamas', 'Grizzly HillsKR: 8981742742']}",Sup,Sup
+EMEA,Karmine Corp,Cinkrof,"{'None': ['EUW: Cz6 Cinkrof', 'BKN Cinkrof', 'LeOsUx1', 'fanselenygomezz', 'xfajtEUNE: Cinkrof', 'Jakub Cinkrof']}",Jungle,Jungle
+EMEA,BK ROG,Howling,{'None': ['KR:  모기야 멈춰']},Top,Top
+EMEA,BK ROG,Pridestalker,{},Jungle,Jungle
+EMEA,BK ROG,Czekolad,{},Mid,Mid
+EMEA,BK ROG,Trigger,{'None': ['KR: UijU']},Bot,Bot
+EMEA,BK ROG,Veignorem,{},Sup,Sup
+EMEA,Aegis,Lot,{},Top,Top
+EMEA,Aegis,Skewmond,{},Jungle,Jungle
+EMEA,Aegis,Eika,"{'None': ['HipsterPanda', 'nevo Eika', 'G2 Eika', 'Eikaa', 'KIRUA', 'EikaHoon']}",Mid,Mid
+EMEA,Aegis,Shiganari,{'None': ['EUW: qwflkqflaslf']},Bot,Bot
+EMEA,Aegis,Hantera,"{'EUW),Un Deux Trois ': ['SLY Hantera,H TT']}",Sup,Sup
+EMEA,Eintracht Frankfurt,Vertigo,{},Top,Substitute
+EMEA,Eintracht Frankfurt,Don Arts,"{'None': ['ESG Don Arts', 'Down Arts,Don Arts']}",Jungle,Jungle
+EMEA,Eintracht Frankfurt,ZaZee,{'None': ['EUW: SK ZaZee']},Mid,Mid
+EMEA,Eintracht Frankfurt,DizL,"{'None': ['DIV DizL', 'noname adcarry']}",Bot,Bot
+EMEA,Eintracht Frankfurt,Vaunted,{},Sup,Sup
+EMEA,Berlin International Gaming,HARPOON,{},Bot,Bot
+EMEA,Berlin International Gaming,Vizicsacsi,{'None': ['Vizícsacsi']},Top,Top
+EMEA,Berlin International Gaming,Rulfchen,{},Jungle,Jungle
+EMEA,Berlin International Gaming,Kaymin,"{'None': ['IV Kaymin', 'Spintail']}",Mid,Mid
+EMEA,Berlin International Gaming,Leon,{},Sup,Sup
+EMEA,Berlin International Gaming,Nugget,{},Mid,Substitute
+EMEA,Berlin International Gaming,Xagog,{},Jungle,Substitute
+EMEA,Eintracht Spandau,Pride,{},Top,Top
+EMEA,Eintracht Spandau,Zanzarah,{'None': ['EUW: AST Zanzarah']},Jungle,Jungle
+EMEA,Eintracht Spandau,Special,{'None': ['EUW: Special']},Mid,Mid
+EMEA,Eintracht Spandau,Smiley,{'EUW': ['HusτlinbeasT']},Bot,Bot
+EMEA,Eintracht Spandau,Lilipp,"{'EUW) SK Lilipp ': [''], 'None': ['felipé énglert', '19419251', 'Kreuzfahrtschiff', 'Ρroblematíc', 'Lilipp', 'Hook Abuser', 'lIlIxx']}",Sup,Sup
+EMEA,Schalke 04,Sacre,{'EUW': ['ercaS']},Top,Top
+EMEA,Schalke 04,Afroboi,{},Jungle,Jungle
+EMEA,Schalke 04,Simpli,{'EUW': ['ssimpli']},Mid,Mid
+EMEA,Schalke 04,Mishigu,{},Bot,Bot
+EMEA,Schalke 04,Seal,{},Sup,Sup
+EMEA,MOUZ,Carlsen,{},Top,Top
+EMEA,MOUZ,Alexx,"{'None': ['EUW: Alexanderkylling', 'MAD Alexxx']}",Jungle,Jungle
+EMEA,MOUZ,Sencux,{'EUW': ['Séncux']},Mid,Mid
+EMEA,MOUZ,Kynetic,"{'EUW) Sockenbube Lgym ': [''], 'None': ['Kynetic']}",Bot,Bot
+EMEA,MOUZ,Tore,"{'None': ['EUW: el Tore', 'nrskrn', 'Renato Simunovic']}",Sup,Sup
+EMEA,MOUZ,Glowing,"{'None': ['EUW: Glowing1', 'give me mid ok']}",Mid,Substitute
+EMEA,NNO Prime,Flamer,{'EUW) Fl4mer': ['']},Top,Top
+EMEA,NNO Prime,Lamabear,"{'None': ['MM Lamabear', 'HMA Lamabear', 'Silver Bite']}",Jungle,Jungle
+EMEA,NNO Prime,Matislaw,"{'EUW': ['Matislaw', 'PT Xiaohu', 'Matislaw v7']}",Mid,Mid
+EMEA,NNO Prime,Saviour,"{'EUW),Edu Na Svoë ': ['MOUZ Saviour']}",Sup,Sup
+EMEA,NNO Prime,Notiko,{},Bot,Bot
+EMEA,NNO Prime,Agurin,"{'None': ['EUW: Agurin', 'Charlie Heaton NA: NAgurin', 'USAgurin KR: KoreAgurin', 'Agurin모모']}",Jungle,Substitute
+EMEA,E WIE EINFACH E-SPORTS,Ventair,{'None': ['Contact912']},Top,Top
+EMEA,E WIE EINFACH E-SPORTS,Nite,{},Mid,Mid
+EMEA,E WIE EINFACH E-SPORTS,Tazaku,{},Bot,Bot
+EMEA,E WIE EINFACH E-SPORTS,Pan,{},Sup,Sup
+EMEA,E WIE EINFACH E-SPORTS,D4nka,{},Jungle,Jungle
+EMEA,GamerLegion,Tracyn,{},Top,Top
+EMEA,GamerLegion,Visdom,"{'BR': ['Visd0M', 'Bery bery sad']}",Sup,Sup
+EMEA,GamerLegion,Phantomles,{'EUW': ['Phantomles']},Mid,Mid
+EMEA,GamerLegion,jinjo,{},Bot,Bot
+EMEA,GamerLegion,zlaksd,{},Sup,Substitute
+EMEA,GamerLegion,Akabane,"{'None': ['SOLOQ DEVIL666', 'Akabane13']}",Jungle,Jungle
+EMEA,Unicorns of Love - Sexy Edition,Venour,"{'None': ['EUW: Venour', 'iskø']}",Top,Top
+EMEA,Unicorns of Love - Sexy Edition,Mask,"{'None': ['KR: 마스크 챙기자,qazesc']}",Mid,Mid
+EMEA,Unicorns of Love - Sexy Edition,FUN k3y,{},Bot,Bot
+EMEA,Unicorns of Love - Sexy Edition,Lekcyc,{'EUW': ['lekcycc aka boss']},Sup,Sup
+EMEA,Unicorns of Love - Sexy Edition,Sayna,{'EUW': ['MRS Sayna']},Bot,Sub
+EMEA,Unicorns of Love - Sexy Edition,CaD,"{'None': ['KR: HLE CaD', 'CastleDragon1']}",Jungle,Jungle
+EMEA,Movistar Riders,Marky,"{'None': ['EUW: markyy1', 'dinosaur 23']}",Top,Top
+EMEA,Movistar Riders,Isma,{},Jungle,Jungle
+EMEA,Movistar Riders,Fresskowy,{},Mid,Mid
+EMEA,Movistar Riders,Álvaro,{},Sup,Sup
+EMEA,Movistar Riders,Supa,"{'EUW': 'Supaaa, 4tukano4, Perro de Elyoya'}",Bot,Bot
+EMEA,Movistar Riders,Unai,{},Top,Top
+EMEA,Movistar Riders,Hydra,"{'EUW': ['The Lοnely God', 'From Zed To LEC']}",Mid,Mid
+EMEA,Bisons ECLUB,Myrwn,{'EUW': ['Gwenicienta']},Top,Top
+EMEA,Bisons ECLUB,Random,{'None': ['EUW: ESB Random']},Mid,Mid
+EMEA,Bisons ECLUB,Thream,{},Sup,Sup
+EMEA,Bisons ECLUB,Legolas,"{'EUW': ['From One To Five', 'ADGAP IS SUPPGAP']}",Bot,Bot
+EMEA,Bisons ECLUB,Oscure,{},Sup,Sup
+EMEA,Bisons ECLUB,Rubenxico,{'None': ['Nº IV']},Top,Top
+EMEA,Bisons ECLUB,NoName,{},Jungle,Jungle
+EMEA,UCAM Tokiers,Lisbd,{},Bot,Bot
+EMEA,UCAM Tokiers,Mart,{},Jungle,Jungle
+EMEA,UCAM Tokiers,Rafitta,{},Bot,Bot
+EMEA,UCAM Tokiers,Hatrixx,{'None': ['EUW: Hætrixx']},Mid,Mid
+EMEA,UCAM Tokiers,Infoneral,{},Sup,Sup
+EMEA,UCAM Tokiers,Papiteero,{},Top,Top
+EMEA,UCAM Tokiers,Aiden,{},Sup,Sup
+EMEA,UCAM Tokiers,Gromix,{},Jungle,Jungle
+EMEA,UCAM Tokiers,Xeonerr,{},Jungle,Jungle
+EMEA,Giants,Decay,"{'EUW),MSF Decay0 ': ['MSF Decay'], 'EUW': ['Naykop']}",Mid,Mid
+EMEA,Giants,Attila,"{'None': ['EUW: K1CK Minitroupax', 'K1CK Marksman', 'LPLOL Marksman', 'VIT Attila', 'GIA Attila', 'Mathew Fraser', 'Me gustan rubias', 'Scottie Pippen', 'Cillian Murphy', 'Amadeu Carvalho', 'VGIA AttiIa', 'Alfonso Campos', '2015 12 20', 'Tomer Kapon', 'VGIA23', 'CEO de los HunosKR:  VIT Attila']}",Bot,Bot
+EMEA,Giants,Alby,{},Jungle,Jungle
+EMEA,Giants,Th3Antonio,"{'None': ['EUW: Th3Antønio', 'IlIlIlIIIlIIIll', 'I CURRY YOU', 'ElRichMC', 'zTh3Zeling', 'Th3AntonioGG', 'spanish potterrr', 'Th3Mushroom', 'Th3CarryPotter', 'VGIA Th3Antonio', 'Crabairel', 'marinated pork', 'PELUK1NG']}",Top,Top
+EMEA,Giants,Whiteinn,{'EUW': ['Whiteinn']},Sup,Sup
+EMEA,Giants,Xerxe,"{'None': ['EUW: absconsus', 'Holy RabiesKR: Stumpy']}",Jungle,Jungle
+EMEA,FC Barcelona,Efias,"{'EUW': 'Efias, G2AR Efias'}",Sup,Sup
+EMEA,FC Barcelona,Whiteknight,"{'None': ['EUW: WhiteKnight108', 'ittaMoretnA']}",Top,Top
+EMEA,FC Barcelona,Sajator,{},Mid,Mid
+EMEA,FC Barcelona,Deadly,"{'None': ['Deádly', 'Strong Mental']}",Bot,Bot
+EMEA,FC Barcelona,NAAU,{},Jungle,Jungle
+EMEA,FC Barcelona,Xixauxas,{},Sup,Sup
+EMEA,FC Barcelona,Maxlore,"{'None': ['EUW: Maxlore', 'Moot Ishkhan']}",Jungle,Jungle
+EMEA,Guasones,Dreedy,"{'None': ['EUW: Blows a lot', 'Strongside Lover']}",Top,Top
+EMEA,Guasones,Memento,"{'EUW),A Memento ': ['Memento1']}",Jungle,Jungle
+EMEA,Guasones,Ronaldo,{'None': ['EUW: way wha']},Mid,Mid
+EMEA,Guasones,Zamulek,{},Bot,Bot
+EMEA,Guasones,DuaLL,"{'None': ['EUW: DuaLL', 'DUALL Y PÁ']}",Sup,Sup
+EMEA,REBELS,Obstinatus,{},Sup,Sup
+EMEA,REBELS,R4VEN,{},Top,Top
+EMEA,REBELS,AHaHaCiK,{'None': ['EUW: AHaHaCíKayayacik']},Jungle,Jungle
+EMEA,REBELS,Dajor,{},Mid,Mid
+EMEA,REBELS,BEAN,"{'EUW) Beanovich ': [''], 'None': ['FNC Bean']}",Bot,Bot
+EMEA,REBELS,Toyejo,"{'EUW': ['Toyejo', 'Midzukill']}",Mid,Mid
+EMEA,REBELS,Whyx,{},Sup,Sup
+EMEA,EXEED,Shelfmade,{'None': ['EUW: BL King Mantis']},Top,Top
+EMEA,EXEED,Roshan,{},Jungle,Jungle
+EMEA,EXEED,Vigil,{},Mid,Mid
+EMEA,EXEED,Endz,{'EUW': ['z d n E']},Bot,Bot
+EMEA,EXEED,Mystiques,"{'None': ['NA: EG MystiquesEUW: Mystiquess', 'Mystiques']}",Sup,Sup
+EMEA,EXEED,Dusty,{},Mid,Sub
+EMEA,Team ESCA Gaming,Grzybek,{'None': ['EUW: NieUfamCiJezu12']},Top,Top
+EMEA,Team ESCA Gaming,Sawyor,"{'None': ['EUW: swr', 'swrr']}",Jungle,Jungle
+EMEA,Team ESCA Gaming,WaenA,"{'KR': ['motu'], 'EUW': ['bewbewbewbew', 'Waena']}",Mid,Mid
+EMEA,Team ESCA Gaming,Adison,{},Bot,Bot
+EMEA,Team ESCA Gaming,Ephekles,{},Sup,Sup
+EMEA,Alior Bank Team,Ariana,{},Top,Top
+EMEA,Alior Bank Team,Krazler,{},Jungle,Jungle
+EMEA,Alior Bank Team,many,{'None': ['EUNE: Graqman']},Mid,Mid
+EMEA,Alior Bank Team,svns,{},Bot,Bot
+EMEA,Alior Bank Team,minemaciek,{},Sup,Sup
+EMEA,Alior Bank Team,Yuta,{},Jungle,Sub
+EMEA,Alior Bank Team,Jacob,{},Jungle,Substitute
+EMEA,Alior Bank Team,Matixx,{},Top,Top
+EMEA,Alior Bank Team,adi1,{},Jungle,Jungle
+EMEA,Komil & Friends,ketim,{},Jungle,Jungle
+EMEA,Komil & Friends,Lee sang,{},Mid,Mid
+EMEA,Komil & Friends,Gerro,{},Bot,Sup
+EMEA,Illuminar Gaming,PolskiKoz,{},Top,Top
+EMEA,Illuminar Gaming,Lothen,{'None': ['EUW: Layteen']},Bot,Bot
+EMEA,Illuminar Gaming,Krysia,{},Jungle,Jungle
+EMEA,Illuminar Gaming,Mrozku,{},Mid,Mid
+EMEA,Illuminar Gaming,Syrpy,{},Sup,Sup
+EMEA,Grypciocraft Esports,LeQu,{},Top,Top
+EMEA,Grypciocraft Esports,Domoles,{},Mid,Mid
+EMEA,Grypciocraft Esports,Damkex,{},Bot,Bot
+EMEA,Grypciocraft Esports,Gepard,{},Sup,Sup
+EMEA,Grypciocraft Esports,Miś,{},Bot,Bot
+EMEA,Grypciocraft Esports,ShadowUS,{},Jungle,Jungle
+EMEA,Orbit Anonymo,Hiro,{},Top,Top
+EMEA,Orbit Anonymo,Roison,{'None': ['EUW: Roìson']},Mid,Mid
+EMEA,Orbit Anonymo,Neramin,{},Bot,Bot
+EMEA,Orbit Anonymo,Czypsy,{},Sup,Sup
+EMEA,Orbit Anonymo,Savero,{},Jungle,Jungle
+EMEA,Orbit Anonymo,Aincardz,{},Jungle,Jungle
+EMEA,Iron Wolves,Zty,{},Mid,Mid
+EMEA,Iron Wolves,Jaunutis1,{},Jungle,Jungle
+EMEA,Iron Wolves,HeSSZero,{},Top,Mid
+EMEA,Iron Wolves,Syzyfek,"{'None': ['EUW: TwTv Syzyfekk', 'Syzyfek', 'boostin my egirl', 'Syzyfek LFT', 'syzyfs wife']}",Bot,Bot
+EMEA,Iron Wolves,Monk,{},Sup,Sup
+EMEA,Zero Tenacity,Color,{},Top,Top
+EMEA,Zero Tenacity,Ryuzaki,{},Jungle,Jungle
+EMEA,Zero Tenacity,SlowQ,{},Mid,Mid
+EMEA,Zero Tenacity,Kabbie,{},Sup,Sup
+EMEA,Zero Tenacity,Ice,{'None': ['KR: 폭탄치우기']},Bot,Bot
+EMEA,Zero Tenacity,Xico,"{'None': ['EUW: G2H Xico', 'Carro do amor', 'BEST RIVEN PT', 'Xico BossKING']}",Mid,Mid
+EMEA,Maturalni Forsaken,Zora,{},Top,Top
+EMEA,Maturalni Forsaken,nicolaiy,{},Jungle,Jungle
+EMEA,Maturalni Forsaken,Ribu,{'None': ['EUW: RIBU997']},Mid,Mid
+EMEA,Maturalni Forsaken,GotzY,{},Bot,Bot
+EMEA,Maturalni Forsaken,KroMAX,{},Sup,Sup
+EMEA,Maturalni Forsaken,Hyper,{},Top,Sub
+EMEA,Maturalni Forsaken,Kubon,{},Top,Sub
+EMEA,Papara SuperMassive,Serin,{'None': ['EUW: MSI MISSIONWìIIy Wonka']},Mid,Mid
+EMEA,Papara SuperMassive,Armut,{'None': ['EUW: MAD Captain2021Worlds0033CN: WeaksideJoe']},Top,Top
+EMEA,Papara SuperMassive,Zeitnot,"{'None': ['EUW: T0RTURE', 'Warren GKR: 배고프면약해진다CN: NeedSigara']}",Bot,Bot
+EMEA,Beşiktaş Esports,ANDARIEL,{},Bot,Bot
+EMEA,Beşiktaş Esports,Kireas,{},Jungle,Jungle
+EMEA,Beşiktaş Esports,Absolute,{},Sup,Sup
+EMEA,Beşiktaş Esports,KSAEZ,{'None': ['EUW: Ksâez']},Mid,Mid
+EMEA,Beşiktaş Esports,NuQ,{},Top,Top
+EMEA,Beşiktaş Esports,Lykia,{'EUW) Liaky ': ['Lykia361']},Sup,Sup
+EMEA,Eternal Fire,Paixdia,{},Sup,Sup
+EMEA,Eternal Fire,Ruep,{},Bot,Bot
+EMEA,Eternal Fire,Nakyung,{'None': ['KR: 그들은죽었다']},Mid,Mid
+EMEA,Eternal Fire,Taegyeong,{'None': ['KR: cs라도잘먹자']},Top,Top
+EMEA,Eternal Fire,NanoStrqfe,{},Top,Top
+EMEA,Eternal Fire,Nios,{},Jungle,Jungle
+EMEA,Eternal Fire,osman123,{},Jungle,Jungle
+EMEA,Dark Passage,Chef,{},Jungle,Jungle
+EMEA,Dark Passage,HiRit,"{'None': ['EUW: App bug', 'B0ring Life', 'HiRit', 'Im A Spoon', 'RLDEMOYQ']}",Top,Top
+EMEA,Dark Passage,stillnumb,{},Mid,Mid
+EMEA,Dark Passage,Sangchu,{'None': ['KR: BRB Sangchu']},Bot,Bot
+EMEA,Dark Passage,Pbd,{},Sup,Sup
+EMEA,Dark Passage,Lotuss,"{'None': ['EUW: Lοtuss', 'LOTUS']}",Jungle,NaN
+EMEA,Galakticos,Rames,{},Jungle,Jungle
+EMEA,Galakticos,Carry,{},Sup,Sup
+EMEA,Galakticos,Gamin,{},Bot,Bot
+EMEA,Galakticos,Milica,{'None': ['EUW: Milicaaaa']},Mid,Mid
+EMEA,Denizbank İstanbul Wildcats,Parus,{},Sup,Sup
+EMEA,Denizbank İstanbul Wildcats,Kofte,{},Mid,Mid
+EMEA,Denizbank İstanbul Wildcats,Bao,{'None': ['KR: DRX BAO']},Bot,Bot
+EMEA,Denizbank İstanbul Wildcats,Destroy,{'None': ['KR: DRX Destr0y']},Top,Top
+EMEA,Denizbank İstanbul Wildcats,Secondate,{},Sup,Sup
+EMEA,Denizbank İstanbul Wildcats,Ferret,{'None': ['EUW: Ozcan Gurbuz']},Jungle,Jungle
+EMEA,NASR,fabFabulous,"{'EUW),noskillonlyluck ': ['FABFABFAB']}",Top,Top
+EMEA,NASR,Patch,{},Sup,Sup
+EMEA,NASR,Scorth,{},Bot,Bot
+EMEA,NASR,Typhoon,{},Jungle,Jungle
+EMEA,NASR,Whistle,{'KR': '펭귄빙산추락'},Mid,Mid
+EMEA,NASR,ZTX,{},Top,NaN
+EMEA,FUT Esports,Mojito,{'None': ['EUW: qladfqweReaI MAN']},Jungle,Jungle
+EMEA,FUT Esports,StarScreen,{'None': ['EUW: MSI DUTY']},Top,Top
+EMEA,FUT Esports,Kaori,"{'EUW) ': ['Kaor1'], 'EUW': ['Kaori1']}",Bot,Bot
+EMEA,FUT Esports,Ryka,{},Jungle,NaN
+JPN,DetonatioN FocusMe,tol2,{},Top,NaN
+JPN,DetonatioN FocusMe,Steal,{'None': ['KR: L1surelaetsEUW: qwer1234asdfqqwwqqww']},Jungle,NaN
+JPN,DetonatioN FocusMe,Aria,{'None': ['KR: 다섯 개의 가면EUW: im sry i died2021Worlds0099iceland0']},Mid,NaN
+JPN,DetonatioN FocusMe,Yutapon,{'None': ['JP: yutaZzKR: QQ5361451용서해줘때리지마Two TlmeImaokaiEUW: 4g1v3ngr3exec cosmoflips2021Worlds0100CLG Chauster']},Top,NaN
+JPN,DetonatioN FocusMe,Harp,{'None': ['KR: KT H4rp']},Sup,NaN
+JPN,DetonatioN FocusMe,Milan,{},Bot,NaN
+JPN,Burning Core,RayFarky,{},Top,NaN
+JPN,Burning Core,CaD,"{'None': ['KR: HLE CaD', 'CastleDragon1']}",Jungle,NaN
+JPN,Burning Core,Dice,{'None': ['KR: Gen G Dice']},Mid,NaN
+JPN,Burning Core,Yuhi,{},Bot,NaN
+JPN,Burning Core,Raina,{'None': ['CN: manager1']},Sup,NaN
+JPN,Burning Core,koisi,{},Bot,NaN
+JPN,Burning Core,EL,{'KR': 'Chloe 0901'},Jungle,NaN
+JPN,Fukuoka Softbank HAWKS gaming,Kinatu,{},Top,NaN
+JPN,Fukuoka Softbank HAWKS gaming,Blank,{'KR': 'Blank'},Jungle,NaN
+JPN,Fukuoka Softbank HAWKS gaming,DasheR,"{'None': ['""""""KR:"""""" natsunoomoide']}",Mid,NaN
+JPN,Fukuoka Softbank HAWKS gaming,Marble,{},Bot,NaN
+JPN,Fukuoka Softbank HAWKS gaming,Vsta,{'None': ['KR: 뷔이스타nugulkkayoEUW: wow cold']},Sup,NaN
+JPN,Fukuoka Softbank HAWKS gaming,Kaito,{},Mid,NaN
+JPN,Fukuoka Softbank HAWKS gaming,HowLa,{'None': ['KR: rkljlama04']},Bot,NaN
+JPN,Fukuoka Softbank HAWKS gaming,Charley,{'None': ['KR: i will grind']},Sup,NaN
+JPN,Fukuoka Softbank HAWKS gaming,Ankochan,{'None': ['KR: hi im busaiku']},Jungle,NaN
+JPN,Fukuoka Softbank HAWKS gaming,YellowYoshi,{},Top,NaN
+JPN,V3 Esports,Washidai,{},Top,NaN
+JPN,V3 Esports,HRK,{},Jungle,NaN
+JPN,V3 Esports,Acee,{'None': ['CN: hikakin123']},Mid,NaN
+JPN,V3 Esports,dresscode,{},Bot,NaN
+JPN,V3 Esports,hetel,{},Sup,NaN
+JPN,V3 Esports,Pinnnk,{},Top,NaN
+JPN,V3 Esports,L0SER,{},Sup,NaN
+JPN,V3 Esports,ezman,{},Bot,NaN
+JPN,V3 Esports,enapon,{},Mid,NaN
+JPN,V3 Esports,Brucee,{},Jungle,NaN
+JPN,Crest Gaming Act,Nap,{},Top,NaN
+JPN,Crest Gaming Act,Cassin,{'None': ['KR: llIlIIIlIllIlIl']},Jungle,NaN
+JPN,Crest Gaming Act,Eugeo,{},Mid,NaN
+JPN,Crest Gaming Act,Honey,{},Bot,NaN
+JPN,Crest Gaming Act,Primo,{},Sup,NaN
+JPN,Crest Gaming Act,rre,{},Mid,NaN
+JPN,AXIZ,Ino,{},Sup,NaN
+JPN,AXIZ,Hoglet,{'LAS': ['DALE']},Jungle,NaN
+JPN,AXIZ,Megumiin,{},Mid,NaN
+JPN,AXIZ,Cheoni,{'None': ['KR: HLE Cheoni']},Bot,NaN
+JPN,AXIZ,Dicey,{},Sup,NaN
+JPN,AXIZ,96NKtaityo,{},Top,NaN
+JPN,AXIZ,Valkyrie,{},Bot,NaN
+JPN,AXIZ,Cube,{'None': ['KR: guzhu']},Top,NaN
+JPN,Sengoku Gaming,Paz,"{'None': ['JP: Intension', 'PiccolinaKR: 내가 나쁜EUW: BBQ Krazy']}",Top,NaN
+JPN,Sengoku Gaming,Once,"{'None': ['KR: VaIhaIIa', 'dkzkap']}",Jungle,NaN
+JPN,Sengoku Gaming,Jett,"{'None': ['KR: 스노우맨0', 'WE Morgan', 'hy2rwt', 'xueren']}",Mid,NaN
+JPN,Sengoku Gaming,LokeN,{'None': ['CN:  我是左名豪KR: 아이러니NekoL']},Bot,NaN
+JPN,Sengoku Gaming,Enty,{},Sup,NaN
+JPN,Sengoku Gaming,eguto,{},Top,NaN
+JPN,Sengoku Gaming,Nesty,{},Jungle,NaN
+JPN,Fennel,TaNa,{'None': ['KR: Just Again']},Top,NaN
+JPN,Fennel,hachamecha,{},Jungle,NaN
+JPN,Fennel,Recap,{},Mid,NaN
+JPN,Fennel,Leo,{'None': ['KR:  AF Le5읽씹맨']},Bot,NaN
+JPN,Fennel,Ssol,{'None': ['EMF SSol']},Bot,NaN
+JPN,Fennel,Corporal,{},Sup,NaN
+JPN,Fennel,ShakeSpeare,{},Sup,NaN
+JPN,Fennel,Deant,{},Bot,NaN
+JPN,Fennel,Kakkun,{},Mid,NaN
+JPN,Fennel,Momo,{},Top,NaN
+JPN,Fennel,Yunika,{},Jungle,NaN
+KR,Hanwha Life Esports,Kingen,{'None': ['KR: Kingen한국화약 황사장']},Top,NaN
+KR,Hanwha Life Esports,Clid,{'None': ['KR: 갱스기무라RadioheadCN: P0stmaloneEUW: Kkoma2Like a n1nja']},Jungle,NaN
+KR,Hanwha Life Esports,Zeka,{'None': ['KR: dlwlrma22카리나의댄브']},Mid,NaN
+KR,Hanwha Life Esports,Viper,{'None': ['KR: viper3pdx3EUW: Mystery SignCóbb']},Bot,NaN
+KR,Hanwha Life Esports,Life,{'KR': 'Rascal'},Sup,NaN
+KR,Hanwha Life Esports,Rooster,{'None': ['KR: 병아리크면수탉']},Top,NaN
+KR,Hanwha Life Esports,Guwon,{'None': ['KR: 오만오만오만오만']},Jungle,NaN
+KR,Hanwha Life Esports,Roamer,{'None': ['KR: BRO Roamer']},Mid,NaN
+KR,Hanwha Life Esports,Duro,{'None': ['KR: Liiv Utility']},Sup,NaN
+KR,Hanwha Life Esports,Grizzly,{},Jungle,NaN
+KR,Hanwha Life Esports,Loki,{},Mid,NaN
+KR,Hanwha Life Esports,Lure,{'None': ['KR: 빡빡이1']},Bot,NaN
+KR,Dplus Kia,Canna,{'None': ['KR: 칸 나EUW: 2021Worlds0113']},Top,NaN
+KR,Dplus Kia,Canyon,"{'None': ['KR: JUGKlNG봄 여름 괄 겨울EUW: Eventual victory', 'Aurora timeCN: doyouknowkimchi']}",Jungle,NaN
+KR,Dplus Kia,ShowMaker,"{'None': ['KR: DK ShowMaker22 JulyDWG KIAEUW: good bye iceland', 'SHøWMAKéRCN: wanshanghaowanan']}",Mid,NaN
+KR,Dplus Kia,Deft,{'None': ['KR: Deft DKCN: EDG丶AlpacaChasteloveDeft12NA: TP FROM S5EUW: IcelandWalrus']},Bot,NaN
+KR,Dplus Kia,Kellin,{'KR': '참새크면비둘기'},Sup,NaN
+KR,Dplus Kia,Thanatos,{'None': ['KR: DK Thanatos']},Top,NaN
+KR,Dplus Kia,Lucid,{'None': ['KR: DK Lucid']},Jungle,NaN
+KR,Dplus Kia,Pullbae,{'None': ['KR: DK Pullbae']},Mid,NaN
+KR,Dplus Kia,Rahel,{'None': ['KR: 42141321EUW: 2021Worlds0150']},Bot,NaN
+KR,Dplus Kia,Bible,{'None': ['KR: SPG Bible']},Sup,NaN
+KR,Dplus Kia,Loopy,{'None': ['KR: DGA Loopy']},Sup,NaN
+KR,Dplus Kia,Saint,{},Mid,NaN
+KR,Dplus Kia,Thumb,{'KR': 'Liiv SUP'},Sup,NaN
+KR,kt Rolster,Kiin,{'None': ['KR: 오뚜기3분미트볼']},Top,NaN
+KR,kt Rolster,Cuzz,{'None': ['KR: T1 CuzzCuzzzzzzzEUW: LSADSDD']},Jungle,NaN
+KR,kt Rolster,Bdd,{'None': ['KR: Gen G Bdd기차나나나나류병준입니다CN: gichangaehazimaEUW: ddbbyeeeeeee']},Mid,NaN
+KR,kt Rolster,Aiming,{'None': ['KR: 아이린asdqeee']},Bot,NaN
+KR,kt Rolster,Lehends,{'None': ['KR: Lehends Always be cryingEUW: coctel']},Sup,NaN
+KR,kt Rolster,PerfecT,{'None': ['KR: KT PerfecT']},Top,NaN
+KR,kt Rolster,Castle,{'None': ['KR: KTA TOP']},Top,NaN
+KR,kt Rolster,Way,{'None': ['KR: KT Way']},Sup,NaN
+KR,kt Rolster,Reble,{'None': ['KR: KT Rebel']},Sup,NaN
+KR,kt Rolster,HamBak,{'KR': '함박이지롱'},Jungle,NaN
+KR,kt Rolster,Feisty,{'KR': '7777케이'},Mid,NaN
+KR,kt Rolster,Hype,{'None': ['KR: SANDBOX KingKong']},Bot,NaN
+KR,OKSavingsBank BRION,Morgan,{'None': ['KR: Morgan5358보라별사탕HLE Morgan15358EUW: Star is coming']},Top,NaN
+KR,OKSavingsBank BRION,UmTi,{'None': ['KR: See u AG노량 엄순신Jin Air Score']},Jungle,NaN
+KR,OKSavingsBank BRION,Karis,{'None': ['KR: Gen G Karis모두만 잘되기를난 이제 악마다']},Mid,NaN
+KR,OKSavingsBank BRION,Hena,{'None': ['KR: BRO Hena']},Bot,NaN
+KR,OKSavingsBank BRION,Effort,{'None': ['KR: Liiv EffortEUW: Spread Wings']},Sup,NaN
+KR,OKSavingsBank BRION,Raptor,{},Jungle,NaN
+KR,OKSavingsBank BRION,Pollu,{},Sup,NaN
+KR,OKSavingsBank BRION,DDoiV,{'None': ['KR: 짜장시키신분1']},Jungle,NaN
+KR,OKSavingsBank BRION,Ivory,{},Mid,NaN
+KR,OKSavingsBank BRION,Enosh,{'None': ['KR: Enosh3']},Bot,NaN
+KR,OKSavingsBank BRION,Gyosoo,{'None': ['KR: 한달안에챌까지']},Sup,NaN
+KR,OKSavingsBank BRION,Kangin,{'None': ['KR: YouShouldKnowMe']},Top,NaN
+KR,T1,Zeus,{'None': ['KR: 2U35우 제NA: God Thunder ZeusT1 Haaland']},Top,NaN
+KR,T1,Oner,{'None': ['KR: T1 OnerU face z문신처럼 박힌뭘 보냐 디질래EUW: OnerKINGNA: Hello I am OnerWakanda f0rever']},Jungle,NaN
+KR,T1,Faker,{'None': ['KR: Hide on bushEUW: Koearnhide on streamwincgNA: mid fekarNeo Hide on bushCN: dakjshdkjBR: 19960507VN: mid24']},Mid,NaN
+KR,T1,Gumayusi,{'None': ['KR: T1 Gumayusi구마유시EUW: Giant MonsterNA: gumaguma12']},Bot,NaN
+KR,T1,Keria,{'None': ['KR: 역천괴 CN: PurpleKeriaEUW: The Kid KeriaNA: Aim First']},Sup,NaN
+KR,T1,Dal,{'None': ['KR: T1 dal']},Top,NaN
+KR,T1,Forest,{'None': ['KR: T1 F0rest']},Jungle,NaN
+KR,T1,Smash,{'None': ['KR: T1 R ADC']},Bot,NaN
+KR,T1,Baut,{'None': ['KR: baut12']},Sup,NaN
+KR,T1,Nice,{},Mid,NaN
+KR,T1,Poby,{'KR': '바텀의신님께기도'},Mid,NaN
+KR,T1,Sky,"{'KR': '하늘킹', 'BR': 'Sky s2 BR', 'LAS': 'XTN Sky'}",Mid,NaN
+KR,Gen.G,Doran,{},Sup,NaN
+KR,Gen.G,Peanut,{'KR': 'XiaoHuaSheng7'},Jungle,NaN
+KR,Gen.G,Chovy,{'None': ['KR: 냥똥벌레EUW: J1HUIVShrimp SharkNA: Jeremy Bernstein']},Mid,NaN
+KR,Gen.G,Peyz,{'None': ['KR: Gen G Peyz']},Bot,NaN
+KR,Gen.G,Delight,{'None': ['KR: BRO Delight']},Sup,NaN
+KR,Gen.G,ZEST,{'None': ['KR: ZEST1']},Top,NaN
+KR,Gen.G,Winner,{'None': ['KR: Gen G Winner']},Jungle,NaN
+KR,Gen.G,Lospa,{'None': ['KR: Gen G Lospa']},Sup,NaN
+KR,Gen.G,Carfe,{},Bot,NaN
+KR,Gen.G,Casting,{},Top,NaN
+KR,Gen.G,Ophelia,{'None': ['Gen G Ophelia KR  pOnYtAiLmAN']},Mid,NaN
+KR,Gen.G,Museong,{'None': ['KR: MS77']},Top,NaN
+KR,KWANGDONG FREECS,DuDu,{'None': ['KR: bie mo woEUW: Im fine thx you']},Top,NaN
+KR,KWANGDONG FREECS,YoungJae,{'None': ['KR: GEN G YoungJaeEUW: 9 19 Night']},Jungle,NaN
+KR,KWANGDONG FREECS,TaeYoon,{'None': ['KR: Yinyi zai ma ren']},Bot,NaN
+KR,KWANGDONG FREECS,Jun,"{'None': ['KR: DRX Jun', 'DRX 준', 'RXXX']}",Sup,NaN
+KR,KWANGDONG FREECS,BuLLDoG,{'None': ['KR: AF BuLLDoG']},Mid,NaN
+KR,KWANGDONG FREECS,Moham,{},Sup,NaN
+KR,KWANGDONG FREECS,IlllIma,{},Top,NaN
+KR,KWANGDONG FREECS,Cleaver,{},Mid,NaN
+KR,KWANGDONG FREECS,Lancer,{'None': ['KR: 정흠이']},Top,NaN
+KR,KWANGDONG FREECS,Bull,{},Bot,NaN
+KR,KWANGDONG FREECS,Andil,{},Sup,NaN
+KR,KWANGDONG FREECS,Courage,{'KR': '리브 커리지'},Jungle,NaN
+KR,DRX,Rascal,"{'None': ['KR: Gen G Rascal', 'RascalCN: donghaKimEUW: Hirai92Firefl0wer']}",Top,NaN
+KR,DRX,Croco,{'None': ['KR: gameovergameover 모두다함께차차차']},Jungle,NaN
+KR,DRX,FATE,{'None': ['KR: FATE어둠은지긋지긋해']},Mid,NaN
+KR,DRX,deokdam,{'None': ['KR: deokdamDWG KIA']},Bot,NaN
+KR,DRX,BeryL,{'None': ['KR: DWG BeryLCN: LandsolEUW: PekoPek0QJNVJuywetsf']},Sup,NaN
+KR,DRX,Pleata,{'None': ['KR: 잘해야만하는사람']},Sup,NaN
+KR,DRX,SeTab,{'None': ['KR: 갱값하는미드']},Mid,NaN
+KR,DRX,Piero,{'None': ['KR: 불만있음다표출해']},Sup,NaN
+KR,DRX,Sponge,{},Jungle,NaN
+KR,DRX,Starlit,{'None': ['KR: T1 R Mid']},Mid,NaN
+KR,DRX,Juhan,{'None': ['KR: Juhana']},Jungle,NaN
+KR,DRX,kyeahoo,{'None': ['KR: Yo제끼럽 왔썹']},Mid,NaN
+KR,DRX,Paduck,{'None': ['KR: Vyan']},Bot,NaN
+KR,DRX,Career,{},Sup,NaN
+KR,DRX,Frog,{},Top,NaN
+KR,DRX,Shine,{},Sup,NaN
+KR,Nongshim Redforce,DnDn,{'None': ['KR: DYN DnDn']},Top,NaN
+KR,Nongshim Redforce,Sylvie,{'None': ['KR: DYN Sylvie']},Jungle,NaN
+KR,Nongshim Redforce,FIESTA,{},Jungle,NaN
+KR,Nongshim Redforce,vital,{'EUW': ['Vital 0']},Bot,NaN
+KR,Nongshim Redforce,Peter,{},Sup,NaN
+KR,Nongshim Redforce,Quad,{'None': ['KR: coldniightCN: quadcat']},Mid,NaN
+KR,Nongshim Redforce,Mihile,{},Top,NaN
+KR,Nongshim Redforce,Sounda,{'None': ['KR: Fox B JingJing']},Jungle,NaN
+KR,Nongshim Redforce,Callme,{'None': ['KR: KT R MID']},Mid,NaN
+KR,Nongshim Redforce,Calix,{},Mid,NaN
+KR,Nongshim Redforce,Jiwoo,{},Bot,NaN
+KR,Nongshim Redforce,HH,{'None': ['KR: AF HH']},Sup,NaN
+KR,Liiv SANDBOX,Burdol,{'None': ['KR: Gen G BurdolKKilkkilGen G Jesus1Conor McGregor2duibuqimanEUW: Kimchi warrior1']},Top,NaN
+KR,Liiv SANDBOX,Willer,{'None': ['KR: 안녕나는야퉁퉁이EUW: White Whales']},Jungle,NaN
+KR,Liiv SANDBOX,Clozer,{'None': ['KR: Jh2nhj2rjohSo Bad1']},Mid,NaN
+KR,Liiv SANDBOX,Teddy,{'None': ['KR: TuTeddy  ecrrd EUW: I want winner']},Bot,NaN
+KR,Liiv SANDBOX,Kael,{'None': ['KR: Gen G Khael']},Sup,NaN
+KR,Liiv SANDBOX,Guti,{},Mid,NaN
+KR,Liiv SANDBOX,DDahyuk,{'KR': 'Liiv DDahyuk'},Top,NaN
+KR,Liiv SANDBOX,Vincenzo,{},Jungle,NaN
+KR,Liiv SANDBOX,Diable,{'None': ['KR: LSB AD1Top']},Bot,NaN
+KR,Liiv SANDBOX,PlanB,{},Sup,NaN
+KR,Liiv SANDBOX,Clear,{'None': ['KR: DRX Rudy']},Top,NaN
+LAT,AK,SKEETO,{'None': ['BR: 1Skeeto']},Top,NaN
+LAT,AK,Unforgiven,"{'None': ['BR: NT Unfor', 'Únforgiven', 'Toki0', 'Únfor', 'Ímprove', 'khan9', 'April 3NA: WolfwithoutMoonLAS: love sh0t']}",Jungle,NaN
+LAT,AK,NOBODY,"{'LAN': ['Travis Mills', 'waca cwaca'], 'NA': ['Agente Schrader', 'Shakiraluma']}",Mid,NaN
+LAT,AK,Horus,{'None': ['Hørus']},Bot,NaN
+LAT,AK,GASTRUKS,"{'None': ['BR: GastruhLAN: llaGastruks2NA: Son Mightybear', '5 n0vember']}",Sup,NaN
+LAT,AK,STEELLAR,"{'None': ['Steellar', 'CAMILF']}",Top,NaN
+LAT,AZE,Acce,"{'None': ['LAS: AcceleratorGG', 'FG Acce', 'HAF Yato', 'ICHIMARU GIN', 'Gilgamesh111BR: Seb Vettel', 'Acce1', 'Nugori', 'Ikki KCN: QWERTYYYYNA: TT1TT2']}",Top,NaN
+LAT,AZE,Ellim,{'None': ['KR: T1 Ellim인디언식최우제']},Jungle,NaN
+LAT,AZE,Aloned,"{'None': ['LAS: Aloned', 'Aloned2BR: FG Stark', 'i follow my mind', 'Igd xiyeNA: Aloned1CN: Aloned1']}",Mid,NaN
+LAT,AZE,Cheoni,{'None': ['KR: HLE Cheoni']},Bot,NaN
+LAT,AZE,Straight,"{'None': ['NA: R7R7R7R7R7', 'Straighttothetop']}",Sup,NaN
+LAT,AZE,IgnaVilu,{},Sup,NaN
+LAT,EST,Yang,"{'BR': ['Magodafarinha', 'y4ngi', 'yangoD'], 'EUW': ['China in Box'], 'KR': ['filho do makinha']}",Top,NaN
+LAT,EST,Zothve,{'None': ['BR: poison treeKR: no one know us']},Top,NaN
+LAT,EST,Josedeodo,{'None': ['NA: JosedeodoPinwinasioJosedeodo4BR: JosedeodoJosedeodo2CN: JosedeodoKR: EST Josedeodo']},Jungle,NaN
+LAT,EST,Leza,"{'None': ['NA: Drofazel', 'LezaCN: Aloned', 'upupandaway']}",Mid,NaN
+LAT,EST,Hans SamD,{'None': ['KR: Lifeisgood666']},Bot,NaN
+LAT,EST,Mia,{'None': ['KR: APK MiaNA: mla3']},Sup,NaN
+LAT,EST,Bola,{'None': ['TDT d Campechano']},Bot,NaN
+LAT,INF,ZOEN,{},Top,NaN
+LAT,INF,Solid,{},Mid,NaN
+LAT,INF,Keine,{'KR': ['9th keine']},Mid,NaN
+LAT,INF,5Kid,{'None': ['KR: 5kid']},Bot,NaN
+LAT,INF,ACKERMAN,"{'None': ['BR: ÁckermanNA: ACKÈRMANEUW: seventy thirty', 'ACKERMÁN']}",Sup,NaN
+LAT,ISG,Pan,{},Sup,NaN
+LAT,ISG,Seize,{},Jungle,NaN
+LAT,ISG,Kaze,{},Mid,NaN
+LAT,ISG,Gavotto,"{'None': ['NA: Gavotto', 'The Last Split']}",Bot,NaN
+LAT,ISG,Jelly,{},Sup,NaN
+LAT,ISG,KinGi,{},Jungle,NaN
+LAT,R7,Bong,{'None': ['EUW: BABO TOP']},Top,NaN
+LAT,R7,Oddie,"{'None': ['NA: lanjunglerxd', 'OddieSmurf,Lyon Oddie', 'NotASmartPlayer,naleiddo', 'Y1KESS', 'R7 JunglaLAS: Lyon Oddie', 'ISG OddieeBR: Oddiee', 'Lyon OddieEUW: ISG Oddie', 'llllllli,fYQ63qPMKID2rTtD', 'JGLATAM', 'Oddio']}",Jungle,NaN
+LAT,R7,Mireu,{'None': ['KR: T1 M1reuEUW: Mireu12']},Mid,NaN
+LAT,R7,Ceo,"{'None': ['LAS: CA Ceo', 'R7 CeøNA: benecio the boss', 'oxizo', 'Ceo7', 'whitemochacoffeBR: Ceo T TEUW: win in london']}",Bot,NaN
+LAT,R7,Lyonz,{'None': ['EUW: SHT JR10']},Sup,NaN
+LAT,R7,Daiky,{'None': ['daíky']},Jungle,NaN
+LAT,LEV,Rahab,{},Top,NaN
+LAT,LEV,Pancake,"{'None': ['NA: ad player', 'tempamrhuddiqjmw', 'AK Pancake', 'Levi Äckermän']}",Jungle,NaN
+LAT,LEV,Kiefer,"{'None': ['LAS: Kiefer NA: Rohtienocin', 'aszxcvgjazxc']}",Mid,NaN
+LAT,LEV,Nothing,{},Bot,NaN
+LAT,LEV,Shmebu,{},Sup,NaN
+LAT,LEV,Kraan,{},Sup,NaN
+LAT,6K,Meaning,{'None': ['KR: Gen G Meaning']},Top,NaN
+LAT,6K,OnFleek,{'None': ['KR: Liiv OnFleek']},Jungle,NaN
+LAT,6K,cody,"{'LAS': 'SKF SandeR, BSK Smurf çody, Willump and Nunu, 1cody, midplayer, DH Qody', 'NA': 'EseZeta, rookidˉ, Devicé, codystar', 'EUW': 'RPJIQTRD, kníght zz'}",Mid,NaN
+LAT,6K,SNAKER,{},Bot,NaN
+LAT,6K,Shu Hari,{},Sup,NaN
+LAT,6K,Hika,{},Bot,NaN
+NA,100 Thieves,Ssumday,{'NA': 'Ssumdayday'},Top,Top
+NA,100 Thieves,Closer,"{'None': ['NA: Closer100', 'Kral Closer', 'Itadori Yujî', '100T Closer', 'Closer 100EUW: Kral returns']}",Jungle,Jungle
+NA,100 Thieves,Quid,{'None': ['KR: Gen G Quid']},Mid,Mid
+NA,100 Thieves,Doublelift,"{'None': ['NA: Doublelift', 'Peng Yiliang', 'doubleliftfanboyEUW: i come in peace', 'american pubstarKR: one armed wolf', 'NA OMEGALULCN: 动漫主角']}",Bot,Bot
+NA,100 Thieves,Busio,"{'None': ['NA: Busio3', '100 Busio']}",Sup,Sup
+NA,100 Thieves,Jenkins,"{'None': ['NA: Vase Admirer', 'TL Jenkins']}",Top,Top
+NA,100 Thieves,Sniper,"{'None': ['NA: Sn1per1', '100 Sniper', 'dasdqwr1']}",Top,Top
+NA,Cloud9,Fudge,{'None': ['NA: C9 LebronMaxwell WaldoGenG NemesisEUW: HOQXSCRCChrollo LücilferC9 Fudge Factor']},Top,Top
+NA,Cloud9,Blaber,"{'KR': 'blaberfish2', 'EUW': 'C9 Blaberfish'}",Jungle,Jungle
+NA,Cloud9,EMENES,{},Mid,Mid
+NA,Cloud9,Berserker,{'None': ['KR: C9 Berserker']},Bot,Bot
+NA,Cloud9,Zven,{'None': ['NA: C9 ZvenC9 ZVENNNEUW: G2 ZveniLLaNC9 ZVENC9 ZVENNNKR: C9 Zvenotgt16BR: G2 Gimozzi']},Sup,Sup
+NA,Dignitas,Rich,{'None': ['KR: 농심 리치']},Top,Top
+NA,Dignitas,Santorin,{'None': ['NA: SantorinTL SantorinLiquid SantorinEUW: JetlagIsAMythKR: TSM SupermanKoreanBBQ OPCN: Viking国王']},Jungle,Jungle
+NA,Dignitas,Jensen,"{'None': ['NA: Jmønéy', 'stayawayzEUW: lanekingdom12021Worlds0019KR: Liquid Jensen구름구 젠슨JensenCN: Jensenn']}",Mid,Mid
+NA,Dignitas,Tomo,{'None': ['NA: Tomo9']},Bot,Bot
+NA,Dignitas,Poome,{'None': ['NA: CLG poome']},Sup,Sup
+NA,Dignitas,Diamond,{'None': ['NA: FLY Diamond']},Sup,Sup
+NA,Dignitas,eXyu,{'None': ['NA: eXyu']},Jungle,Jungle
+NA,Evil Geniuses,Revenge,"{'None': ['NA: Revenge', 'Revenge Immortal']}",Top,Top
+NA,Evil Geniuses,Armao,"{'None': ['NA: elise player', 'Grig1', 'TL Armao']}",Jungle,Jungle
+NA,Evil Geniuses,Jojopyun,{'NA': 'jojopyun 16'},Mid,Mid
+NA,Evil Geniuses,UNF0RGIVEN,{},Bot,Bot
+NA,Evil Geniuses,Eyla,{},Sup,Sup
+NA,Evil Geniuses,Sheiden,"{'None': ['NA: Sheiden', 'TwtchTV Sheiden']}",Jungle,Jungle
+NA,Evil Geniuses,Inspired,{'None': ['EUW: time wiII tellSοfm JrCN: Roguefan123']},Jungle,Jungle
+NA,FlyQuest,Impact,"{'None': ['NA: EG ImpactKR: 어녕이', '구름구매운고추', '올반명란만두EUW: Ang gimori', 'msi1819']}",Top,Top
+NA,FlyQuest,Spica,"{'NA': 'TSM Spica, ASTROBOY99, Spica1, ONETRICKPOLICE', 'CN': '河道肾, Beabadoobee'}",Jungle,Jungle
+NA,FlyQuest,VicLa,{'None': ['KR: KTA MID']},Mid,Mid
+NA,FlyQuest,Prince,{'None': ['KR: 가고싶다 룰드컵원딜 왕자 이채환']},Bot,Bot
+NA,FlyQuest,Vulcan,"{'NA': 'C9 VULCANNN', 'EUW': 'LAFLAMME 01'}",Sup,Sup
+NA,FlyQuest,Yuuji,{},Jungle,Jungle
+NA,FlyQuest,Massu,{'None': ['NA: Blacc Massu']},Bot,Bot
+NA,FlyQuest,Winsome,{'KR': 'Shadow Winsome'},Sup,Sup
+NA,Golden Guardians,Licorice,"{'NA': 'Licorice', 'KR': '서쪽에서 최고', 'EUW': 'bwipobwipobwipo'}",Top,Top
+NA,Golden Guardians,River,{'None': ['KR: River9bai ri mengla ji gameEUW: IcelandboyIcelandwinter']},Jungle,Jungle
+NA,Golden Guardians,Gori,{'KR': 'GGGori'},Mid,Mid
+NA,Golden Guardians,Stixxay,"{'None': ['NA: IPlayYouListen', 'StixxayKR: CLG Sticker']}",Bot,Bot
+NA,Golden Guardians,Huhi,"{'None': ['NA: haru dad', '70ping gamerhuhiKR: 웅옹웅EUW: Banande']}",Sup,Sup
+NA,Golden Guardians,Array,{'None': ['NA: DPM']},Bot,Bot
+NA,Golden Guardians,Niles,{'None': ['NA: Niles']},Top,Top
+NA,Immortals,Tactical,"{'None': ['NA: Tactical', 'Tactical0EUW: UnstoppableForceCN: avatar1']}",Bot,Bot
+NA,Immortals,Treatz,"{'None': ['EUW: SK TreatzNA: TSM Treatz', 'IkeaSmurferCN: 纸板人', 'TrTz']}",Sup,Sup
+NA,Immortals,Ablazeolive,"{'None': ['NA: Ablazeolive', 'GG DN Ablaze']}",Mid,Mid
+NA,NRG,Dhokla,"{'None': ['NA: Dhokla', 'ONETRICKPOLICE']}",Top,Top
+NA,NRG,Contractz,{'None': ['NA: Contractz']},Jungle,Jungle
+NA,NRG,Palafox,{'None': ['NA: Palafox2004 07 08']},Mid,Mid
+NA,NRG,FBI,"{'None': ['NA: ADCADC123', 'Outplaymachine12EUW:NA HopiumKR: VIPERFANBOY1']}",Bot,Bot
+NA,NRG,IgNar,"{'None': ['KR: IgNarEUW: Fantastic Duo2', 'ANSN']}",Sup,Sup
+NA,NRG,Copy,"{'None': ['NA: 100 Copy', 'Copý', 'Ctrl C', 'oGoDs', 'C9 Copy']}",Mid,Mid
+NA,Team Liquid,Summit,{'None': ['KR: Liiv Summit']},Top,Top
+NA,Team Liquid,Pyosik,{'None': ['KR: DRX 홍창현CN: washingchingDDaoNA: jg is weakkkk']},Jungle,Jungle
+NA,Team Liquid,APA,{'None': ['NA: MU APA']},Mid,Mid
+NA,Team Liquid,Yeon,{'None': ['NA: TL Yeon']},Bot,Bot
+NA,Team Liquid,CoreJJ,{'None': ['NA: TL Honda CoreJJFrom IronDalgona latteKR: DiuqilMataLehendsLife1521819delCoreJangJeonLiquid MedicEUW: BOL4NanamiHakuyaCN: avatar2']},Sup,Sup
+NA,Team Liquid,Bradley,{'None': ['NA: bradleyyy']},Top,Top
+NA,Team Liquid,Mir,{'None': ['KR: T1 M1reuEUW: Mireu12']},Mid,Jungle
+NA,Team Liquid,Haeri,{},Mid,Mid
+NA,Team Liquid,Arrow,"{'None': ['KR: arrowioi', '조 울NA: HappyBeePlayer', '200pingAD']}",Bot,Bot
+NA,Team Liquid,Kim Down,{'None': ['NA: Down Kim']},Sup,Sup
+NA,TSM,Hauntzer,"{'KR': ['ice', 'Sanic Boom', 'New Experience', 'Venersis', 'ZheXue', 'Wolhaiksong'], 'BR': ['DaJiaHao'], 'NA': ['Kholin', 'Bongdong420']}",Top,Top
+NA,TSM,Bugi,"{'None': ['KR: 버기해적단 버기', '엽북이NA: My Dream LCS', 'FG Bugi', 'FG Bugi1', 'From Rank1']}",Jungle,Jungle
+NA,TSM,Wildturtle,{'None': ['NA: WildTurtleFZ3R0alien lingKR: American IMPYuNg TuRtLeBR: te amo coxinhaCN: turtle']},Bot,Bot
+NA,TSM,Chime,"{'None': ['NA: CHIME', 'Chime2']}",Sup,Sup
+OCE,Dire Wolves,zorenous,{},Top,Top
+OCE,Dire Wolves,sHAKa,{},Jungle,Jungle
+OCE,Dire Wolves,Chazz,{'None': ['EUW: infinity361']},Mid,Mid
+OCE,Dire Wolves,Praedyth,{'None': ['EUW: LostPhonePlsFind']},Bot,Bot
+OCE,Dire Wolves,Decoy,{'None': ['EUW: Andromache1']},Sup,Sup
+OCE,Dire Wolves,Vxpir,{},Sup,Sup
+OCE,Team Bliss,Lived,{'None': ['EUW: yoRHa No3 Type E']},Top,Top
+OCE,Team Bliss,Whynot,{},Jungle,Jungle
+OCE,Team Bliss,Daystar,{'None': ['KR: 정이라고 하쟈']},Mid,Mid
+OCE,Team Bliss,leemas,{},Bot,Bot
+OCE,Team Bliss,Akia,{},Sup,Sup
+OCE,Team Bliss,Beats,{},Sup,Substitute
+OCE,Kanga Esports,Blue,{},Top,Top
+OCE,Kanga Esports,papryze,{},Top,Top
+OCE,Kanga Esports,Meifan,{},Jungle,Jungle
+OCE,Kanga Esports,fighto,{},Mid,Mid
+OCE,Kanga Esports,Voice,{},Bot,Bot
+OCE,Kanga Esports,Shinki,{},Top,Sup
+OCE,Kanga Esports,Jayke,"{'None': ['Trident Jayke', 'taylorswift13']}",Sup,Sup
+OCE,Mammoth Esports Club,Thien,{},Top,Top
+OCE,Mammoth Esports Club,Souli,{},Jungle,Jungle
+OCE,Mammoth Esports Club,District 1,{},Jungle,Jungle
+OCE,Mammoth Esports Club,Sasi,{},Jungle,Jungle
+OCE,Mammoth Esports Club,DaJeung,{},Mid,Mid
+OCE,Mammoth Esports Club,Chayon,{},Bot,Bot
+OCE,Mammoth Esports Club,Hexflash,{'OCE': ['LFT HAYDEN 2023']},Sup,Sup
+OCE,Mammoth Esports Club,Yursan,{},Sup,Sup
+OCE,Mammoth Esports Club,Entrust,{},Sup,Sup
+OCE,Ground Zero Gaming,Tron,{},Top,Top
+OCE,Ground Zero Gaming,Gooby,{},Top,Jungle
+OCE,Ground Zero Gaming,mfis,{},Mid,Mid
+OCE,Ground Zero Gaming,Eiko,{},Bot,Bot
+OCE,Ground Zero Gaming,Bulldawg,{},Sup,Sup
+OCE,Ground Zero Gaming,Reu,{},Mid,Substitute
+OCE,Vertex,Tomasino,{},Top,Top
+OCE,Vertex,Woodon,{},Top,Top
+OCE,Vertex,4ever,{},Jungle,Jungle
+OCE,Vertex,Goodo,{},Jungle,Jungle
+OCE,Vertex,Chirp,{},Mid,Mid
+OCE,Vertex,Siuman,{},Mid,Mid
+OCE,Vertex,danteh,{},Bot,Bot
+OCE,Vertex,Rosey,"{'NA': ['iM Rosey intel', 'iM Venom intel'], 'None': ['iM Venôm intel', 'Venom', 'EXO Grimtongue', 'Chief Rosey', 'Sin Rosey']}",Sup,Sup
+OCE,Pentanet.GG,Chippys,"{'None': ['OCE: Chippys FightoNA: Chippys', 'MASSGAINER44']}",Top,Top
+OCE,Pentanet.GG,SHERNFIRE,"{'None': ['DW shernfire ROC', 'sans pareil']}",Jungle,Jungle
+OCE,Pentanet.GG,DONGGY,{},Mid,Mid
+OCE,Pentanet.GG,Violet,{'None': ['EUW: St0ne Fr33']},Bot,Bot
+OCE,Pentanet.GG,Apii,{},Sup,Sup
+OCE,Pentanet.GG,foreigner,{},Jungle,Substitute
+OCE,The Chiefs,BioPanther,{'None': ['EUW: Big Bicep Bdon']},Top,Top
+OCE,The Chiefs,Kevy,{},Jungle,Jungle
+OCE,The Chiefs,Babip,{'None': ['EUW: Canyon fans']},Jungle,Jungle
+OCE,The Chiefs,Kisee,{},Mid,Mid
+OCE,The Chiefs,Raes,"{'None': ['Zeratul', 'Raes']}",Bot,Bot
+OCE,The Chiefs,Aladoric,{'None': ['EUW: cirodalA']},Sup,Sup
+OCE,The Chiefs,Cupcake,{},Sup,Sup
+PCS,CTBC FLYING OYSTER (CFO),Rest,"{'None': ['KR: BMKING', 'reqszxEUW: no15ff']}",Top,Top
+PCS,CTBC FLYING OYSTER (CFO),Gemini,"{'None': ['TW: 戥心誣戥KR: MCX Gemini', '20180111']}",Jungle,Jungle
+PCS,CTBC FLYING OYSTER (CFO),JimieN,{},Mid,Mid
+PCS,CTBC FLYING OYSTER (CFO),Shunn,{},Bot,Bot
+PCS,CTBC FLYING OYSTER (CFO),ShiauC,"{'None': ['KR: lagluckygame', 'ShiaC', 'SAUC']}",Sup,Sup
+PCS,CTBC FLYING OYSTER (CFO),S1aytrue,{},Sup,Sup
+PCS,Deep Cross Gaming (DCG),Hanabi,{'None': ['TW: NaruseShirohaKR: NaruseSh1rohaShirakami Fubuk1EUW: Illya is my wifeShirakamiFubukiiKafuu chin0']},Top,Top
+PCS,Deep Cross Gaming (DCG),Hana,{'None': ['TW: 蔡胖是花 KR: Ocean lordEUW: fritzlimoorange']},Jungle,Jungle
+PCS,Deep Cross Gaming (DCG),Mission,"{'None': ['KR: wo 4 chicken', 'mide gui tou', 'm15510nEUW: Iloveberlin']}",Mid,Mid
+PCS,Deep Cross Gaming (DCG),Cryscata,{'TW': '水晶霖'},Bot,Bot
+PCS,Deep Cross Gaming (DCG),Orca,{'TW': 'Usotsuki'},Sup,Sup
+PCS,Deep Cross Gaming (DCG),665,{},Jungle,Jungle
+PCS,Dewish Team(DWT),JP6RU8,"{'TW': 'JP6RU8, 天行魂, Haerin16'}",Top,Top
+PCS,Dewish Team(DWT),WSL,{},Jungle,Jungle
+PCS,Dewish Team(DWT),xiaotu,{},Mid,Mid
+PCS,Dewish Team(DWT),Pepero,{'TW': '滿命胡桃'},Bot,Bot
+PCS,Dewish Team(DWT),Hako,{},Bot,Bot
+PCS,Dewish Team(DWT),EnHoa,{},Sup,Sup
+PCS,Impunity Esports (IMP),Atlen,{},Bot,Bot
+PCS,Impunity Esports (IMP),LJW,{},Top,Top
+PCS,Impunity Esports (IMP),Arashi,{},Jungle,Jungle
+PCS,Impunity Esports (IMP),Shera,{},Mid,Mid
+PCS,Impunity Esports (IMP),Blaze,{},Bot,Bot
+PCS,Impunity Esports (IMP),Smerv,{},Sup,Sup
+PCS,Impunity Esports (IMP),Felia,{},Sup,Sup
+PCS,Beyond Gaming (BYG),LIKAI,{},Top,Top
+PCS,Beyond Gaming (BYG),Kongyue,"{'None': ['TW: 殘破空月', 'KongyueKR: MAD Kongyue', 'FA Kongyue']}",Jungle,Jungle
+PCS,Beyond Gaming (BYG),1116,{'None': ['KR: UMBBBBBBBBBTHE 1116EUW: UMBBBBBBBBBBB']},Mid,Mid
+PCS,Beyond Gaming (BYG),Feng,{'None': ['KR: Dispel haze']},Sup,Bot
+PCS,Beyond Gaming (BYG),Betty,"{'None': ['KR: S1mpIe', 'TheDarkForest', 'Uravity', 'FVV BETTY', 'BeTnT1EUW: TWgaoxuecheng']}",Bot,Bot
+PCS,Beyond Gaming (BYG),Keres,{},Sup,Sup
+PCS,Hell Pigs (HPS),Taco,{},Top,Top
+PCS,Hell Pigs (HPS),Hong2,{},Jungle,Jungle
+PCS,Hell Pigs (HPS),Adiogs,{},Mid,Mid
+PCS,Hell Pigs (HPS),Tide,{},Bot,Bot
+PCS,Hell Pigs (HPS),IC8,{'None': ['TW: IC8']},Sup,Sup
+PCS,PSG Talon (PSG),Azhi,{'None': ['史上最小的志']},Top,Top
+PCS,PSG Talon (PSG),Husha,{'None': ['KR: mohuadoEUW: HSFFFFFFFFFF']},Jungle,Jungle
+PCS,PSG Talon (PSG),Maple,{'None': ['TW: yoeFW Maple楓棠歲月KR: MapleStory300IVAlphaGo 0026933784del95150225delI dont deserveSlowly SongEUW: AlphaGo 003Full C0unterViikingr']},Mid,Mid
+PCS,PSG Talon (PSG),Wako,{},Bot,Bot
+PCS,PSG Talon (PSG),Woody,{},Sup,Sup
+PCS,PSG Talon (PSG),HongSuo,{'None': ['TW: 一律轟鎖']},Mid,Mid
+PCS,PSG Talon (PSG),JunJia,{'None': ['KR: a little story진주는함냐의국가EUW: Expecto Patrounm']},Jungle,Jungle
+PCS,West Point Esports (WP),Relhia,{},Top,Top
+PCS,West Point Esports (WP),665,{},Jungle,Jungle
+PCS,West Point Esports (WP),NuL1,{'None': ['中路型玩家I']},Mid,Mid
+PCS,West Point Esports (WP),Agrona,{},Mid,Mid
+PCS,West Point Esports (WP),Prage,{},Bot,Bot
+PCS,West Point Esports (WP),Cha,{},Sup,Sup
+PCS,Taipei J Team (JT),Driver,{},Top,Top
+PCS,Taipei J Team (JT),Minji,{},Mid,Mid
+PCS,Taipei J Team (JT),Bruce,"{'None': ['KR: MCX Bruce', 'wangejiba']}",Bot,Bot
+PCS,Taipei J Team (JT),Enso,{},Sup,Sup
+PCS,Taipei J Team (JT),Lauva,{'TW': '我呼風喚雨'},Jungle,Jungle
+PCS,Taipei J Team (JT),RenYe,{},Jungle,Jungle
+PCS,Taipei J Team (JT),Whale,{},Bot,Bot
+PCS,Frank Esports (FAK),Solokill,{},Top,Top
+PCS,Frank Esports (FAK),KennyChan,{},Jungle,Jungle
+PCS,Frank Esports (FAK),Holo,{},Jungle,Jungle
+PCS,Frank Esports (FAK),Pretender,{'KR) Pretender ': ['OverNothing']},Mid,Mid
+PCS,Frank Esports (FAK),MnM,{},Bot,Bot
+PCS,Frank Esports (FAK),Kaiwing,{'None': ['TW: qqqqwwwwweatDIE EATdieKR: H2O Manlast day 1아이마스 타카네EUW: Phoenix SSIceland H2OManYTSearch Hanabi']},Sup,Sup
+VN,,Kiaya,{'None': ['VN: 14 1 4 29 4KR: Hakunaa MatataNA: HelloAmericaa']},Top,Top
+VN,,Levi,{'None': ['VN: Capta1n LeviKR: young talentNA: L 5 22 9']},Jungle,Jungle
+VN,,Kati,"{'VN': ['ˆKati', 'T 4 1 2 9 7'], 'KR': ['dsakdmxzc']}",Mid,Mid
+VN,,Slayder,{'None': ['KR: Slayder one']},Bot,Bot
+VN,,Zin,{'KR': ['Tiger Bengali']},Sup,Sup
+VN,,Palette,{'None': ['VN: Dear PaletteKR: Nanno1']},Sup,Sub/Support
+VN,,playcool,{},Mid,Sub/Mid
+VN,,Stead,{},Top,Sub/Top
+VN,,Coated,{'KR': ['3 cham']},Top,Top
+VN,,Gury,{},Jungle,Jungle
+VN,,Ego,{},Jungle,Sub/Jungle
+VN,,Froggy,{'KR': ['uouououououou']},Mid,Mid
+VN,,Blazes,"{'VN': ['Tryna play cool'], 'KR': ['VCS Player']}",Mid,Sub/Mid
+VN,,Shogun,{},Bot,Bot
+VN,,Slay,"{'None': ['VN: GAM supKR: 몹시 웃기다EUW: Yasunda hi', 'ISM da boon']}",Sup,Sup
+VN,,Hiro02,{},Top,Sub/Top
+VN,,Hasmed,{'VN': ['Hasmed']},Top,Top
+VN,,Qiang,{},Jungle,Jungle
+VN,,Kratos,{},Top,Sub/Jungle
+VN,,Artifact,{'None': ['KR: badtripvldo3']},Mid,Mid
+VN,,Aress,{},Mid,Sub/Mid
+VN,,Eddie,{},Bot,Bot
+VN,,Kwhite,{},Bot,Sub/Bot
+VN,,Taki,{},Sup,Sup
+VN,,Nper,{},Top,Top
+VN,,DNK,"{'VN': ['ˆNDKˆ'], 'KR': ['DNK01']}",Jungle,Jungle
+VN,,Penguin,{},Jungle,Jungle
+VN,,Dia1,{'None': ['VN: conheomapKR: tieu chovy']},Mid,Mid
+VN,,Vinboiz,{'KR': ['bettersupcanwin']},Bot,Sub/Bot
+VN,,Palette,{'None': ['VN: Dear PaletteKR: Nanno1']},Sup,Sup
+VN,,Pun,{'VN': ['YB No1Pun']},Top,Top
+VN,,Jewel,{},Jungle,Sub/Jungle
+VN,,Richard I,{},Mid,Mid
+VN,,TT789,{},Mid,Sub/Mid
+VN,,Pyshiro,{},Bot,Bot
+VN,,Elio,{},Sup,Sup
+VN,,Joyboy,{},Mid,Sub/Support
+VN,,Ikigai,{},Jungle,Jungle
+VN,,Sparda,{'KR': ['top gap new game']},Top,Top
+VN,,Bean J,{'KR': ['BJJJJJJJJJJJJ']},Jungle,Jungle
+VN,,Gloryy,{},Mid,Mid
+VN,,Artemis,{'VN': ['SGD Artemis']},Bot,Bot
+VN,,Vit,{},Bot,Sub/Bot
+VN,,Bie,"{'VN': ['duchjeu hue'], 'KR': ['huhuhuhu']}",Sup,Sup
+VN,,CBL,{'KR': ['지원 챔피언']},Sup,Sub/Support
+VN,,Marcus,{},Top,Sub/Top
+VN,,Yoshino,{'None': ['VN: Yoshikawa YuukoKR: Zeros1EUW: GAM Yoshinoo']},Top,Top
+VN,,Draktharr,{'KR': ['pessimisticx']},Jungle,Sub/Jungle
+VN,,Phuc1,{},Jungle,Jungle
+VN,,Jane,{},Mid,Mid
+VN,,Puddin,{},Bot,Bot
+VN,,Sora2,{},Sup,Sub/Support
+VN,,Hieu3,{'KR': ['caubenhaycam']},Sup,Sup
+VN,,Yuki,{},Sup,Top
+VN,,Sorn,{},Jungle,Jungle
+VN,,Emo,{},Mid,Sub/Mid
+VN,,Nugu,"{'VN': '211221', 'KR': '우주를 줄게 1802'}",Mid,Mid
+VN,,Slowz,{},Top,Bot
+VN,,Zodiac,{'VN': ['Zodiac12']},Sup,Sup
+VN,,Ryuk,{},Top,Sub/Top
