@@ -14,7 +14,7 @@ def filter_df_in_period(df:pd.DataFrame, filter_dict:dict, return_filter:bool=Fa
     The dictionary should be in the form {column_name: [[period], inverse]}. Refer to the example below.
     If the period is a list of strings, the filter will accept all values that are in the list. 
     If it's a numerical list, the filter will accept all values that are in the range of the list.
-    If inverse is True, the filter will be inverted.
+    If inverse is True, the filter will be inverted. If not specified, it defaults to False (returns the normal, non-inverted filter).
     If return_filter is True, returns a boolean mask of the dataframe instead of the dataframe itself. This is useful for
     when you want to apply the same filter to multiple dataframes.
 
