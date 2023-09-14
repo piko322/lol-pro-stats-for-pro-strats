@@ -3,9 +3,9 @@ import numpy as np
 
 
 
-def _filter_period(series:pd.Series, period:list=[-1,31]):
+def _filter_period(series:pd.Series, period:list=[-1,9999999]):
     if type(period[0]) != str:
-        period = np.arange(period[0], period[1]+1)
+        return series.between(period[0], period[1])
     return series.isin(period)
 
 def filter_df_in_period(df:pd.DataFrame, filter_dict:dict, return_filter:bool=False) -> pd.DataFrame or np.ndarray:
